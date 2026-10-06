@@ -1,0 +1,2 @@
+C:\Users\33587\Desktop\诗语言\tools\_cluster_faces.py:10: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  px = list(im.getdata())

@@ -1,0 +1,1 @@
+window.POEM_DB=window.POEM_DB||{};POEM_DB["han_043"]={"n":"刘騊駼","dyn":"汉","poems":[{"t":"诗","f":"五言古诗","c":["缥碧以为瓦。"]}]};

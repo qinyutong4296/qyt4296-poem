@@ -1,0 +1,852 @@
+[
+  {
+    "id": "fan-kuan-travelers",
+    "title": "溪山行旅图",
+    "artist": "范宽",
+    "dynasty": "宋",
+    "era": "northsong",
+    "motifs": ["mountain", "travel", "waterfall", "pine", "mist"],
+    "scenes": ["mountain", "travel", "zen"],
+    "commons": "Fan Kuan - Travelers Among Mountains and Streams.jpg"
+  },
+  {
+    "id": "guo-xi-early-spring",
+    "title": "早春图",
+    "artist": "郭熙",
+    "dynasty": "宋",
+    "era": "northsong",
+    "motifs": ["mountain", "mist", "spring", "pine", "water"],
+    "scenes": ["mountain", "spring", "mist"],
+    "commons": "Guo Xi - Early Spring.jpg"
+  },
+  {
+    "id": "li-tang-pine-wind",
+    "title": "万壑松风图",
+    "artist": "李唐",
+    "dynasty": "宋",
+    "era": "song",
+    "motifs": ["pine", "mountain", "wind", "mist", "waterfall"],
+    "scenes": ["pine", "mountain", "wind"],
+    "commons": "Li Tang Pine Wind Midst Mountains.jpg"
+  },
+  {
+    "id": "li-tang-river",
+    "title": "江山小景",
+    "artist": "李唐",
+    "dynasty": "宋",
+    "era": "song",
+    "motifs": ["mountain", "water", "boat", "mist"],
+    "scenes": ["river", "mountain", "travel"],
+    "commons": "Li Tang - Intimate Scenery of River and Mountains.jpg"
+  },
+  {
+    "id": "xia-gui-streams",
+    "title": "溪山清远图",
+    "artist": "夏圭",
+    "dynasty": "宋",
+    "era": "southsong",
+    "motifs": ["mountain", "water", "mist", "boat", "bridge"],
+    "scenes": ["river", "mountain", "travel"],
+    "commons": "Xia Gui - Pure and Remote View of Streams and Mountains - right half.jpg"
+  },
+  {
+    "id": "ma-yuan-spring-path",
+    "title": "山径春行图",
+    "artist": "马远",
+    "dynasty": "宋",
+    "era": "southsong",
+    "motifs": ["spring", "willow", "mountain", "figure", "blossom"],
+    "scenes": ["spring", "mountain", "travel"],
+    "commons": "Ma Yuan - Walking on a Mountain Path in Spring.jpg"
+  },
+  {
+    "id": "ma-yuan-water",
+    "title": "水图·秋水回波",
+    "artist": "马远",
+    "dynasty": "宋",
+    "era": "southsong",
+    "motifs": ["water", "autumn", "mist"],
+    "scenes": ["river", "autumn"],
+    "commons": "Ma Yuan - Water Album - The Waving Surface of the Autumn Flood.jpg"
+  },
+  {
+    "id": "ma-lin-listening",
+    "title": "静听松风图",
+    "artist": "马麟",
+    "dynasty": "宋",
+    "era": "southsong",
+    "motifs": ["pine", "wind", "figure", "mountain"],
+    "scenes": ["pine", "wind", "zen"],
+    "commons": "Ma Lin - Listening to the Wind in the Pines.jpg"
+  },
+  {
+    "id": "zhao-mengfu-autumn",
+    "title": "鹊华秋色图",
+    "artist": "赵孟頫",
+    "dynasty": "元",
+    "era": "yuan",
+    "motifs": ["autumn", "mountain", "water", "leaves", "hut"],
+    "scenes": ["autumn", "mountain", "home"],
+    "commons": "2 Zhao Mengfu Autumn Colors on the Qiao and Hua Mountains Handscroll, ink and colors on paper, 28.4 x 93.2 cm National Palace Museum, Taipei..jpg"
+  },
+  {
+    "id": "huang-gongwang-fuchun",
+    "title": "富春山居图（局部）",
+    "artist": "黄公望",
+    "dynasty": "元",
+    "era": "yuan",
+    "motifs": ["mountain", "water", "hut", "mist", "pine"],
+    "scenes": ["mountain", "home", "river"],
+    "commons": "Huang Gongwang - Dwelling in the Fuchun Mountains.jpg"
+  },
+  {
+    "id": "ni-zan-rongxi",
+    "title": "容膝斋图",
+    "artist": "倪瓒",
+    "dynasty": "元",
+    "era": "yuan",
+    "motifs": ["hut", "mist", "water", "mountain", "bamboo"],
+    "scenes": ["home", "zen", "mountain"],
+    "commons": "Ni Zan - The Rongxi Studio.jpg"
+  },
+  {
+    "id": "wang-meng-dwelling",
+    "title": "青卞隐居图",
+    "artist": "王蒙",
+    "dynasty": "元",
+    "era": "yuan",
+    "motifs": ["mountain", "hut", "pine", "mist", "waterfall"],
+    "scenes": ["mountain", "home", "zen"],
+    "commons": "Wang Meng - Dwelling in the Qingbian Mountains.jpg"
+  },
+  {
+    "id": "wu-zhen-fisherman",
+    "title": "渔父图",
+    "artist": "吴镇",
+    "dynasty": "元",
+    "era": "yuan",
+    "motifs": ["boat", "water", "figure", "mist", "bamboo"],
+    "scenes": ["river", "travel", "home"],
+    "commons": "Wu Zhen - Fisherman.jpg"
+  },
+  {
+    "id": "shen-zhou-poet",
+    "title": "登山图",
+    "artist": "沈周",
+    "dynasty": "明",
+    "era": "ming",
+    "motifs": ["mountain", "figure", "mist", "pine"],
+    "scenes": ["mountain", "travel", "zen"],
+    "commons": "Shen Zhou - Poet on a Mountaintop.jpg"
+  },
+  {
+    "id": "wen-zhengming-spring",
+    "title": "真赏斋图",
+    "artist": "文徵明",
+    "dynasty": "明",
+    "era": "ming",
+    "motifs": ["hut", "pine", "mountain", "spring", "mist"],
+    "scenes": ["home", "spring", "zen"],
+    "commons": "Wen Zhengming - Humble House.jpg"
+  },
+  {
+    "id": "tang-yin-mountain",
+    "title": "骑驴归思图",
+    "artist": "唐寅",
+    "dynasty": "明",
+    "era": "ming",
+    "motifs": ["mountain", "figure", "horse", "mist", "pine"],
+    "scenes": ["travel", "mountain", "home"],
+    "commons": "Tang Yin - Returning Home.jpg"
+  },
+  {
+    "id": "qiu-ying-spring",
+    "title": "春游晚归图",
+    "artist": "仇英",
+    "dynasty": "明",
+    "era": "ming",
+    "motifs": ["spring", "figure", "willow", "mountain", "pavilion"],
+    "scenes": ["spring", "travel", "farewell"],
+    "commons": "Qiu Ying - Spring Outing.jpg"
+  },
+  {
+    "id": "dong-qichang-landscape",
+    "title": "山水图",
+    "artist": "董其昌",
+    "dynasty": "明",
+    "era": "ming",
+    "motifs": ["mountain", "mist", "water", "pine"],
+    "scenes": ["mountain", "zen"],
+    "commons": "Dong Qichang - Landscape.jpg"
+  },
+  {
+    "id": "bada-lotus",
+    "title": "荷花小鸟",
+    "artist": "朱耷（八大山人）",
+    "dynasty": "清",
+    "era": "qing",
+    "motifs": ["blossom", "water", "geese", "rock"],
+    "scenes": ["spring", "autumn", "zen"],
+    "commons": "Bada Shanren - Lotus and Birds.jpg"
+  },
+  {
+    "id": "shitao-waterfall",
+    "title": "山水清音",
+    "artist": "石涛",
+    "dynasty": "清",
+    "era": "qing",
+    "motifs": ["mountain", "waterfall", "mist", "pine", "figure"],
+    "scenes": ["mountain", "zen", "travel"],
+    "commons": "Shitao - Landscape with waterfall.jpg"
+  },
+  {
+    "id": "yun-shouping-lotus",
+    "title": "出水芙蓉",
+    "artist": "恽寿平",
+    "dynasty": "清",
+    "era": "qing",
+    "motifs": ["blossom", "water", "orchid"],
+    "scenes": ["spring", "love"],
+    "commons": "Yun Shouping - Lotus.jpg"
+  },
+  {
+    "id": "zheng-xie-bamboo",
+    "title": "竹石图",
+    "artist": "郑燮（板桥）",
+    "dynasty": "清",
+    "era": "qing",
+    "motifs": ["bamboo", "rock"],
+    "scenes": ["bamboo", "zen"],
+    "commons": "Zheng Xie - Bamboo and Rock.jpg"
+  },
+  {
+    "id": "jin-nong-plum",
+    "title": "墨梅图",
+    "artist": "金农",
+    "dynasty": "清",
+    "era": "qing",
+    "motifs": ["plum", "blossom", "snow", "moon"],
+    "scenes": ["plum", "snow", "night"],
+    "commons": "Jin Nong - Plum Blossoms.jpg"
+  },
+  {
+    "id": "wang-hui-landscape",
+    "title": "山水图",
+    "artist": "王翚",
+    "dynasty": "清",
+    "era": "qing",
+    "motifs": ["mountain", "water", "mist", "pine", "hut"],
+    "scenes": ["mountain", "home", "river"],
+    "commons": "Wang Hui - Landscape.jpg"
+  },
+  {
+    "id": "xu-daoning-fishing",
+    "title": "渔父图",
+    "artist": "许道宁",
+    "dynasty": "宋",
+    "era": "northsong",
+    "motifs": ["mountain", "boat", "water", "figure", "mist"],
+    "scenes": ["river", "mountain", "travel"],
+    "commons": "Xu Daoning - Fishermen.jpg"
+  },
+  {
+    "id": "li-cheng-temple",
+    "title": "晴峦萧寺图",
+    "artist": "李成",
+    "dynasty": "宋",
+    "era": "northsong",
+    "motifs": ["mountain", "temple", "mist", "pine", "waterfall"],
+    "scenes": ["mountain", "zen", "temple"],
+    "commons": "Li Cheng - A Solitary Temple Amid Clearing Peaks.jpg"
+  },
+  {
+    "id": "zhao-lingrang-river",
+    "title": "湖庄清夏图",
+    "artist": "赵令穰",
+    "dynasty": "宋",
+    "era": "song",
+    "motifs": ["willow", "water", "mist", "hut", "geese"],
+    "scenes": ["spring", "home", "river"],
+    "commons": "Zhao Lingrang - Summer Mist along the Lake Shore.jpg"
+  },
+  {
+    "id": "liang-kai-immortal",
+    "title": "泼墨仙人图",
+    "artist": "梁楷",
+    "dynasty": "宋",
+    "era": "southsong",
+    "motifs": ["figure", "wine", "zen"],
+    "scenes": ["wine", "zen", "dream"],
+    "commons": "Liang Kai - Immortal in Splashed Ink.jpg"
+  },
+  {
+    "id": "muqi-persimmons",
+    "title": "六柿图",
+    "artist": "牧溪",
+    "dynasty": "宋",
+    "era": "southsong",
+    "motifs": ["zen", "leaves"],
+    "scenes": ["zen", "autumn"],
+    "commons": "Muqi - Six Persimmons.jpg"
+  },
+  {
+    "id": "muqi-guanyin",
+    "title": "观音猿鹤图（局部）",
+    "artist": "牧溪",
+    "dynasty": "宋",
+    "era": "southsong",
+    "motifs": ["geese", "mist", "zen", "bamboo"],
+    "scenes": ["zen", "night"],
+    "commons": "Muqi Fachang - Guanyin, Crane and Gibbons.jpg"
+  },
+  {
+    "id": "yan-wengui-pavilions",
+    "title": "楼阁山水",
+    "artist": "燕文贵",
+    "dynasty": "宋",
+    "era": "northsong",
+    "motifs": ["pavilion", "mountain", "mist", "water"],
+    "scenes": ["mountain", "travel"],
+    "commons": "Yan Wengui - Pavilions and Mansions by the River.jpg"
+  },
+  {
+    "id": "zhao-boju-autumn",
+    "title": "江山秋色图",
+    "artist": "赵伯驹",
+    "dynasty": "宋",
+    "era": "song",
+    "motifs": ["autumn", "mountain", "water", "pavilion", "leaves"],
+    "scenes": ["autumn", "mountain", "travel"],
+    "commons": "Zhao Boju - Autumn Colors on Rivers and Mountains.jpg"
+  },
+  {
+    "id": "wang-xizhi-orchid",
+    "title": "兰亭图意",
+    "artist": "传世摹本风",
+    "dynasty": "晋",
+    "era": "antique",
+    "motifs": ["orchid", "water", "willow", "figure", "pavilion"],
+    "scenes": ["spring", "farewell", "orchid"],
+    "commons": "Orchid Pavilion Gathering.jpg"
+  },
+  {
+    "id": "anonymous-night-moon",
+    "title": "月夜山水",
+    "artist": "佚名（宋人）",
+    "dynasty": "宋",
+    "era": "song",
+    "motifs": ["moon", "night", "mountain", "water", "mist"],
+    "scenes": ["moon", "night", "dream"],
+    "commons": "Anonymous - Moonlit Landscape.jpg"
+  },
+  {
+    "id": "ma-yuan-moon",
+    "title": "月下把杯图",
+    "artist": "马远",
+    "dynasty": "宋",
+    "era": "southsong",
+    "motifs": ["moon", "wine", "figure", "night", "pavilion"],
+    "scenes": ["moon", "wine", "night", "love"],
+    "commons": "Ma Yuan - Viewing Plum Blossoms by Moonlight.jpg"
+  },
+  {
+    "id": "wang-mian-plum",
+    "title": "墨梅图",
+    "artist": "王冕",
+    "dynasty": "元",
+    "era": "yuan",
+    "motifs": ["plum", "blossom", "snow"],
+    "scenes": ["plum", "snow", "night"],
+    "commons": "Wang Mian - Ink Plum Blossoms.jpg"
+  },
+  {
+    "id": "xu-wei-grapes",
+    "title": "墨葡萄图",
+    "artist": "徐渭",
+    "dynasty": "明",
+    "era": "ming",
+    "motifs": ["blossom", "leaves", "wine"],
+    "scenes": ["autumn", "wine", "zen"],
+    "commons": "Xu Wei - Grapes.jpg"
+  },
+  {
+    "id": "chen-hongshou-figure",
+    "title": "人物山水",
+    "artist": "陈洪绶",
+    "dynasty": "明",
+    "era": "ming",
+    "motifs": ["figure", "pine", "rock", "blossom"],
+    "scenes": ["zen", "wine", "love"],
+    "commons": "Chen Hongshou - Immortal under Pine.jpg"
+  },
+  {
+    "id": "gong-xian-landscape",
+    "title": "山水图",
+    "artist": "龚贤",
+    "dynasty": "清",
+    "era": "qing",
+    "motifs": ["mountain", "mist", "hut", "pine"],
+    "scenes": ["mountain", "home", "rain"],
+    "commons": "Gong Xian - Landscape.jpg"
+  },
+  {
+    "id": "hongren-landscape",
+    "title": "黄山图意",
+    "artist": "弘仁",
+    "dynasty": "清",
+    "era": "qing",
+    "motifs": ["mountain", "pine", "mist", "rock"],
+    "scenes": ["mountain", "zen", "pine"],
+    "commons": "Hongren - Landscape.jpg"
+  },
+  {
+    "id": "kun-can-temple",
+    "title": "层岩叠壑图",
+    "artist": "髡残",
+    "dynasty": "清",
+    "era": "qing",
+    "motifs": ["mountain", "temple", "mist", "waterfall", "pine"],
+    "scenes": ["mountain", "zen"],
+    "commons": "Kuncan - Layered Peaks and Dense Forests.jpg"
+  },
+  {
+    "id": "hua-yan-snow",
+    "title": "雪景山水",
+    "artist": "华嵒",
+    "dynasty": "清",
+    "era": "qing",
+    "motifs": ["snow", "mountain", "mist", "hut", "geese"],
+    "scenes": ["snow", "mountain", "home"],
+    "commons": "Hua Yan - Snow Landscape.jpg"
+  },
+  {
+    "id": "ren-yi-flower",
+    "title": "花鸟图",
+    "artist": "任颐（伯年）",
+    "dynasty": "清",
+    "era": "qing",
+    "motifs": ["blossom", "geese", "willow", "spring"],
+    "scenes": ["spring", "love"],
+    "commons": "Ren Yi - Birds and Flowers.jpg"
+  },
+  {
+    "id": "wu-changshuo-plum",
+    "title": "红梅图",
+    "artist": "吴昌硕",
+    "dynasty": "清",
+    "era": "modern",
+    "motifs": ["plum", "blossom", "rock"],
+    "scenes": ["plum", "spring"],
+    "commons": "Wu Changshuo - Plum Blossoms.jpg"
+  },
+  {
+    "id": "qi-baishi-shrimp",
+    "title": "虾趣图",
+    "artist": "齐白石",
+    "dynasty": "现代",
+    "era": "modern",
+    "motifs": ["water", "zen"],
+    "scenes": ["river", "zen"],
+    "commons": "Qi Baishi - Shrimps.jpg"
+  },
+  {
+    "id": "zhang-daqian-lotus",
+    "title": "泼彩荷花",
+    "artist": "张大千",
+    "dynasty": "现代",
+    "era": "modern",
+    "motifs": ["blossom", "water", "mist"],
+    "scenes": ["spring", "autumn", "love"],
+    "commons": "Zhang Daqian - Lotus.jpg"
+  },
+  {
+    "id": "jing-hao-mount-lu",
+    "title": "匡庐图",
+    "artist": "荆浩",
+    "dynasty": "五代",
+    "era": "northsong",
+    "motifs": ["mountain", "waterfall", "pine", "mist", "temple"],
+    "scenes": ["mountain", "zen"],
+    "commons": "Jing Hao - Mount Lu.jpg"
+  },
+  {
+    "id": "guan-tong-waiting",
+    "title": "关山行旅图",
+    "artist": "关仝",
+    "dynasty": "五代",
+    "era": "northsong",
+    "motifs": ["mountain", "travel", "mist", "hut", "pine"],
+    "scenes": ["travel", "mountain", "frontier"],
+    "commons": "Guan Tong - Travelers in the Mountains.jpg"
+  },
+  {
+    "id": "dong-yuan-xiao-xiang",
+    "title": "潇湘图",
+    "artist": "董源",
+    "dynasty": "五代",
+    "era": "northsong",
+    "motifs": ["water", "mist", "boat", "mountain", "willow"],
+    "scenes": ["river", "farewell", "spring"],
+    "commons": "Dong Yuan - Wintry Groves and Layered Banks.jpg"
+  },
+  {
+    "id": "ju-ran-mountain",
+    "title": "秋山问道图",
+    "artist": "巨然",
+    "dynasty": "五代",
+    "era": "northsong",
+    "motifs": ["mountain", "autumn", "mist", "temple", "pine"],
+    "scenes": ["mountain", "autumn", "zen"],
+    "commons": "Juran - Buddhist Retreat by Stream and Mountains.jpg"
+  },
+  {
+    "id": "mi-fu-cloud",
+    "title": "春山瑞松图",
+    "artist": "米芾（传）",
+    "dynasty": "宋",
+    "era": "song",
+    "motifs": ["mist", "mountain", "pine", "spring"],
+    "scenes": ["mountain", "mist", "spring", "rain"],
+    "commons": "Mi Fu - Spring Mountains and Pine Trees.jpg"
+  },
+  {
+    "id": "li-di-snow",
+    "title": "雪树寒禽图",
+    "artist": "李迪",
+    "dynasty": "宋",
+    "era": "song",
+    "motifs": ["snow", "geese", "bamboo", "rock"],
+    "scenes": ["snow", "autumn"],
+    "commons": "Li Di - Birds in Snow.jpg"
+  },
+  {
+    "id": "cui-bai-magpies",
+    "title": "双喜图",
+    "artist": "崔白",
+    "dynasty": "宋",
+    "era": "northsong",
+    "motifs": ["geese", "leaves", "autumn", "wind"],
+    "scenes": ["autumn", "wind", "farewell"],
+    "commons": "Cui Bai - Magpies and Hare.jpg"
+  },
+  {
+    "id": "lin-chun-grape",
+    "title": "果熟来禽图",
+    "artist": "林椿",
+    "dynasty": "宋",
+    "era": "song",
+    "motifs": ["blossom", "geese", "leaves"],
+    "scenes": ["spring", "autumn"],
+    "commons": "Lin Chun - Birds and Fruit.jpg"
+  },
+  {
+    "id": "zhao-chang-flower",
+    "title": "写生蛱蝶图",
+    "artist": "赵昌",
+    "dynasty": "宋",
+    "era": "song",
+    "motifs": ["blossom", "orchid", "spring"],
+    "scenes": ["spring", "love"],
+    "commons": "Zhao Chang - Butterflies and Flowers.jpg"
+  },
+  {
+    "id": "emperor-huizong-crane",
+    "title": "瑞鹤图",
+    "artist": "赵佶",
+    "dynasty": "宋",
+    "era": "song",
+    "motifs": ["geese", "pavilion", "mist", "sky"],
+    "scenes": ["spring", "nation"],
+    "commons": "Emperor Huizong - Auspicious Cranes.jpg"
+  },
+  {
+    "id": "li-songnian-boat",
+    "title": "赤壁图",
+    "artist": "李嵩",
+    "dynasty": "宋",
+    "era": "song",
+    "motifs": ["boat", "water", "moon", "mountain", "figure"],
+    "scenes": ["river", "moon", "wine", "night"],
+    "commons": "Li Song - Red Cliff.jpg"
+  },
+  {
+    "id": "xia-gui-snow",
+    "title": "雪堂客话图",
+    "artist": "夏圭",
+    "dynasty": "宋",
+    "era": "southsong",
+    "motifs": ["snow", "hut", "mountain", "mist", "pine"],
+    "scenes": ["snow", "home", "zen"],
+    "commons": "Xia Gui - Snowy Landscape.jpg"
+  },
+  {
+    "id": "ma-yuan-rain",
+    "title": "风雨山水",
+    "artist": "马远",
+    "dynasty": "宋",
+    "era": "southsong",
+    "motifs": ["rain", "wind", "mountain", "mist", "willow"],
+    "scenes": ["rain", "wind", "travel"],
+    "commons": "Ma Yuan - Bare Willows and Distant Mountains.jpg"
+  },
+  {
+    "id": "dai-jin-returning",
+    "title": "风雨归舟图",
+    "artist": "戴进",
+    "dynasty": "明",
+    "era": "ming",
+    "motifs": ["rain", "boat", "wind", "mountain", "water"],
+    "scenes": ["rain", "river", "travel"],
+    "commons": "Dai Jin - Returning Boat in Wind and Rain.jpg"
+  },
+  {
+    "id": "lan-ying-autumn",
+    "title": "秋山图",
+    "artist": "蓝瑛",
+    "dynasty": "明",
+    "era": "ming",
+    "motifs": ["autumn", "mountain", "leaves", "mist"],
+    "scenes": ["autumn", "mountain"],
+    "commons": "Lan Ying - Autumn Mountains.jpg"
+  },
+  {
+    "id": "yun-xiang-bamboo",
+    "title": "墨竹图",
+    "artist": "管道升（传）",
+    "dynasty": "元",
+    "era": "yuan",
+    "motifs": ["bamboo", "rock"],
+    "scenes": ["bamboo", "zen"],
+    "commons": "Guan Daosheng - Bamboo.jpg"
+  },
+  {
+    "id": "wen-tong-bamboo",
+    "title": "墨竹图",
+    "artist": "文同",
+    "dynasty": "宋",
+    "era": "song",
+    "motifs": ["bamboo"],
+    "scenes": ["bamboo", "zen"],
+    "commons": "Wen Tong - Ink Bamboo.jpg"
+  },
+  {
+    "id": "su-shi-bamboo",
+    "title": "枯木竹石图",
+    "artist": "苏轼（传）",
+    "dynasty": "宋",
+    "era": "song",
+    "motifs": ["bamboo", "rock", "barewood", "wine"],
+    "scenes": ["bamboo", "wine", "zen"],
+    "commons": "Su Shi - Old Tree, Bamboo and Rock.jpg"
+  },
+  {
+    "id": "zhao-mengjian-orchid",
+    "title": "墨兰图",
+    "artist": "赵孟坚",
+    "dynasty": "宋",
+    "era": "song",
+    "motifs": ["orchid"],
+    "scenes": ["orchid", "zen"],
+    "commons": "Zhao Mengjian - Orchid.jpg"
+  },
+  {
+    "id": "zheng-sixiao-orchid",
+    "title": "墨兰图",
+    "artist": "郑思肖",
+    "dynasty": "宋",
+    "era": "song",
+    "motifs": ["orchid", "leaves"],
+    "scenes": ["orchid", "nation", "zen"],
+    "commons": "Zheng Sixiao - Ink Orchid.jpg"
+  },
+  {
+    "id": "luo-ping-ghost",
+    "title": "鬼趣图意",
+    "artist": "罗聘",
+    "dynasty": "清",
+    "era": "qing",
+    "motifs": ["night", "moon", "mist", "figure"],
+    "scenes": ["night", "dream", "moon"],
+    "commons": "Luo Ping - Ghost Amusement.jpg"
+  },
+  {
+    "id": "huang-shen-willow",
+    "title": "柳下人物",
+    "artist": "黄慎",
+    "dynasty": "清",
+    "era": "qing",
+    "motifs": ["willow", "figure", "spring"],
+    "scenes": ["spring", "farewell", "home"],
+    "commons": "Huang Shen - Figure under Willow.jpg"
+  },
+  {
+    "id": "li-fangying-plum",
+    "title": "墨梅图",
+    "artist": "李方膺",
+    "dynasty": "清",
+    "era": "qing",
+    "motifs": ["plum", "blossom", "snow"],
+    "scenes": ["plum", "snow"],
+    "commons": "Li Fangying - Plum Blossoms.jpg"
+  },
+  {
+    "id": "wang-yuanqi-landscape",
+    "title": "仿古山水",
+    "artist": "王原祁",
+    "dynasty": "清",
+    "era": "qing",
+    "motifs": ["mountain", "mist", "water", "pine"],
+    "scenes": ["mountain", "zen"],
+    "commons": "Wang Yuanqi - Landscape after Huang Gongwang.jpg"
+  },
+  {
+    "id": "four-wang-yun-shouping-peak",
+    "title": "峰峦叠嶂",
+    "artist": "王时敏",
+    "dynasty": "清",
+    "era": "qing",
+    "motifs": ["mountain", "mist", "pine", "hut"],
+    "scenes": ["mountain", "home"],
+    "commons": "Wang Shimin - Landscape.jpg"
+  },
+  {
+    "id": "anonymous-frontier",
+    "title": "边塞行旅",
+    "artist": "佚名",
+    "dynasty": "宋",
+    "era": "song",
+    "motifs": ["fort", "horse", "mountain", "wind", "snow"],
+    "scenes": ["frontier", "travel", "nation"],
+    "commons": "Anonymous - Travelers on Horseback.jpg"
+  },
+  {
+    "id": "zhou-chen-beggars",
+    "title": "流民图意",
+    "artist": "周臣",
+    "dynasty": "明",
+    "era": "ming",
+    "motifs": ["figure", "hut", "wind"],
+    "scenes": ["home", "travel", "field"],
+    "commons": "Zhou Chen - Beggars and Street Characters.jpg"
+  },
+  {
+    "id": "wen-zhengming-orchid",
+    "title": "兰竹图",
+    "artist": "文徵明",
+    "dynasty": "明",
+    "era": "ming",
+    "motifs": ["orchid", "bamboo"],
+    "scenes": ["orchid", "bamboo", "zen"],
+    "commons": "Wen Zhengming - Orchid and Bamboo.jpg"
+  },
+  {
+    "id": "shen-zhou-lufu",
+    "title": "庐山高图",
+    "artist": "沈周",
+    "dynasty": "明",
+    "era": "ming",
+    "motifs": ["mountain", "waterfall", "pine", "mist", "figure"],
+    "scenes": ["mountain", "zen"],
+    "commons": "Shen Zhou - Lofty Mount Lu.jpg"
+  },
+  {
+    "id": "qiu-ying-peach",
+    "title": "桃源仙境图",
+    "artist": "仇英",
+    "dynasty": "明",
+    "era": "ming",
+    "motifs": ["blossom", "mountain", "water", "pavilion", "spring"],
+    "scenes": ["spring", "dream", "home"],
+    "commons": "Qiu Ying - Peach Blossom Spring.jpg"
+  },
+  {
+    "id": "tang-yin-farewell",
+    "title": "渭水桥图意",
+    "artist": "唐寅",
+    "dynasty": "明",
+    "era": "ming",
+    "motifs": ["willow", "bridge", "farewell", "water", "figure"],
+    "scenes": ["farewell", "spring", "travel"],
+    "commons": "Tang Yin - Farewell at Xunyang.jpg"
+  },
+  {
+    "id": "xia-gui-boat",
+    "title": "遥山书雁图意",
+    "artist": "夏圭",
+    "dynasty": "宋",
+    "era": "southsong",
+    "motifs": ["boat", "geese", "mountain", "mist", "water"],
+    "scenes": ["river", "autumn", "farewell"],
+    "commons": "Xia Gui - Sailboat in Rainstorm.jpg"
+  },
+  {
+    "id": "ma-yuan-fishing",
+    "title": "寒江独钓图",
+    "artist": "马远",
+    "dynasty": "宋",
+    "era": "southsong",
+    "motifs": ["boat", "water", "figure", "mist", "snow"],
+    "scenes": ["river", "zen", "snow", "winter"],
+    "commons": "Ma Yuan - Angler on a Wintry Lake.jpg"
+  },
+  {
+    "id": "li-gonglin-horse",
+    "title": "五马图（局部）",
+    "artist": "李公麟",
+    "dynasty": "宋",
+    "era": "song",
+    "motifs": ["horse", "figure"],
+    "scenes": ["frontier", "travel", "nation"],
+    "commons": "Li Gonglin - Five Horses.jpg"
+  },
+  {
+    "id": "zhao-mengfu-horse",
+    "title": "人马图",
+    "artist": "赵孟頫",
+    "dynasty": "元",
+    "era": "yuan",
+    "motifs": ["horse", "figure"],
+    "scenes": ["frontier", "travel"],
+    "commons": "Zhao Mengfu - Man and Horse.jpg"
+  },
+  {
+    "id": "anonymous-chrys",
+    "title": "菊花图",
+    "artist": "佚名",
+    "dynasty": "清",
+    "era": "qing",
+    "motifs": ["chrys", "autumn", "leaves"],
+    "scenes": ["chrys", "autumn"],
+    "commons": "Anonymous - Chrysanthemums.jpg"
+  },
+  {
+    "id": "yun-shouping-chrys",
+    "title": "菊花图",
+    "artist": "恽寿平",
+    "dynasty": "清",
+    "era": "qing",
+    "motifs": ["chrys", "autumn"],
+    "scenes": ["chrys", "autumn"],
+    "commons": "Yun Shouping - Chrysanthemums.jpg"
+  },
+  {
+    "id": "shen-quan-crane",
+    "title": "松鹤图",
+    "artist": "沈铨",
+    "dynasty": "清",
+    "era": "qing",
+    "motifs": ["pine", "geese", "mountain"],
+    "scenes": ["pine", "spring"],
+    "commons": "Shen Quan - Pine and Cranes.jpg"
+  },
+  {
+    "id": "jiang-tingxi-bird",
+    "title": "花鸟图",
+    "artist": "蒋廷锡",
+    "dynasty": "清",
+    "era": "qing",
+    "motifs": ["blossom", "geese", "spring"],
+    "scenes": ["spring", "love"],
+    "commons": "Jiang Tingxi - Birds and Flowers.jpg"
+  }
+]

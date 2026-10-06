@@ -1,0 +1,2174 @@
+{
+ "xq_003": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "xq_006": {
+  "verdict": "fail",
+  "reason": "statue"
+ },
+ "han_002": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "han_003": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_004": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_005": {
+  "verdict": "fail",
+  "reason": "statue"
+ },
+ "han_006": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_007": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "han_008": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_009": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_010": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_011": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_012": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_013": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_014": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_016": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_017": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_018": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_019": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "han_020": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_021": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_023": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_024": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_025": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "han_026": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_027": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_029": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_030": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "han_031": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "han_032": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_033": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "han_034": {
+  "verdict": "fail",
+  "reason": "statue"
+ },
+ "han_035": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "han_036": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "han_037": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "han_038": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "han_039": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_040": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "han_041": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "han_042": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_045": {
+  "verdict": "fail",
+  "reason": "modern-photo"
+ },
+ "han_046": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "han_047": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "han_049": {
+  "verdict": "fail",
+  "reason": "statue"
+ },
+ "han_051": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_052": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_053": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "han_054": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_055": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_056": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_057": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_058": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_059": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "han_060": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_061": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_062": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "han_066": {
+  "verdict": "fail",
+  "reason": "statue"
+ },
+ "han_067": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "han_069": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_070": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_072": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "han_073": {
+  "verdict": "fail",
+  "reason": "statue"
+ },
+ "han_074": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_075": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_076": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "han_077": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "han_078": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_079": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "han_080": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_003": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_004": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_006": {
+  "verdict": "fail",
+  "reason": "statue"
+ },
+ "wj_007": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_008": {
+  "verdict": "fail",
+  "reason": "statue"
+ },
+ "wj_010": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_011": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_012": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_013": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_014": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_016": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_017": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "caocao": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_019": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_020": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_021": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_022": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_023": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_024": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_025": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_028": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_029": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_030": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_031": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_032": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_033": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_034": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_035": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_036": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_037": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_038": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_040": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_041": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_042": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_043": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_044": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_045": {
+  "verdict": "fail",
+  "reason": "non-classical"
+ },
+ "wj_046": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_047": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_048": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_049": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_050": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_051": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_052": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_053": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_055": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_056": {
+  "verdict": "fail",
+  "reason": "statue"
+ },
+ "wj_057": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_058": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_060": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_061": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_062": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_063": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_064": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_065": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_066": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_067": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_068": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_069": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_072": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_073": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_074": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_075": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_076": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_078": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_079": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_080": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_083": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_084": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_086": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_087": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_088": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_089": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_090": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_092": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_093": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_095": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_096": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_099": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "wj_100": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_001": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "nbc_002": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "nbc_003": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "nbc_005": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "nbc_006": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "nbc_007": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "nbc_008": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "nbc_009": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "nbc_011": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "nbc_012": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_013": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "nbc_014": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "nbc_015": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_016": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "nbc_017": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_018": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "nbc_019": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "nbc_020": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "nbc_021": {
+  "verdict": "fail",
+  "reason": "modern-photo"
+ },
+ "nbc_022": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "nbc_023": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "nbc_024": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "nbc_026": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "nbc_027": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "nbc_028": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_029": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "nbc_030": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_031": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_032": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_033": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "nbc_034": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_035": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_036": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_037": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_038": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_039": {
+  "verdict": "fail",
+  "reason": "statue"
+ },
+ "nbc_040": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_041": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "nbc_042": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_043": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_044": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "nbc_045": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_046": {
+  "verdict": "fail",
+  "reason": "statue"
+ },
+ "nbc_047": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_048": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_049": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_051": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_052": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_054": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_055": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "nbc_056": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_057": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "nbc_058": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "nbc_060": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_061": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_062": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_063": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_064": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_065": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_066": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "nbc_068": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_069": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "nbc_070": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_072": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_073": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_074": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_075": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_076": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_077": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_079": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_081": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_082": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "nbc_083": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_084": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_085": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "nbc_086": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_087": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_088": {
+  "verdict": "fail",
+  "reason": "modern-photo"
+ },
+ "nbc_089": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_090": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_091": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_092": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_093": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_094": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "nbc_096": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "nbc_097": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_098": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_099": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "nbc_100": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_002": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "sui_003": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "sui_004": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "sui_005": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "sui_006": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "sui_007": {
+  "verdict": "fail",
+  "reason": "non-classical"
+ },
+ "sui_008": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_009": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_010": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_012": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_016": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_017": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_018": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_019": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_021": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_024": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_027": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "sui_029": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_030": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "sui_031": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_032": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_035": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_037": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "sui_039": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_040": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_041": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_042": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_045": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_048": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_051": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_052": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_055": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_056": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "sui_057": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_060": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_062": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_063": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_064": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "sui_066": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_070": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_071": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_072": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_074": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_075": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_076": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "sui_078": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "libai": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_006": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_007": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_008": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "lishangyin": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "weiyingwu": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_011": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_012": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_013": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "mengjiao": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_015": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_017": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_018": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_019": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_020": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_022": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_023": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "jiadao": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_027": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_029": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_030": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_031": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_032": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_033": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_034": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_035": {
+  "verdict": "fail",
+  "reason": "placeholder"
+ },
+ "tang_036": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_037": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_038": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_039": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_040": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_041": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_042": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_043": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_044": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_045": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_049": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_050": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_051": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_052": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "zhangjiuling": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_054": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wj_026": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_055": {
+  "verdict": "fail",
+  "reason": "statue"
+ },
+ "tang_056": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_059": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_060": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_061": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_062": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_063": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_066": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_067": {
+  "verdict": "fail",
+  "reason": "non-classical"
+ },
+ "tang_068": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_069": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_070": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_072": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_073": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_074": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_076": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_077": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_080": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_081": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_083": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_085": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_087": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_089": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_091": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_094": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_097": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_098": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_099": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "tang_100": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wangzhihuan": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "zhangruoxu": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wd_001": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wd_002": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wd_009": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wd_011": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wd_017": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wd_018": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wd_019": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wd_022": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wd_025": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wd_028": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wd_031": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wd_045": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wd_047": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "luyou": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_002": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yangwanli": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_010": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_012": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_013": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_015": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_016": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_017": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_019": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_020": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_022": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_023": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_025": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_027": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_029": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "xinqiji": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_035": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_037": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_039": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_043": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_044": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_046": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_048": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_049": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_051": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_052": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_054": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_055": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_056": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_063": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_064": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_065": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_068": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_069": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_073": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_076": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_077": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_078": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_079": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_082": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_083": {
+  "verdict": "fail",
+  "reason": "statue"
+ },
+ "song_084": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_087": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_090": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_092": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_093": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_094": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_096": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_097": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "song_098": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yanshu": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "liuyong": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "zhoubangyan": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "liqingzhao": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "liao_001": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "liao_006": {
+  "verdict": "fail",
+  "reason": "statue"
+ },
+ "jin_001": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "jin_005": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "jin_008": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "jin_050": {
+  "verdict": "fail",
+  "reason": "non-classical"
+ },
+ "jin_059": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_001": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_006": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_008": {
+  "verdict": "fail",
+  "reason": "non-classical"
+ },
+ "yuan_009": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "wangmian": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_013": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_014": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_016": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_019": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_021": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "mazhiyuan": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_026": {
+  "verdict": "fail",
+  "reason": "modern-photo"
+ },
+ "yuan_027": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_028": {
+  "verdict": "fail",
+  "reason": "modern-photo"
+ },
+ "yuan_030": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_032": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_033": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_041": {
+  "verdict": "fail",
+  "reason": "statue"
+ },
+ "yuan_044": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_045": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_050": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_051": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_054": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_055": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_061": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_066": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_070": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_071": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_072": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_075": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_077": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_079": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_080": {
+  "verdict": "fail",
+  "reason": "statue"
+ },
+ "yuan_081": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_082": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_083": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_084": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_085": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_086": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_092": {
+  "verdict": "fail",
+  "reason": "statue"
+ },
+ "yuan_095": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_096": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "yuan_098": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_006": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_007": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_008": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_009": {
+  "verdict": "fail",
+  "reason": "statue"
+ },
+ "ming_010": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_013": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_014": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_017": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_018": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_022": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_024": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_028": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_029": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_030": {
+  "verdict": "fail",
+  "reason": "statue"
+ },
+ "ming_033": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_036": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_039": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_044": {
+  "verdict": "fail",
+  "reason": "statue"
+ },
+ "ming_048": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_051": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_052": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_059": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_060": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_063": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_065": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_066": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_069": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_071": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_074": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_080": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_081": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_083": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_084": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_087": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_093": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_096": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "ming_097": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "qing_001": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "qing_002": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "qing_003": {
+  "verdict": "fail",
+  "reason": "modern-photo"
+ },
+ "qing_004": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "qing_005": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "qing_009": {
+  "verdict": "fail",
+  "reason": "modern-photo"
+ },
+ "qing_010": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "qing_022": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "qing_025": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "qing_026": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "qing_031": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "qing_038": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "qing_039": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "qing_048": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "qing_049": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "qing_055": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "qing_057": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "qing_059": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "qing_060": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "qing_063": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "qing_064": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "qing_065": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "qing_066": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "qing_068": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "qing_082": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "qing_086": {
+  "verdict": "fail",
+  "reason": "modern-photo"
+ },
+ "qing_093": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "qing_095": {
+  "verdict": "fail",
+  "reason": "modern-photo"
+ },
+ "qing_096": {
+  "verdict": "pass",
+  "reason": ""
+ },
+ "zhengxie": {
+  "verdict": "pass",
+  "reason": ""
+ }
+}

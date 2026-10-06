@@ -1,0 +1,1 @@
+window.POEM_DB=window.POEM_DB||{};POEM_DB["han_059"]={"n":"杜笃","dyn":"汉","poems":[{"t":"京师上巳篇","f":"七言古诗","c":["窈窕淑女美胜艳，妃戴翡翠珥明珠。"]}]};

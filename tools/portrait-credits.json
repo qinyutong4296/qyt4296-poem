@@ -1,0 +1,3206 @@
+[
+ {
+  "id": "wj_026",
+  "name": "曹睿",
+  "dynasty": "魏晋",
+  "file": "wj_026.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9B%B9%E7%9D%BF",
+  "image": "https://oss.guwendao.net/authorImg300/caorui.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_056",
+  "name": "施肩吾",
+  "dynasty": "唐",
+  "file": "tang_056.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%96%BD%E8%82%A9%E5%90%BE",
+  "image": "https://oss.guwendao.net/authorImg300/shijianwu.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_059",
+  "name": "宋之问",
+  "dynasty": "唐",
+  "file": "tang_059.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%AE%8B%E4%B9%8B%E9%97%AE",
+  "image": "https://oss.guwendao.net/authorImg300/songzhiwen.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_060",
+  "name": "李频",
+  "dynasty": "唐",
+  "file": "tang_060.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%8E%E9%A2%91",
+  "image": "https://oss.guwendao.net/authorImg300/lipin.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_061",
+  "name": "鲍溶",
+  "dynasty": "唐",
+  "file": "tang_061.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%B2%8D%E6%BA%B6",
+  "image": "https://oss.guwendao.net/authorImg300/baorong.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_062",
+  "name": "李咸用",
+  "dynasty": "唐",
+  "file": "tang_062.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%8E%E5%92%B8%E7%94%A8",
+  "image": "https://oss.guwendao.net/authorImg300/lixianyong.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_063",
+  "name": "武元衡",
+  "dynasty": "唐",
+  "file": "tang_063.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%AD%A6%E5%85%83%E8%A1%A1",
+  "image": "https://oss.guwendao.net/authorImg300/wuyuanheng.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_066",
+  "name": "陈陶",
+  "dynasty": "唐",
+  "file": "tang_066.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%99%88%E9%99%B6",
+  "image": "https://oss.guwendao.net/authorImg300/chentao.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_068",
+  "name": "朱庆馀",
+  "dynasty": "唐",
+  "file": "tang_068.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9C%B1%E5%BA%86%E9%A6%80",
+  "image": "https://oss.guwendao.net/authorImg300/zhuqingyu.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_069",
+  "name": "李益",
+  "dynasty": "唐",
+  "file": "tang_069.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%8E%E7%9B%8A",
+  "image": "https://oss.guwendao.net/authorImg300/liyi.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_070",
+  "name": "张乔",
+  "dynasty": "唐",
+  "file": "tang_070.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%BC%A0%E4%B9%94",
+  "image": "https://oss.guwendao.net/authorImg300/zhangqiao.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_072",
+  "name": "李洞",
+  "dynasty": "唐",
+  "file": "tang_072.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%8E%E6%B4%9E",
+  "image": "https://oss.guwendao.net/authorImg300/lidong.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_073",
+  "name": "司空曙",
+  "dynasty": "唐",
+  "file": "tang_073.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%8F%B8%E7%A9%BA%E6%9B%99",
+  "image": "https://oss.guwendao.net/authorImg300/sikongshu.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_074",
+  "name": "杨巨源",
+  "dynasty": "唐",
+  "file": "tang_074.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%A8%E5%B7%A8%E6%BA%90",
+  "image": "https://oss.guwendao.net/authorImg300/yangjuyuan.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_076",
+  "name": "唐彦谦",
+  "dynasty": "唐",
+  "file": "tang_076.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%94%90%E5%BD%A6%E8%B0%A6",
+  "image": "https://oss.guwendao.net/authorImg300/tangyanqian.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_077",
+  "name": "曹唐",
+  "dynasty": "唐",
+  "file": "tang_077.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9B%B9%E5%94%90",
+  "image": "https://oss.guwendao.net/authorImg300/caotang.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_080",
+  "name": "沈佺期",
+  "dynasty": "唐",
+  "file": "tang_080.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%B2%88%E4%BD%BA%E6%9C%9F",
+  "image": "https://oss.guwendao.net/authorImg300/shenquanqi.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_081",
+  "name": "罗邺",
+  "dynasty": "唐",
+  "file": "tang_081.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%BD%97%E9%82%BA",
+  "image": "https://oss.guwendao.net/authorImg300/luoye.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_083",
+  "name": "曹松",
+  "dynasty": "唐",
+  "file": "tang_083.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9B%B9%E6%9D%BE",
+  "image": "https://oss.guwendao.net/authorImg300/caosong.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_085",
+  "name": "李绅",
+  "dynasty": "唐",
+  "file": "tang_085.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%8E%E7%BB%85",
+  "image": "https://oss.guwendao.net/authorImg300/lishen.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_087",
+  "name": "李德裕",
+  "dynasty": "唐",
+  "file": "tang_087.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%8E%E5%BE%B7%E8%A3%95",
+  "image": "https://oss.guwendao.net/authorImg300/lideyu.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_089",
+  "name": "李涉",
+  "dynasty": "唐",
+  "file": "tang_089.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%8E%E6%B6%89",
+  "image": "https://oss.guwendao.net/authorImg300/lishe.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_091",
+  "name": "吴筠",
+  "dynasty": "唐",
+  "file": "tang_091.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%90%B4%E7%AD%A0",
+  "image": "https://oss.guwendao.net/authorImg300/wuyun.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_094",
+  "name": "李颀",
+  "dynasty": "唐",
+  "file": "tang_094.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%8E%E9%A2%80",
+  "image": "https://oss.guwendao.net/authorImg300/liqi.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_097",
+  "name": "卢仝",
+  "dynasty": "唐",
+  "file": "tang_097.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%8D%A2%E4%BB%9D",
+  "image": "https://oss.guwendao.net/authorImg300/lutong.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_098",
+  "name": "吕温",
+  "dynasty": "唐",
+  "file": "tang_098.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%90%95%E6%B8%A9",
+  "image": "https://oss.guwendao.net/authorImg300/lvwen.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_099",
+  "name": "冯延巳",
+  "dynasty": "唐",
+  "file": "tang_099.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%86%AF%E5%BB%B6%E5%B7%B3",
+  "image": "https://oss.guwendao.net/authorImg300/fengyansi.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_100",
+  "name": "卢照邻",
+  "dynasty": "唐",
+  "file": "tang_100.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%8D%A2%E7%85%A7%E9%82%BB",
+  "image": "https://oss.guwendao.net/authorImg300/luzhaolin.jpg",
+  "verified": true
+ },
+ {
+  "id": "wangzhihuan",
+  "name": "王之涣",
+  "dynasty": "唐",
+  "file": "wangzhihuan.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%8E%8B%E4%B9%8B%E6%B6%A3",
+  "image": "https://oss.guwendao.net/authorImg300/wangzhihuan.jpg",
+  "verified": true
+ },
+ {
+  "id": "zhangruoxu",
+  "name": "张若虚",
+  "dynasty": "唐",
+  "file": "zhangruoxu.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%BC%A0%E8%8B%A5%E8%99%9A",
+  "image": "https://oss.guwendao.net/authorImg300/zhangruoxu.jpg",
+  "verified": true
+ },
+ {
+  "id": "wd_001",
+  "name": "徐铉",
+  "dynasty": "五代",
+  "file": "wd_001.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%BE%90%E9%93%89",
+  "image": "https://oss.guwendao.net/authorImg300/xuxuan.jpg",
+  "verified": true
+ },
+ {
+  "id": "wd_002",
+  "name": "孙光宪",
+  "dynasty": "五代",
+  "file": "wd_002.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%AD%99%E5%85%89%E5%AE%AA",
+  "image": "https://oss.guwendao.net/authorImg300/sunguangxian.jpg",
+  "verified": true
+ },
+ {
+  "id": "wd_009",
+  "name": "谭用之",
+  "dynasty": "五代",
+  "file": "wd_009.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%B0%AD%E7%94%A8%E4%B9%8B",
+  "image": "https://oss.guwendao.net/authorImg300/tanyongzhi.jpg",
+  "verified": true
+ },
+ {
+  "id": "wd_011",
+  "name": "李珣",
+  "dynasty": "五代",
+  "file": "wd_011.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%8E%E7%8F%A3",
+  "image": "https://oss.guwendao.net/authorImg300/lixun.jpg",
+  "verified": true
+ },
+ {
+  "id": "wd_017",
+  "name": "张泌",
+  "dynasty": "五代",
+  "file": "wd_017.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%BC%A0%E6%B3%8C",
+  "image": "https://oss.guwendao.net/authorImg300/zhangmi.jpg",
+  "verified": true
+ },
+ {
+  "id": "wd_018",
+  "name": "李九龄",
+  "dynasty": "五代",
+  "file": "wd_018.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%8E%E4%B9%9D%E9%BE%84",
+  "image": "https://oss.guwendao.net/authorImg300/lijiuling.jpg",
+  "verified": true
+ },
+ {
+  "id": "wd_019",
+  "name": "伍乔",
+  "dynasty": "五代",
+  "file": "wd_019.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E4%BC%8D%E4%B9%94",
+  "image": "https://oss.guwendao.net/authorImg300/wuqiao.jpg",
+  "verified": true
+ },
+ {
+  "id": "wd_022",
+  "name": "薛昭蕴",
+  "dynasty": "五代",
+  "file": "wd_022.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%96%9B%E6%98%AD%E8%95%B4",
+  "image": "https://oss.guwendao.net/authorImg300/xuezhaoyun.jpg",
+  "verified": true
+ },
+ {
+  "id": "wd_025",
+  "name": "廖融",
+  "dynasty": "五代",
+  "file": "wd_025.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%BB%96%E8%9E%8D",
+  "image": "https://oss.guwendao.net/authorImg300/liaorong.jpg",
+  "verified": true
+ },
+ {
+  "id": "wd_028",
+  "name": "牛希济",
+  "dynasty": "五代",
+  "file": "wd_028.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%89%9B%E5%B8%8C%E6%B5%8E",
+  "image": "https://oss.guwendao.net/authorImg300/niuxiji.jpg",
+  "verified": true
+ },
+ {
+  "id": "wd_031",
+  "name": "阎选",
+  "dynasty": "五代",
+  "file": "wd_031.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%98%8E%E9%80%89",
+  "image": "https://oss.guwendao.net/authorImg300/yanxuan.jpg",
+  "verified": true
+ },
+ {
+  "id": "wd_045",
+  "name": "杨昭俭",
+  "dynasty": "五代",
+  "file": "wd_045.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%A8%E6%98%AD%E4%BF%AD",
+  "image": "https://oss.guwendao.net/authorImg300/yangzhaojian.jpg",
+  "verified": true
+ },
+ {
+  "id": "wd_047",
+  "name": "胥偃",
+  "dynasty": "五代",
+  "file": "wd_047.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%83%A5%E5%81%83",
+  "image": "https://oss.guwendao.net/authorImg300/xuyan.jpg",
+  "verified": true
+ },
+ {
+  "id": "luyou",
+  "name": "陆游",
+  "dynasty": "宋",
+  "file": "luyou.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%99%86%E6%B8%B8",
+  "image": "https://oss.guwendao.net/authorImg300/luyou.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_002",
+  "name": "刘克庄",
+  "dynasty": "宋",
+  "file": "song_002.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%88%98%E5%85%8B%E5%BA%84",
+  "image": "https://oss.guwendao.net/authorImg300/liukezhuang.jpg",
+  "verified": true
+ },
+ {
+  "id": "yangwanli",
+  "name": "杨万里",
+  "dynasty": "宋",
+  "file": "yangwanli.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%A8%E4%B8%87%E9%87%8C",
+  "image": "https://oss.guwendao.net/authorImg300/yangwanli.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_010",
+  "name": "张耒",
+  "dynasty": "宋",
+  "file": "song_010.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%BC%A0%E8%80%92",
+  "image": "https://oss.guwendao.net/authorImg300/zhanglei.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_012",
+  "name": "陈造",
+  "dynasty": "宋",
+  "file": "song_012.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%99%88%E9%80%A0",
+  "image": "https://oss.guwendao.net/authorImg300/chenzao.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_013",
+  "name": "王十朋",
+  "dynasty": "宋",
+  "file": "song_013.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%8E%8B%E5%8D%81%E6%9C%8B",
+  "image": "https://oss.guwendao.net/authorImg300/wangshipeng.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_015",
+  "name": "苏辙",
+  "dynasty": "宋",
+  "file": "song_015.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%8B%8F%E8%BE%99",
+  "image": "https://oss.guwendao.net/authorImg300/suzhe.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_016",
+  "name": "释德洪",
+  "dynasty": "宋",
+  "file": "song_016.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%87%8A%E5%BE%B7%E6%B4%AA",
+  "image": "https://oss.guwendao.net/authorImg300/shidehong.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_017",
+  "name": "李纲",
+  "dynasty": "宋",
+  "file": "song_017.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%8E%E7%BA%B2",
+  "image": "https://oss.guwendao.net/authorImg300/ligang.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_019",
+  "name": "曹勋",
+  "dynasty": "宋",
+  "file": "song_019.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9B%B9%E5%8B%8B",
+  "image": "https://oss.guwendao.net/authorImg300/caoxun.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_020",
+  "name": "刘敞",
+  "dynasty": "宋",
+  "file": "song_020.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%88%98%E6%95%9E",
+  "image": "https://oss.guwendao.net/authorImg300/liuchang.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_022",
+  "name": "方岳",
+  "dynasty": "宋",
+  "file": "song_022.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%96%B9%E5%B2%B3",
+  "image": "https://oss.guwendao.net/authorImg300/fangyue.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_023",
+  "name": "宋祁",
+  "dynasty": "宋",
+  "file": "song_023.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%AE%8B%E7%A5%81",
+  "image": "https://oss.guwendao.net/authorImg300/songqi.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_025",
+  "name": "邵雍",
+  "dynasty": "宋",
+  "file": "song_025.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%82%B5%E9%9B%8D",
+  "image": "https://oss.guwendao.net/authorImg300/shaoyong.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_027",
+  "name": "陈著",
+  "dynasty": "宋",
+  "file": "song_027.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%99%88%E8%91%97",
+  "image": "https://oss.guwendao.net/authorImg300/chenzhu.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_029",
+  "name": "吕本中",
+  "dynasty": "宋",
+  "file": "song_029.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%90%95%E6%9C%AC%E4%B8%AD",
+  "image": "https://oss.guwendao.net/authorImg300/lvbenzhong.jpg",
+  "verified": true
+ },
+ {
+  "id": "xinqiji",
+  "name": "辛弃疾",
+  "dynasty": "宋",
+  "file": "xinqiji.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%BE%9B%E5%BC%83%E7%96%BE",
+  "image": "https://oss.guwendao.net/authorImg300/xinqiji.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_035",
+  "name": "刘攽",
+  "dynasty": "宋",
+  "file": "song_035.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%88%98%E6%94%BD",
+  "image": "https://oss.guwendao.net/authorImg300/liuban.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_037",
+  "name": "王之道",
+  "dynasty": "宋",
+  "file": "song_037.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%8E%8B%E4%B9%8B%E9%81%93",
+  "image": "https://oss.guwendao.net/authorImg300/wangzhidao.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_039",
+  "name": "白玉蟾",
+  "dynasty": "宋",
+  "file": "song_039.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%99%BD%E7%8E%89%E8%9F%BE",
+  "image": "https://oss.guwendao.net/authorImg300/baiyuchan.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_043",
+  "name": "洪咨夔",
+  "dynasty": "宋",
+  "file": "song_043.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%B4%AA%E5%92%A8%E5%A4%94",
+  "image": "https://oss.guwendao.net/authorImg300/hongzikui.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_044",
+  "name": "贺铸",
+  "dynasty": "宋",
+  "file": "song_044.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%B4%BA%E9%93%B8",
+  "image": "https://oss.guwendao.net/authorImg300/hezhu.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_046",
+  "name": "戴复古",
+  "dynasty": "宋",
+  "file": "song_046.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%88%B4%E5%A4%8D%E5%8F%A4",
+  "image": "https://oss.guwendao.net/authorImg300/daifugu.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_048",
+  "name": "洪适",
+  "dynasty": "宋",
+  "file": "song_048.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%B4%AA%E9%80%82",
+  "image": "https://oss.guwendao.net/authorImg300/hongshi.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_049",
+  "name": "韩维",
+  "dynasty": "宋",
+  "file": "song_049.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%9F%A9%E7%BB%B4",
+  "image": "https://oss.guwendao.net/authorImg300/hanwei.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_051",
+  "name": "邹浩",
+  "dynasty": "宋",
+  "file": "song_051.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%82%B9%E6%B5%A9",
+  "image": "https://oss.guwendao.net/authorImg300/zouhao.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_052",
+  "name": "释文珦",
+  "dynasty": "宋",
+  "file": "song_052.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%87%8A%E6%96%87%E7%8F%A6",
+  "image": "https://oss.guwendao.net/authorImg300/shiwenxiang.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_054",
+  "name": "晁补之",
+  "dynasty": "宋",
+  "file": "song_054.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%99%81%E8%A1%A5%E4%B9%8B",
+  "image": "https://oss.guwendao.net/authorImg300/chaobuzhi.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_055",
+  "name": "周必大",
+  "dynasty": "宋",
+  "file": "song_055.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%91%A8%E5%BF%85%E5%A4%A7",
+  "image": "https://oss.guwendao.net/authorImg300/zhoubida.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_056",
+  "name": "李之仪",
+  "dynasty": "宋",
+  "file": "song_056.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%8E%E4%B9%8B%E4%BB%AA",
+  "image": "https://oss.guwendao.net/authorImg300/lizhiyi.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_063",
+  "name": "王炎",
+  "dynasty": "宋",
+  "file": "song_063.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%8E%8B%E7%82%8E",
+  "image": "https://oss.guwendao.net/authorImg300/wangyan.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_064",
+  "name": "李弥逊",
+  "dynasty": "宋",
+  "file": "song_064.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%8E%E5%BC%A5%E9%80%8A",
+  "image": "https://oss.guwendao.net/authorImg300/limixun.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_065",
+  "name": "王庭圭",
+  "dynasty": "宋",
+  "file": "song_065.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%8E%8B%E5%BA%AD%E5%9C%AD",
+  "image": "https://oss.guwendao.net/authorImg300/wangtinggui.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_068",
+  "name": "刘辰翁",
+  "dynasty": "宋",
+  "file": "song_068.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%88%98%E8%BE%B0%E7%BF%81",
+  "image": "https://oss.guwendao.net/authorImg300/liuchenweng.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_069",
+  "name": "张孝祥",
+  "dynasty": "宋",
+  "file": "song_069.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%BC%A0%E5%AD%9D%E7%A5%A5",
+  "image": "https://oss.guwendao.net/authorImg300/zhangxiaoxiang.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_073",
+  "name": "舒岳祥",
+  "dynasty": "宋",
+  "file": "song_073.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%88%92%E5%B2%B3%E7%A5%A5",
+  "image": "https://oss.guwendao.net/authorImg300/shuyuexiang.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_076",
+  "name": "文同",
+  "dynasty": "宋",
+  "file": "song_076.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%96%87%E5%90%8C",
+  "image": "https://oss.guwendao.net/authorImg300/wentong.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_077",
+  "name": "宋庠",
+  "dynasty": "宋",
+  "file": "song_077.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%AE%8B%E5%BA%A0",
+  "image": "https://oss.guwendao.net/authorImg300/songxiang.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_078",
+  "name": "陈师道",
+  "dynasty": "宋",
+  "file": "song_078.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%99%88%E5%B8%88%E9%81%93",
+  "image": "https://oss.guwendao.net/authorImg300/chenshidao.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_079",
+  "name": "史浩",
+  "dynasty": "宋",
+  "file": "song_079.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%8F%B2%E6%B5%A9",
+  "image": "https://oss.guwendao.net/authorImg300/shihao.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_082",
+  "name": "岳珂",
+  "dynasty": "宋",
+  "file": "song_082.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%B2%B3%E7%8F%82",
+  "image": "https://oss.guwendao.net/authorImg300/yueke.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_084",
+  "name": "黄裳",
+  "dynasty": "宋",
+  "file": "song_084.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%BB%84%E8%A3%B3",
+  "image": "https://oss.guwendao.net/authorImg300/huangshang.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_087",
+  "name": "徐积",
+  "dynasty": "宋",
+  "file": "song_087.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%BE%90%E7%A7%AF",
+  "image": "https://oss.guwendao.net/authorImg300/xuji.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_090",
+  "name": "程俱",
+  "dynasty": "宋",
+  "file": "song_090.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%A8%8B%E4%BF%B1",
+  "image": "https://oss.guwendao.net/authorImg300/chengju.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_092",
+  "name": "韩琦",
+  "dynasty": "宋",
+  "file": "song_092.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%9F%A9%E7%90%A6",
+  "image": "https://oss.guwendao.net/authorImg300/hanqi.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_093",
+  "name": "赵抃",
+  "dynasty": "宋",
+  "file": "song_093.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%B5%B5%E6%8A%83",
+  "image": "https://oss.guwendao.net/authorImg300/zhaobian.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_094",
+  "name": "周密",
+  "dynasty": "宋",
+  "file": "song_094.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%91%A8%E5%AF%86",
+  "image": "https://oss.guwendao.net/authorImg300/zhoumi.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_096",
+  "name": "张嵲",
+  "dynasty": "宋",
+  "file": "song_096.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%BC%A0%E5%B5%B2",
+  "image": "https://oss.guwendao.net/authorImg300/zhangnie.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_097",
+  "name": "郑刚中",
+  "dynasty": "宋",
+  "file": "song_097.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%83%91%E5%88%9A%E4%B8%AD",
+  "image": "https://oss.guwendao.net/authorImg300/zhenggangzhong.jpg",
+  "verified": true
+ },
+ {
+  "id": "song_098",
+  "name": "陈与义",
+  "dynasty": "宋",
+  "file": "song_098.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%99%88%E4%B8%8E%E4%B9%89",
+  "image": "https://oss.guwendao.net/authorImg300/chenyuyi.jpg",
+  "verified": true
+ },
+ {
+  "id": "yanshu",
+  "name": "晏殊",
+  "dynasty": "宋",
+  "file": "yanshu.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%99%8F%E6%AE%8A",
+  "image": "https://oss.guwendao.net/authorImg300/yanshu.jpg",
+  "verified": true
+ },
+ {
+  "id": "liuyong",
+  "name": "柳永",
+  "dynasty": "宋",
+  "file": "liuyong.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9F%B3%E6%B0%B8",
+  "image": "https://oss.guwendao.net/authorImg300/liuyong.jpg",
+  "verified": true
+ },
+ {
+  "id": "zhoubangyan",
+  "name": "周邦彦",
+  "dynasty": "宋",
+  "file": "zhoubangyan.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%91%A8%E9%82%A6%E5%BD%A6",
+  "image": "https://oss.guwendao.net/authorImg300/zhoubangyan.jpg",
+  "verified": true
+ },
+ {
+  "id": "liqingzhao",
+  "name": "李清照",
+  "dynasty": "宋",
+  "file": "liqingzhao.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%8E%E6%B8%85%E7%85%A7",
+  "image": "https://oss.guwendao.net/authorImg300/liqingzhao.jpg",
+  "verified": true
+ },
+ {
+  "id": "liao_001",
+  "name": "萧观音",
+  "dynasty": "辽",
+  "file": "liao_001.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%90%A7%E8%A7%82%E9%9F%B3",
+  "image": "https://oss.guwendao.net/authorImg300/xiaoguanyin.jpg",
+  "verified": true
+ },
+ {
+  "id": "jin_001",
+  "name": "赵秉文",
+  "dynasty": "金",
+  "file": "jin_001.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%B5%B5%E7%A7%89%E6%96%87",
+  "image": "https://oss.guwendao.net/authorImg300/zhaobingwen.jpg",
+  "verified": true
+ },
+ {
+  "id": "jin_005",
+  "name": "党怀英",
+  "dynasty": "金",
+  "file": "jin_005.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%85%9A%E6%80%80%E8%8B%B1",
+  "image": "https://oss.guwendao.net/authorImg300/danghuaiying.jpg",
+  "verified": true
+ },
+ {
+  "id": "jin_008",
+  "name": "吴激",
+  "dynasty": "金",
+  "file": "jin_008.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%90%B4%E6%BF%80",
+  "image": "https://oss.guwendao.net/authorImg300/wuji.jpg",
+  "verified": true
+ },
+ {
+  "id": "jin_059",
+  "name": "刘豫",
+  "dynasty": "金",
+  "file": "jin_059.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%88%98%E8%B1%AB",
+  "image": "https://oss.guwendao.net/authorImg300/liuyu.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_001",
+  "name": "李俊民",
+  "dynasty": "元",
+  "file": "yuan_001.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%8E%E4%BF%8A%E6%B0%91",
+  "image": "https://oss.guwendao.net/authorImg300/lijunmin.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_006",
+  "name": "马钰",
+  "dynasty": "元",
+  "file": "yuan_006.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%A9%AC%E9%92%B0",
+  "image": "https://oss.guwendao.net/authorImg300/mayu.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_009",
+  "name": "耶律楚材",
+  "dynasty": "元",
+  "file": "yuan_009.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%80%B6%E5%BE%8B%E6%A5%9A%E6%9D%90",
+  "image": "https://oss.guwendao.net/authorImg300/yelvchucai.jpg",
+  "verified": true
+ },
+ {
+  "id": "wangmian",
+  "name": "王冕",
+  "dynasty": "元",
+  "file": "wangmian.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%8E%8B%E5%86%95",
+  "image": "https://oss.guwendao.net/authorImg300/wangmian.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_013",
+  "name": "王哲",
+  "dynasty": "元",
+  "file": "yuan_013.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%8E%8B%E5%93%B2",
+  "image": "https://oss.guwendao.net/authorImg300/wangzhe.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_014",
+  "name": "赵孟頫",
+  "dynasty": "元",
+  "file": "yuan_014.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%B5%B5%E5%AD%9F%E9%A0%AB",
+  "image": "https://oss.guwendao.net/authorImg300/zhaomengfu.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_016",
+  "name": "郑元祐",
+  "dynasty": "元",
+  "file": "yuan_016.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%83%91%E5%85%83%E7%A5%90",
+  "image": "https://oss.guwendao.net/authorImg300/zhengyuanyou.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_019",
+  "name": "陈镒",
+  "dynasty": "元",
+  "file": "yuan_019.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%99%88%E9%95%92",
+  "image": "https://oss.guwendao.net/authorImg300/chenyi.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_021",
+  "name": "黄溍",
+  "dynasty": "元",
+  "file": "yuan_021.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%BB%84%E6%BA%8D",
+  "image": "https://oss.guwendao.net/authorImg300/huangjin.jpg",
+  "verified": true
+ },
+ {
+  "id": "mazhiyuan",
+  "name": "马致远",
+  "dynasty": "元",
+  "file": "mazhiyuan.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%A9%AC%E8%87%B4%E8%BF%9C",
+  "image": "https://oss.guwendao.net/authorImg300/mazhiyuan.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_027",
+  "name": "李孝光",
+  "dynasty": "元",
+  "file": "yuan_027.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%8E%E5%AD%9D%E5%85%89",
+  "image": "https://oss.guwendao.net/authorImg300/lixiaoguang.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_030",
+  "name": "周权",
+  "dynasty": "元",
+  "file": "yuan_030.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%91%A8%E6%9D%83",
+  "image": "https://oss.guwendao.net/authorImg300/zhouquan.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_032",
+  "name": "王实甫",
+  "dynasty": "元",
+  "file": "yuan_032.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%8E%8B%E5%AE%9E%E7%94%AB",
+  "image": "https://oss.guwendao.net/authorImg300/wangshifu.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_033",
+  "name": "白朴",
+  "dynasty": "元",
+  "file": "yuan_033.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%99%BD%E6%9C%B4",
+  "image": "https://oss.guwendao.net/authorImg300/baipu.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_044",
+  "name": "段成己",
+  "dynasty": "元",
+  "file": "yuan_044.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%AE%B5%E6%88%90%E5%B7%B1",
+  "image": "https://oss.guwendao.net/authorImg300/duanchengji.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_045",
+  "name": "郑光祖",
+  "dynasty": "元",
+  "file": "yuan_045.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%83%91%E5%85%89%E7%A5%96",
+  "image": "https://oss.guwendao.net/authorImg300/zhengguangzu.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_050",
+  "name": "马祖常",
+  "dynasty": "元",
+  "file": "yuan_050.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%A9%AC%E7%A5%96%E5%B8%B8",
+  "image": "https://oss.guwendao.net/authorImg300/mazuchang.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_051",
+  "name": "刘因",
+  "dynasty": "元",
+  "file": "yuan_051.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%88%98%E5%9B%A0",
+  "image": "https://oss.guwendao.net/authorImg300/liuyin.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_054",
+  "name": "魏初",
+  "dynasty": "元",
+  "file": "yuan_054.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%AD%8F%E5%88%9D",
+  "image": "https://oss.guwendao.net/authorImg300/weichu.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_055",
+  "name": "乃贤",
+  "dynasty": "元",
+  "file": "yuan_055.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E4%B9%83%E8%B4%A4",
+  "image": "https://oss.guwendao.net/authorImg300/naixian.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_061",
+  "name": "杨景贤",
+  "dynasty": "元",
+  "file": "yuan_061.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%A8%E6%99%AF%E8%B4%A4",
+  "image": "https://oss.guwendao.net/authorImg300/yangjingxian.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_066",
+  "name": "张可久",
+  "dynasty": "元",
+  "file": "yuan_066.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%BC%A0%E5%8F%AF%E4%B9%85",
+  "image": "https://oss.guwendao.net/authorImg300/zhangkejiu.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_070",
+  "name": "段克己",
+  "dynasty": "元",
+  "file": "yuan_070.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%AE%B5%E5%85%8B%E5%B7%B1",
+  "image": "https://oss.guwendao.net/authorImg300/duankeji.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_071",
+  "name": "吴镇",
+  "dynasty": "元",
+  "file": "yuan_071.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%90%B4%E9%95%87",
+  "image": "https://oss.guwendao.net/authorImg300/wuzhen.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_072",
+  "name": "揭傒斯",
+  "dynasty": "元",
+  "file": "yuan_072.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%8F%AD%E5%82%92%E6%96%AF",
+  "image": "https://oss.guwendao.net/authorImg300/jiexisi.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_075",
+  "name": "杨载",
+  "dynasty": "元",
+  "file": "yuan_075.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%A8%E8%BD%BD",
+  "image": "https://oss.guwendao.net/authorImg300/yangzai.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_077",
+  "name": "丘处机",
+  "dynasty": "元",
+  "file": "yuan_077.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E4%B8%98%E5%A4%84%E6%9C%BA",
+  "image": "https://oss.guwendao.net/authorImg300/qiuchuji.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_079",
+  "name": "岑安卿",
+  "dynasty": "元",
+  "file": "yuan_079.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%B2%91%E5%AE%89%E5%8D%BF",
+  "image": "https://oss.guwendao.net/authorImg300/cenanqing.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_081",
+  "name": "乔吉",
+  "dynasty": "元",
+  "file": "yuan_081.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E4%B9%94%E5%90%89",
+  "image": "https://oss.guwendao.net/authorImg300/qiaoji.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_082",
+  "name": "冯子振",
+  "dynasty": "元",
+  "file": "yuan_082.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%86%AF%E5%AD%90%E6%8C%AF",
+  "image": "https://oss.guwendao.net/authorImg300/fengzizhen.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_083",
+  "name": "吾丘衍",
+  "dynasty": "元",
+  "file": "yuan_083.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%90%BE%E4%B8%98%E8%A1%8D",
+  "image": "https://oss.guwendao.net/authorImg300/wuqiuyan.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_084",
+  "name": "郝经",
+  "dynasty": "元",
+  "file": "yuan_084.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%83%9D%E7%BB%8F",
+  "image": "https://oss.guwendao.net/authorImg300/haojing.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_085",
+  "name": "尹志平",
+  "dynasty": "元",
+  "file": "yuan_085.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%B0%B9%E5%BF%97%E5%B9%B3",
+  "image": "https://oss.guwendao.net/authorImg300/yinzhiping.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_086",
+  "name": "柳贯",
+  "dynasty": "元",
+  "file": "yuan_086.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9F%B3%E8%B4%AF",
+  "image": "https://oss.guwendao.net/authorImg300/liuguan.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_095",
+  "name": "刘敏中",
+  "dynasty": "元",
+  "file": "yuan_095.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%88%98%E6%95%8F%E4%B8%AD",
+  "image": "https://oss.guwendao.net/authorImg300/liuminzhong.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_096",
+  "name": "吴师道",
+  "dynasty": "元",
+  "file": "yuan_096.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%90%B4%E5%B8%88%E9%81%93",
+  "image": "https://oss.guwendao.net/authorImg300/wushidao.jpg",
+  "verified": true
+ },
+ {
+  "id": "yuan_098",
+  "name": "刘秉忠",
+  "dynasty": "元",
+  "file": "yuan_098.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%88%98%E7%A7%89%E5%BF%A0",
+  "image": "https://oss.guwendao.net/authorImg300/liubingzhong.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_006",
+  "name": "刘崧",
+  "dynasty": "明",
+  "file": "ming_006.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%88%98%E5%B4%A7",
+  "image": "https://oss.guwendao.net/authorImg300/liusong.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_007",
+  "name": "陈献章",
+  "dynasty": "明",
+  "file": "ming_007.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%99%88%E7%8C%AE%E7%AB%A0",
+  "image": "https://oss.guwendao.net/authorImg300/chenxianzhang.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_008",
+  "name": "杨士奇",
+  "dynasty": "明",
+  "file": "ming_008.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%A8%E5%A3%AB%E5%A5%87",
+  "image": "https://oss.guwendao.net/authorImg300/yangshiqi.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_010",
+  "name": "顾璘",
+  "dynasty": "明",
+  "file": "ming_010.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%A1%BE%E7%92%98",
+  "image": "https://oss.guwendao.net/authorImg300/gulin.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_013",
+  "name": "郭之奇",
+  "dynasty": "明",
+  "file": "ming_013.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%83%AD%E4%B9%8B%E5%A5%87",
+  "image": "https://oss.guwendao.net/authorImg300/guozhiqi.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_014",
+  "name": "袁宏道",
+  "dynasty": "明",
+  "file": "ming_014.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%A2%81%E5%AE%8F%E9%81%93",
+  "image": "https://oss.guwendao.net/authorImg300/yuanhongdao.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_017",
+  "name": "成鹫",
+  "dynasty": "明",
+  "file": "ming_017.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%88%90%E9%B9%AB",
+  "image": "https://oss.guwendao.net/authorImg300/chengjiu.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_018",
+  "name": "孙承恩",
+  "dynasty": "明",
+  "file": "ming_018.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%AD%99%E6%89%BF%E6%81%A9",
+  "image": "https://oss.guwendao.net/authorImg300/sunchengen.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_022",
+  "name": "何景明",
+  "dynasty": "明",
+  "file": "ming_022.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E4%BD%95%E6%99%AF%E6%98%8E",
+  "image": "https://oss.guwendao.net/authorImg300/hejingming.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_024",
+  "name": "湛若水",
+  "dynasty": "明",
+  "file": "ming_024.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%B9%9B%E8%8B%A5%E6%B0%B4",
+  "image": "https://oss.guwendao.net/authorImg300/zhanruoshui.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_028",
+  "name": "边贡",
+  "dynasty": "明",
+  "file": "ming_028.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%BE%B9%E8%B4%A1",
+  "image": "https://oss.guwendao.net/authorImg300/biangong.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_029",
+  "name": "杨慎",
+  "dynasty": "明",
+  "file": "ming_029.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%A8%E6%85%8E",
+  "image": "https://oss.guwendao.net/authorImg300/yangshen.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_033",
+  "name": "陆深",
+  "dynasty": "明",
+  "file": "ming_033.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%99%86%E6%B7%B1",
+  "image": "https://oss.guwendao.net/authorImg300/lushen.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_036",
+  "name": "薛瑄",
+  "dynasty": "明",
+  "file": "ming_036.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%96%9B%E7%91%84",
+  "image": "https://oss.guwendao.net/authorImg300/xuexuan.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_039",
+  "name": "黄衷",
+  "dynasty": "明",
+  "file": "ming_039.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%BB%84%E8%A1%B7",
+  "image": "https://oss.guwendao.net/authorImg300/huangzhong.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_048",
+  "name": "庄昶",
+  "dynasty": "明",
+  "file": "ming_048.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%BA%84%E6%98%B6",
+  "image": "https://oss.guwendao.net/authorImg300/zhuangchang.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_051",
+  "name": "张弼",
+  "dynasty": "明",
+  "file": "ming_051.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%BC%A0%E5%BC%BC",
+  "image": "https://oss.guwendao.net/authorImg300/zhangbi.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_052",
+  "name": "沈周",
+  "dynasty": "明",
+  "file": "ming_052.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%B2%88%E5%91%A8",
+  "image": "https://oss.guwendao.net/authorImg300/shenzhou.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_059",
+  "name": "杨维桢",
+  "dynasty": "明",
+  "file": "ming_059.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%A8%E7%BB%B4%E6%A1%A2",
+  "image": "https://oss.guwendao.net/authorImg300/yangweizhen.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_060",
+  "name": "王鏊",
+  "dynasty": "明",
+  "file": "ming_060.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%8E%8B%E9%8F%8A",
+  "image": "https://oss.guwendao.net/authorImg300/wangao.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_063",
+  "name": "文徵明",
+  "dynasty": "明",
+  "file": "ming_063.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%96%87%E5%BE%B5%E6%98%8E",
+  "image": "https://oss.guwendao.net/authorImg300/wenzhengming.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_065",
+  "name": "高启",
+  "dynasty": "明",
+  "file": "ming_065.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%AB%98%E5%90%AF",
+  "image": "https://oss.guwendao.net/authorImg300/gaoqi.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_066",
+  "name": "宗臣",
+  "dynasty": "明",
+  "file": "ming_066.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%AE%97%E8%87%A3",
+  "image": "https://oss.guwendao.net/authorImg300/zongchen.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_069",
+  "name": "李昌祺",
+  "dynasty": "明",
+  "file": "ming_069.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%8E%E6%98%8C%E7%A5%BA",
+  "image": "https://oss.guwendao.net/authorImg300/lichangqi.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_071",
+  "name": "金幼孜",
+  "dynasty": "明",
+  "file": "ming_071.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%87%91%E5%B9%BC%E5%AD%9C",
+  "image": "https://oss.guwendao.net/authorImg300/jinyouzi.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_074",
+  "name": "韩雍",
+  "dynasty": "明",
+  "file": "ming_074.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%9F%A9%E9%9B%8D",
+  "image": "https://oss.guwendao.net/authorImg300/hanyong.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_080",
+  "name": "祝允明",
+  "dynasty": "明",
+  "file": "ming_080.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%A5%9D%E5%85%81%E6%98%8E",
+  "image": "https://oss.guwendao.net/authorImg300/zhuyunming.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_081",
+  "name": "郭谏臣",
+  "dynasty": "明",
+  "file": "ming_081.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%83%AD%E8%B0%8F%E8%87%A3",
+  "image": "https://oss.guwendao.net/authorImg300/guojianchen.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_083",
+  "name": "王绂",
+  "dynasty": "明",
+  "file": "ming_083.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%8E%8B%E7%BB%82",
+  "image": "https://oss.guwendao.net/authorImg300/wangfu.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_084",
+  "name": "薛蕙",
+  "dynasty": "明",
+  "file": "ming_084.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%96%9B%E8%95%99",
+  "image": "https://oss.guwendao.net/authorImg300/xuehui.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_087",
+  "name": "胡俨",
+  "dynasty": "明",
+  "file": "ming_087.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%83%A1%E4%BF%A8",
+  "image": "https://oss.guwendao.net/authorImg300/huyan.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_093",
+  "name": "唐顺之",
+  "dynasty": "明",
+  "file": "ming_093.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%94%90%E9%A1%BA%E4%B9%8B",
+  "image": "https://oss.guwendao.net/authorImg300/tangshunzhi.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_096",
+  "name": "王守仁",
+  "dynasty": "明",
+  "file": "ming_096.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%8E%8B%E5%AE%88%E4%BB%81",
+  "image": "https://oss.guwendao.net/authorImg300/wangshouren.jpg",
+  "verified": true
+ },
+ {
+  "id": "ming_097",
+  "name": "董其昌",
+  "dynasty": "明",
+  "file": "ming_097.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%91%A3%E5%85%B6%E6%98%8C",
+  "image": "https://oss.guwendao.net/authorImg300/dongqichang.jpg",
+  "verified": true
+ },
+ {
+  "id": "qing_001",
+  "name": "屈大均",
+  "dynasty": "清",
+  "file": "qing_001.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%B1%88%E5%A4%A7%E5%9D%87",
+  "image": "https://oss.guwendao.net/authorImg300/qudajun.jpg",
+  "verified": true
+ },
+ {
+  "id": "qing_002",
+  "name": "陈恭尹",
+  "dynasty": "清",
+  "file": "qing_002.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%99%88%E6%81%AD%E5%B0%B9",
+  "image": "https://oss.guwendao.net/authorImg300/chengongyin.jpg",
+  "verified": true
+ },
+ {
+  "id": "qing_004",
+  "name": "陈维崧",
+  "dynasty": "清",
+  "file": "qing_004.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%99%88%E7%BB%B4%E5%B4%A7",
+  "image": "https://oss.guwendao.net/authorImg300/chenweisong.jpg",
+  "verified": true
+ },
+ {
+  "id": "qing_005",
+  "name": "王夫之",
+  "dynasty": "清",
+  "file": "qing_005.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%8E%8B%E5%A4%AB%E4%B9%8B",
+  "image": "https://oss.guwendao.net/authorImg300/wangfuzhi.jpg",
+  "verified": true
+ },
+ {
+  "id": "qing_010",
+  "name": "孙原湘",
+  "dynasty": "清",
+  "file": "qing_010.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%AD%99%E5%8E%9F%E6%B9%98",
+  "image": "https://oss.guwendao.net/authorImg300/sunyuanxiang.jpg",
+  "verified": true
+ },
+ {
+  "id": "qing_022",
+  "name": "毛奇龄",
+  "dynasty": "清",
+  "file": "qing_022.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%AF%9B%E5%A5%87%E9%BE%84",
+  "image": "https://oss.guwendao.net/authorImg300/maoqiling.jpg",
+  "verified": true
+ },
+ {
+  "id": "qing_025",
+  "name": "洪亮吉",
+  "dynasty": "清",
+  "file": "qing_025.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%B4%AA%E4%BA%AE%E5%90%89",
+  "image": "https://oss.guwendao.net/authorImg300/hongliangji.jpg",
+  "verified": true
+ },
+ {
+  "id": "qing_026",
+  "name": "吴绮",
+  "dynasty": "清",
+  "file": "qing_026.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%90%B4%E7%BB%AE",
+  "image": "https://oss.guwendao.net/authorImg300/wuqi.jpg",
+  "verified": true
+ },
+ {
+  "id": "qing_031",
+  "name": "尤侗",
+  "dynasty": "清",
+  "file": "qing_031.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%B0%A4%E4%BE%97",
+  "image": "https://oss.guwendao.net/authorImg300/youdong.jpg",
+  "verified": true
+ },
+ {
+  "id": "qing_038",
+  "name": "顾太清",
+  "dynasty": "清",
+  "file": "qing_038.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%A1%BE%E5%A4%AA%E6%B8%85",
+  "image": "https://oss.guwendao.net/authorImg300/gutaiqing.jpg",
+  "verified": true
+ },
+ {
+  "id": "qing_039",
+  "name": "李慈铭",
+  "dynasty": "清",
+  "file": "qing_039.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%8E%E6%85%88%E9%93%AD",
+  "image": "https://oss.guwendao.net/authorImg300/liciming.jpg",
+  "verified": true
+ },
+ {
+  "id": "qing_048",
+  "name": "张问陶",
+  "dynasty": "清",
+  "file": "qing_048.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%BC%A0%E9%97%AE%E9%99%B6",
+  "image": "https://oss.guwendao.net/authorImg300/zhangwentao.jpg",
+  "verified": true
+ },
+ {
+  "id": "qing_049",
+  "name": "严遂成",
+  "dynasty": "清",
+  "file": "qing_049.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E4%B8%A5%E9%81%82%E6%88%90",
+  "image": "https://oss.guwendao.net/authorImg300/yansuicheng.jpg",
+  "verified": true
+ },
+ {
+  "id": "qing_055",
+  "name": "吴藻",
+  "dynasty": "清",
+  "file": "qing_055.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%90%B4%E8%97%BB",
+  "image": "https://oss.guwendao.net/authorImg300/wuzao.jpg",
+  "verified": true
+ },
+ {
+  "id": "qing_057",
+  "name": "朱彝尊",
+  "dynasty": "清",
+  "file": "qing_057.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9C%B1%E5%BD%9D%E5%B0%8A",
+  "image": "https://oss.guwendao.net/authorImg300/zhuyizun.jpg",
+  "verified": true
+ },
+ {
+  "id": "qing_059",
+  "name": "龚鼎孳",
+  "dynasty": "清",
+  "file": "qing_059.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%BE%9A%E9%BC%8E%E5%AD%B3",
+  "image": "https://oss.guwendao.net/authorImg300/gongdingzi.jpg",
+  "verified": true
+ },
+ {
+  "id": "qing_060",
+  "name": "蒋士铨",
+  "dynasty": "清",
+  "file": "qing_060.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%92%8B%E5%A3%AB%E9%93%A8",
+  "image": "https://oss.guwendao.net/authorImg300/jiangshiquan.jpg",
+  "verified": true
+ },
+ {
+  "id": "qing_063",
+  "name": "宋琬",
+  "dynasty": "清",
+  "file": "qing_063.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%AE%8B%E7%90%AC",
+  "image": "https://oss.guwendao.net/authorImg300/songwan.jpg",
+  "verified": true
+ },
+ {
+  "id": "qing_064",
+  "name": "李希圣",
+  "dynasty": "清",
+  "file": "qing_064.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%8E%E5%B8%8C%E5%9C%A3",
+  "image": "https://oss.guwendao.net/authorImg300/lixisheng.jpg",
+  "verified": true
+ },
+ {
+  "id": "qing_065",
+  "name": "俞樾",
+  "dynasty": "清",
+  "file": "qing_065.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E4%BF%9E%E6%A8%BE",
+  "image": "https://oss.guwendao.net/authorImg300/yuyue.jpg",
+  "verified": true
+ },
+ {
+  "id": "qing_066",
+  "name": "蒋春霖",
+  "dynasty": "清",
+  "file": "qing_066.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%92%8B%E6%98%A5%E9%9C%96",
+  "image": "https://oss.guwendao.net/authorImg300/jiangchunlin.jpg",
+  "verified": true
+ },
+ {
+  "id": "qing_068",
+  "name": "项鸿祚",
+  "dynasty": "清",
+  "file": "qing_068.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%A1%B9%E9%B8%BF%E7%A5%9A",
+  "image": "https://oss.guwendao.net/authorImg300/xianghongzuo.jpg",
+  "verified": true
+ },
+ {
+  "id": "qing_082",
+  "name": "顾贞观",
+  "dynasty": "清",
+  "file": "qing_082.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%A1%BE%E8%B4%9E%E8%A7%82",
+  "image": "https://oss.guwendao.net/authorImg300/guzhenguan.jpg",
+  "verified": true
+ },
+ {
+  "id": "qing_093",
+  "name": "厉鹗",
+  "dynasty": "清",
+  "file": "qing_093.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%8E%89%E9%B9%97",
+  "image": "https://oss.guwendao.net/authorImg300/lie.jpg",
+  "verified": true
+ },
+ {
+  "id": "qing_096",
+  "name": "吴敬梓",
+  "dynasty": "清",
+  "file": "qing_096.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%90%B4%E6%95%AC%E6%A2%93",
+  "image": "https://oss.guwendao.net/authorImg300/wujingzi.jpg",
+  "verified": true
+ },
+ {
+  "id": "zhengxie",
+  "name": "郑燮",
+  "dynasty": "清",
+  "file": "zhengxie.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%83%91%E7%87%AE",
+  "image": "https://oss.guwendao.net/authorImg300/zhengxie.jpg",
+  "verified": true
+ },
+ {
+  "id": "xq_003",
+  "name": "宋玉",
+  "dynasty": "先秦",
+  "file": "xq_003.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%AE%8B%E7%8E%89",
+  "image": "https://oss.guwendao.net/authorImg300/songyu.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_003",
+  "name": "东方朔",
+  "dynasty": "汉",
+  "file": "han_003.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E4%B8%9C%E6%96%B9%E6%9C%94",
+  "image": "https://oss.guwendao.net/authorImg300/dongfangshuo.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_004",
+  "name": "刘向",
+  "dynasty": "汉",
+  "file": "han_004.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%88%98%E5%90%91",
+  "image": "https://oss.guwendao.net/authorImg300/liuxiang.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_006",
+  "name": "班固",
+  "dynasty": "汉",
+  "file": "han_006.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%8F%AD%E5%9B%BA",
+  "image": "https://oss.guwendao.net/authorImg300/bangu.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_008",
+  "name": "蔡邕",
+  "dynasty": "汉",
+  "file": "han_008.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%94%A1%E9%82%95",
+  "image": "https://oss.guwendao.net/authorImg300/caiyong.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_009",
+  "name": "崔骃",
+  "dynasty": "汉",
+  "file": "han_009.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%B4%94%E9%AA%83",
+  "image": "https://oss.guwendao.net/authorImg300/cuiyin.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_010",
+  "name": "王褒",
+  "dynasty": "汉",
+  "file": "han_010.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%8E%8B%E8%A4%92",
+  "image": "https://oss.guwendao.net/authorImg300/wangbao.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_011",
+  "name": "王逸",
+  "dynasty": "汉",
+  "file": "han_011.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%8E%8B%E9%80%B8",
+  "image": "https://oss.guwendao.net/authorImg300/wangyi.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_012",
+  "name": "张衡",
+  "dynasty": "汉",
+  "file": "han_012.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%BC%A0%E8%A1%A1",
+  "image": "https://oss.guwendao.net/authorImg300/zhangheng.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_013",
+  "name": "刘彻",
+  "dynasty": "汉",
+  "file": "han_013.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%88%98%E5%BD%BB",
+  "image": "https://oss.guwendao.net/authorImg300/liuche.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_014",
+  "name": "孔融",
+  "dynasty": "汉",
+  "file": "han_014.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%AD%94%E8%9E%8D",
+  "image": "https://oss.guwendao.net/authorImg300/kongrong.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_016",
+  "name": "蔡琰",
+  "dynasty": "汉",
+  "file": "han_016.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%94%A1%E7%90%B0",
+  "image": "https://oss.guwendao.net/authorImg300/caiyan.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_017",
+  "name": "仲长统",
+  "dynasty": "汉",
+  "file": "han_017.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E4%BB%B2%E9%95%BF%E7%BB%9F",
+  "image": "https://oss.guwendao.net/authorImg300/zhongchangtong.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_018",
+  "name": "司马相如",
+  "dynasty": "汉",
+  "file": "han_018.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%8F%B8%E9%A9%AC%E7%9B%B8%E5%A6%82",
+  "image": "https://oss.guwendao.net/authorImg300/simaxiangru.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_020",
+  "name": "薛综",
+  "dynasty": "汉",
+  "file": "han_020.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%96%9B%E7%BB%BC",
+  "image": "https://oss.guwendao.net/authorImg300/xuezong.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_021",
+  "name": "傅毅",
+  "dynasty": "汉",
+  "file": "han_021.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%82%85%E6%AF%85",
+  "image": "https://oss.guwendao.net/authorImg300/fuyi.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_023",
+  "name": "梁鸿",
+  "dynasty": "汉",
+  "file": "han_023.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%A2%81%E9%B8%BF",
+  "image": "https://oss.guwendao.net/authorImg300/lianghong.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_024",
+  "name": "郦炎",
+  "dynasty": "汉",
+  "file": "han_024.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%83%A6%E7%82%8E",
+  "image": "https://oss.guwendao.net/authorImg300/liyan.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_026",
+  "name": "刘弗陵",
+  "dynasty": "汉",
+  "file": "han_026.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%88%98%E5%BC%97%E9%99%B5",
+  "image": "https://oss.guwendao.net/authorImg300/liufuling.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_027",
+  "name": "刘邦",
+  "dynasty": "汉",
+  "file": "han_027.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%88%98%E9%82%A6",
+  "image": "https://oss.guwendao.net/authorImg300/liubang.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_029",
+  "name": "赵壹",
+  "dynasty": "汉",
+  "file": "han_029.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%B5%B5%E5%A3%B9",
+  "image": "https://oss.guwendao.net/authorImg300/zhaoyi2.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_032",
+  "name": "仇靖",
+  "dynasty": "汉",
+  "file": "han_032.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E4%BB%87%E9%9D%96",
+  "image": "https://oss.guwendao.net/authorImg300/qiujing.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_039",
+  "name": "刘细君",
+  "dynasty": "汉",
+  "file": "han_039.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%88%98%E7%BB%86%E5%90%9B",
+  "image": "https://oss.guwendao.net/authorImg300/liuxijun.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_042",
+  "name": "刘辩",
+  "dynasty": "汉",
+  "file": "han_042.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%88%98%E8%BE%A9",
+  "image": "https://oss.guwendao.net/authorImg300/liubian.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_051",
+  "name": "张纮",
+  "dynasty": "汉",
+  "file": "han_051.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%BC%A0%E7%BA%AE",
+  "image": "https://oss.guwendao.net/authorImg300/zhangkui.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_052",
+  "name": "徐淑",
+  "dynasty": "汉",
+  "file": "han_052.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%BE%90%E6%B7%91",
+  "image": "https://oss.guwendao.net/authorImg300/xushu.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_054",
+  "name": "戚夫人",
+  "dynasty": "汉",
+  "file": "han_054.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%88%9A%E5%A4%AB%E4%BA%BA",
+  "image": "https://oss.guwendao.net/authorImg300/qifuren.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_055",
+  "name": "曹植",
+  "dynasty": "汉",
+  "file": "han_055.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9B%B9%E6%A4%8D",
+  "image": "https://oss.guwendao.net/authorImg300/caozhi.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_056",
+  "name": "朱穆",
+  "dynasty": "汉",
+  "file": "han_056.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9C%B1%E7%A9%86",
+  "image": "https://oss.guwendao.net/authorImg300/zhumu.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_057",
+  "name": "李延年",
+  "dynasty": "汉",
+  "file": "han_057.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%8E%E5%BB%B6%E5%B9%B4",
+  "image": "https://oss.guwendao.net/authorImg300/liyannian.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_058",
+  "name": "李陵",
+  "dynasty": "汉",
+  "file": "han_058.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%8E%E9%99%B5",
+  "image": "https://oss.guwendao.net/authorImg300/liling.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_060",
+  "name": "杨恽",
+  "dynasty": "汉",
+  "file": "han_060.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%A8%E6%81%BD",
+  "image": "https://oss.guwendao.net/authorImg300/yangyun.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_061",
+  "name": "枚乘",
+  "dynasty": "汉",
+  "file": "han_061.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9E%9A%E4%B9%98",
+  "image": "https://oss.guwendao.net/authorImg300/meicheng.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_069",
+  "name": "王粲",
+  "dynasty": "汉",
+  "file": "han_069.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%8E%8B%E7%B2%B2",
+  "image": "https://oss.guwendao.net/authorImg300/wangcan.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_070",
+  "name": "班婕妤",
+  "dynasty": "汉",
+  "file": "han_070.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%8F%AD%E5%A9%95%E5%A6%A4",
+  "image": "https://oss.guwendao.net/authorImg300/banjieyu.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_074",
+  "name": "贾谊",
+  "dynasty": "汉",
+  "file": "han_074.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%B4%BE%E8%B0%8A",
+  "image": "https://oss.guwendao.net/authorImg300/jiayi.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_075",
+  "name": "赵岐",
+  "dynasty": "汉",
+  "file": "han_075.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%B5%B5%E5%B2%90",
+  "image": "https://oss.guwendao.net/authorImg300/zhaoqi.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_078",
+  "name": "项羽",
+  "dynasty": "汉",
+  "file": "han_078.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%A1%B9%E7%BE%BD",
+  "image": "https://oss.guwendao.net/authorImg300/xiangyu.jpg",
+  "verified": true
+ },
+ {
+  "id": "han_079",
+  "name": "马援",
+  "dynasty": "汉",
+  "file": "han_079.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%A9%AC%E6%8F%B4",
+  "image": "https://oss.guwendao.net/authorImg300/mayuan.jpg",
+  "verified": true
+ },
+ {
+  "id": "wj_003",
+  "name": "傅玄",
+  "dynasty": "魏晋",
+  "file": "wj_003.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%82%85%E7%8E%84",
+  "image": "https://oss.guwendao.net/authorImg300/fuxuan.jpg",
+  "verified": true
+ },
+ {
+  "id": "wj_004",
+  "name": "陆机",
+  "dynasty": "魏晋",
+  "file": "wj_004.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%99%86%E6%9C%BA",
+  "image": "https://oss.guwendao.net/authorImg300/luji.jpg",
+  "verified": true
+ },
+ {
+  "id": "wj_007",
+  "name": "曹丕",
+  "dynasty": "魏晋",
+  "file": "wj_007.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9B%B9%E4%B8%95",
+  "image": "https://oss.guwendao.net/authorImg300/caopi.jpg",
+  "verified": true
+ },
+ {
+  "id": "wj_010",
+  "name": "陆云",
+  "dynasty": "魏晋",
+  "file": "wj_010.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%99%86%E4%BA%91",
+  "image": "https://oss.guwendao.net/authorImg300/luyun.jpg",
+  "verified": true
+ },
+ {
+  "id": "wj_012",
+  "name": "王粲",
+  "dynasty": "魏晋",
+  "file": "wj_012.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%8E%8B%E7%B2%B2",
+  "image": "https://oss.guwendao.net/authorImg300/wangcan.jpg",
+  "verified": true
+ },
+ {
+  "id": "wj_014",
+  "name": "潘尼",
+  "dynasty": "魏晋",
+  "file": "wj_014.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%BD%98%E5%B0%BC",
+  "image": "https://oss.guwendao.net/authorImg300/panni.jpg",
+  "verified": true
+ },
+ {
+  "id": "wj_016",
+  "name": "潘岳",
+  "dynasty": "魏晋",
+  "file": "wj_016.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%BD%98%E5%B2%B3",
+  "image": "https://oss.guwendao.net/authorImg300/panan.jpg",
+  "verified": true
+ },
+ {
+  "id": "wj_017",
+  "name": "刘桢",
+  "dynasty": "魏晋",
+  "file": "wj_017.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%88%98%E6%A1%A2",
+  "image": "https://oss.guwendao.net/authorImg300/liuzhen.jpg",
+  "verified": true
+ },
+ {
+  "id": "caocao",
+  "name": "曹操",
+  "dynasty": "魏晋",
+  "file": "caocao.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9B%B9%E6%93%8D",
+  "image": "https://oss.guwendao.net/authorImg300/caocao.jpg",
+  "verified": true
+ },
+ {
+  "id": "wj_021",
+  "name": "张载",
+  "dynasty": "魏晋",
+  "file": "wj_021.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%BC%A0%E8%BD%BD",
+  "image": "https://oss.guwendao.net/authorImg300/zhangzai.jpg",
+  "verified": true
+ },
+ {
+  "id": "wj_022",
+  "name": "支遁",
+  "dynasty": "魏晋",
+  "file": "wj_022.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%94%AF%E9%81%81",
+  "image": "https://oss.guwendao.net/authorImg300/zhidun.jpg",
+  "verified": true
+ },
+ {
+  "id": "wj_025",
+  "name": "左思",
+  "dynasty": "魏晋",
+  "file": "wj_025.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%B7%A6%E6%80%9D",
+  "image": "https://oss.guwendao.net/authorImg300/zuosi.jpg",
+  "verified": true
+ },
+ {
+  "id": "wj_031",
+  "name": "阮瑀",
+  "dynasty": "魏晋",
+  "file": "wj_031.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%98%AE%E7%91%80",
+  "image": "https://oss.guwendao.net/authorImg300/ruanyu.jpg",
+  "verified": true
+ },
+ {
+  "id": "wj_032",
+  "name": "孙绰",
+  "dynasty": "魏晋",
+  "file": "wj_032.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%AD%99%E7%BB%B0",
+  "image": "https://oss.guwendao.net/authorImg300/sunchuo.jpg",
+  "verified": true
+ },
+ {
+  "id": "wj_033",
+  "name": "徐干",
+  "dynasty": "魏晋",
+  "file": "wj_033.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%BE%90%E5%B9%B2",
+  "image": "https://oss.guwendao.net/authorImg300/xugan.jpg",
+  "verified": true
+ },
+ {
+  "id": "wj_035",
+  "name": "夏侯湛",
+  "dynasty": "魏晋",
+  "file": "wj_035.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%A4%8F%E4%BE%AF%E6%B9%9B",
+  "image": "https://oss.guwendao.net/authorImg300/xiahouzhan.jpg",
+  "verified": true
+ },
+ {
+  "id": "wj_036",
+  "name": "石崇",
+  "dynasty": "魏晋",
+  "file": "wj_036.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%9F%B3%E5%B4%87",
+  "image": "https://oss.guwendao.net/authorImg300/shichong.jpg",
+  "verified": true
+ },
+ {
+  "id": "wj_037",
+  "name": "张翼",
+  "dynasty": "魏晋",
+  "file": "wj_037.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%BC%A0%E7%BF%BC",
+  "image": "https://oss.guwendao.net/authorImg300/zhangyi.jpg",
+  "verified": true
+ },
+ {
+  "id": "wj_042",
+  "name": "孙楚",
+  "dynasty": "魏晋",
+  "file": "wj_042.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%AD%99%E6%A5%9A",
+  "image": "https://oss.guwendao.net/authorImg300/sunchu.jpg",
+  "verified": true
+ },
+ {
+  "id": "wj_046",
+  "name": "张翰",
+  "dynasty": "魏晋",
+  "file": "wj_046.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%BC%A0%E7%BF%B0",
+  "image": "https://oss.guwendao.net/authorImg300/zhanghan.jpg",
+  "verified": true
+ },
+ {
+  "id": "wj_049",
+  "name": "袁宏",
+  "dynasty": "魏晋",
+  "file": "wj_049.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%A2%81%E5%AE%8F",
+  "image": "https://oss.guwendao.net/authorImg300/yuanhong.jpg",
+  "verified": true
+ },
+ {
+  "id": "wj_053",
+  "name": "葛洪",
+  "dynasty": "魏晋",
+  "file": "wj_053.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%91%9B%E6%B4%AA",
+  "image": "https://oss.guwendao.net/authorImg300/gehong.jpg",
+  "verified": true
+ },
+ {
+  "id": "wj_058",
+  "name": "王赞",
+  "dynasty": "魏晋",
+  "file": "wj_058.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%8E%8B%E8%B5%9E",
+  "image": "https://oss.guwendao.net/authorImg300/wangzan.jpg",
+  "verified": true
+ },
+ {
+  "id": "wj_061",
+  "name": "谢混",
+  "dynasty": "魏晋",
+  "file": "wj_061.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%B0%A2%E6%B7%B7",
+  "image": "https://oss.guwendao.net/authorImg300/xiehun.jpg",
+  "verified": true
+ },
+ {
+  "id": "wj_062",
+  "name": "陈琳",
+  "dynasty": "魏晋",
+  "file": "wj_062.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%99%88%E7%90%B3",
+  "image": "https://oss.guwendao.net/authorImg300/chenlin.jpg",
+  "verified": true
+ },
+ {
+  "id": "wj_067",
+  "name": "王献之",
+  "dynasty": "魏晋",
+  "file": "wj_067.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%8E%8B%E7%8C%AE%E4%B9%8B",
+  "image": "https://oss.guwendao.net/authorImg300/wangxianzhi.jpg",
+  "verified": true
+ },
+ {
+  "id": "wj_069",
+  "name": "王羲之",
+  "dynasty": "魏晋",
+  "file": "wj_069.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%8E%8B%E7%BE%B2%E4%B9%8B",
+  "image": "https://oss.guwendao.net/authorImg300/wangxizhi.jpg",
+  "verified": true
+ },
+ {
+  "id": "wj_075",
+  "name": "顾恺之",
+  "dynasty": "魏晋",
+  "file": "wj_075.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%A1%BE%E6%81%BA%E4%B9%8B",
+  "image": "https://oss.guwendao.net/authorImg300/gukaizhi.jpg",
+  "verified": true
+ },
+ {
+  "id": "wj_084",
+  "name": "毌丘俭",
+  "dynasty": "魏晋",
+  "file": "wj_084.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%AF%8C%E4%B8%98%E4%BF%AD",
+  "image": "https://oss.guwendao.net/authorImg300/guanqiujian.jpg",
+  "verified": true
+ },
+ {
+  "id": "wj_087",
+  "name": "裴秀",
+  "dynasty": "魏晋",
+  "file": "wj_087.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%A3%B4%E7%A7%80",
+  "image": "https://oss.guwendao.net/authorImg300/peixiuu.jpg",
+  "verified": true
+ },
+ {
+  "id": "wj_088",
+  "name": "许询",
+  "dynasty": "魏晋",
+  "file": "wj_088.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%AE%B8%E8%AF%A2",
+  "image": "https://oss.guwendao.net/authorImg300/xuxun.jpg",
+  "verified": true
+ },
+ {
+  "id": "wj_089",
+  "name": "谢安",
+  "dynasty": "魏晋",
+  "file": "wj_089.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%B0%A2%E5%AE%89",
+  "image": "https://oss.guwendao.net/authorImg300/xiean.jpg",
+  "verified": true
+ },
+ {
+  "id": "wj_092",
+  "name": "谢道韫",
+  "dynasty": "魏晋",
+  "file": "wj_092.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%B0%A2%E9%81%93%E9%9F%AB",
+  "image": "https://oss.guwendao.net/authorImg300/xiedaoyun.jpg",
+  "verified": true
+ },
+ {
+  "id": "wj_096",
+  "name": "刘伶",
+  "dynasty": "魏晋",
+  "file": "wj_096.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%88%98%E4%BC%B6",
+  "image": "https://oss.guwendao.net/authorImg300/liuling.jpg",
+  "verified": true
+ },
+ {
+  "id": "nbc_001",
+  "name": "庾信",
+  "dynasty": "南北朝",
+  "file": "nbc_001.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%BA%BE%E4%BF%A1",
+  "image": "https://oss.guwendao.net/authorImg300/yuxin.jpg",
+  "verified": true
+ },
+ {
+  "id": "nbc_002",
+  "name": "萧纲",
+  "dynasty": "南北朝",
+  "file": "nbc_002.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%90%A7%E7%BA%B2",
+  "image": "https://oss.guwendao.net/authorImg300/xiaogang.jpg",
+  "verified": true
+ },
+ {
+  "id": "nbc_003",
+  "name": "沈约",
+  "dynasty": "南北朝",
+  "file": "nbc_003.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%B2%88%E7%BA%A6",
+  "image": "https://oss.guwendao.net/authorImg300/shenyue.jpg",
+  "verified": true
+ },
+ {
+  "id": "nbc_005",
+  "name": "谢朓",
+  "dynasty": "南北朝",
+  "file": "nbc_005.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%B0%A2%E6%9C%93",
+  "image": "https://oss.guwendao.net/authorImg300/xietiao.jpg",
+  "verified": true
+ },
+ {
+  "id": "nbc_006",
+  "name": "吴均",
+  "dynasty": "南北朝",
+  "file": "nbc_006.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%90%B4%E5%9D%87",
+  "image": "https://oss.guwendao.net/authorImg300/wujun.jpg",
+  "verified": true
+ },
+ {
+  "id": "nbc_007",
+  "name": "江淹",
+  "dynasty": "南北朝",
+  "file": "nbc_007.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%B1%9F%E6%B7%B9",
+  "image": "https://oss.guwendao.net/authorImg300/jiangyan.jpg",
+  "verified": true
+ },
+ {
+  "id": "nbc_008",
+  "name": "萧绎",
+  "dynasty": "南北朝",
+  "file": "nbc_008.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%90%A7%E7%BB%8E",
+  "image": "https://oss.guwendao.net/authorImg300/xiaoyii.jpg",
+  "verified": true
+ },
+ {
+  "id": "nbc_009",
+  "name": "何逊",
+  "dynasty": "南北朝",
+  "file": "nbc_009.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E4%BD%95%E9%80%8A",
+  "image": "https://oss.guwendao.net/authorImg300/hexun.jpg",
+  "verified": true
+ },
+ {
+  "id": "nbc_011",
+  "name": "陈叔宝",
+  "dynasty": "南北朝",
+  "file": "nbc_011.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%99%88%E5%8F%94%E5%AE%9D",
+  "image": "https://oss.guwendao.net/authorImg300/chenshubao.jpg",
+  "verified": true
+ },
+ {
+  "id": "nbc_013",
+  "name": "萧衍",
+  "dynasty": "南北朝",
+  "file": "nbc_013.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%90%A7%E8%A1%8D",
+  "image": "https://oss.guwendao.net/authorImg300/xiaoyan.jpg",
+  "verified": true
+ },
+ {
+  "id": "nbc_014",
+  "name": "庾肩吾",
+  "dynasty": "南北朝",
+  "file": "nbc_014.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%BA%BE%E8%82%A9%E5%90%BE",
+  "image": "https://oss.guwendao.net/authorImg300/yujianwu.jpg",
+  "verified": true
+ },
+ {
+  "id": "nbc_016",
+  "name": "张正见",
+  "dynasty": "南北朝",
+  "file": "nbc_016.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%BC%A0%E6%AD%A3%E8%A7%81",
+  "image": "https://oss.guwendao.net/authorImg300/zhangzhengjian.jpg",
+  "verified": true
+ },
+ {
+  "id": "nbc_018",
+  "name": "刘孝威",
+  "dynasty": "南北朝",
+  "file": "nbc_018.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%88%98%E5%AD%9D%E5%A8%81",
+  "image": "https://oss.guwendao.net/authorImg300/liuxiaowei.jpg",
+  "verified": true
+ },
+ {
+  "id": "nbc_019",
+  "name": "王筠",
+  "dynasty": "南北朝",
+  "file": "nbc_019.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%8E%8B%E7%AD%A0",
+  "image": "https://oss.guwendao.net/authorImg300/%E6%B8%85%E4%BB%A3.jpg",
+  "verified": true
+ },
+ {
+  "id": "nbc_020",
+  "name": "王褒",
+  "dynasty": "南北朝",
+  "file": "nbc_020.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%8E%8B%E8%A4%92",
+  "image": "https://oss.guwendao.net/authorImg300/wangbao.jpg",
+  "verified": true
+ },
+ {
+  "id": "nbc_022",
+  "name": "徐陵",
+  "dynasty": "南北朝",
+  "file": "nbc_022.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%BE%90%E9%99%B5",
+  "image": "https://oss.guwendao.net/authorImg300/xuling.jpg",
+  "verified": true
+ },
+ {
+  "id": "nbc_023",
+  "name": "谢惠连",
+  "dynasty": "南北朝",
+  "file": "nbc_023.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%B0%A2%E6%83%A0%E8%BF%9E",
+  "image": "https://oss.guwendao.net/authorImg300/xiehuilian.jpg",
+  "verified": true
+ },
+ {
+  "id": "nbc_024",
+  "name": "范云",
+  "dynasty": "南北朝",
+  "file": "nbc_024.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%8C%83%E4%BA%91",
+  "image": "https://oss.guwendao.net/authorImg300/fanyun.jpg",
+  "verified": true
+ },
+ {
+  "id": "nbc_026",
+  "name": "萧统",
+  "dynasty": "南北朝",
+  "file": "nbc_026.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%90%A7%E7%BB%9F",
+  "image": "https://oss.guwendao.net/authorImg300/xiaotong.jpg",
+  "verified": true
+ },
+ {
+  "id": "nbc_027",
+  "name": "阴铿",
+  "dynasty": "南北朝",
+  "file": "nbc_027.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%98%B4%E9%93%BF",
+  "image": "https://oss.guwendao.net/authorImg300/yinkeng.jpg",
+  "verified": true
+ },
+ {
+  "id": "nbc_029",
+  "name": "谢庄",
+  "dynasty": "南北朝",
+  "file": "nbc_029.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%B0%A2%E5%BA%84",
+  "image": "https://oss.guwendao.net/authorImg300/xiezhuang.jpg",
+  "verified": true
+ },
+ {
+  "id": "nbc_033",
+  "name": "任昉",
+  "dynasty": "南北朝",
+  "file": "nbc_033.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E4%BB%BB%E6%98%89",
+  "image": "https://oss.guwendao.net/authorImg300/renfang.jpg",
+  "verified": true
+ },
+ {
+  "id": "nbc_041",
+  "name": "萧悫",
+  "dynasty": "南北朝",
+  "file": "nbc_041.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%90%A7%E6%82%AB",
+  "image": "https://oss.guwendao.net/authorImg300/xiaoque.jpg",
+  "verified": true
+ },
+ {
+  "id": "nbc_044",
+  "name": "魏收",
+  "dynasty": "南北朝",
+  "file": "nbc_044.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%AD%8F%E6%94%B6",
+  "image": "https://oss.guwendao.net/authorImg300/weishou.jpg",
+  "verified": true
+ },
+ {
+  "id": "nbc_055",
+  "name": "丘迟",
+  "dynasty": "南北朝",
+  "file": "nbc_055.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E4%B8%98%E8%BF%9F",
+  "image": "https://oss.guwendao.net/authorImg300/qiuchi.jpg",
+  "verified": true
+ },
+ {
+  "id": "nbc_057",
+  "name": "顾野王",
+  "dynasty": "南北朝",
+  "file": "nbc_057.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%A1%BE%E9%87%8E%E7%8E%8B",
+  "image": "https://oss.guwendao.net/authorImg300/guyewang.jpg",
+  "verified": true
+ },
+ {
+  "id": "nbc_058",
+  "name": "鲍令晖",
+  "dynasty": "南北朝",
+  "file": "nbc_058.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%B2%8D%E4%BB%A4%E6%99%96",
+  "image": "https://oss.guwendao.net/authorImg300/baolinghui.jpg",
+  "verified": true
+ },
+ {
+  "id": "nbc_066",
+  "name": "邢邵",
+  "dynasty": "南北朝",
+  "file": "nbc_066.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%82%A2%E9%82%B5",
+  "image": "https://oss.guwendao.net/authorImg300/xingshao.jpg",
+  "verified": true
+ },
+ {
+  "id": "nbc_069",
+  "name": "刘令娴",
+  "dynasty": "南北朝",
+  "file": "nbc_069.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%88%98%E4%BB%A4%E5%A8%B4",
+  "image": "https://oss.guwendao.net/authorImg300/liulingxian.jpg",
+  "verified": true
+ },
+ {
+  "id": "nbc_082",
+  "name": "颜之推",
+  "dynasty": "南北朝",
+  "file": "nbc_082.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%A2%9C%E4%B9%8B%E6%8E%A8",
+  "image": "https://oss.guwendao.net/authorImg300/yanzhitui.jpg",
+  "verified": true
+ },
+ {
+  "id": "nbc_085",
+  "name": "王微",
+  "dynasty": "南北朝",
+  "file": "nbc_085.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%8E%8B%E5%BE%AE",
+  "image": "https://oss.guwendao.net/authorImg300/wangwei1.jpg",
+  "verified": true
+ },
+ {
+  "id": "nbc_094",
+  "name": "陶弘景",
+  "dynasty": "南北朝",
+  "file": "nbc_094.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%99%B6%E5%BC%98%E6%99%AF",
+  "image": "https://oss.guwendao.net/authorImg300/taohongjing.jpg",
+  "verified": true
+ },
+ {
+  "id": "nbc_096",
+  "name": "孔稚圭",
+  "dynasty": "南北朝",
+  "file": "nbc_096.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%AD%94%E7%A8%9A%E5%9C%AD",
+  "image": "https://oss.guwendao.net/authorImg300/kongzhigui.jpg",
+  "verified": true
+ },
+ {
+  "id": "sui_002",
+  "name": "杨广",
+  "dynasty": "隋",
+  "file": "sui_002.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%A8%E5%B9%BF",
+  "image": "https://oss.guwendao.net/authorImg300/yangguang.jpg",
+  "verified": true
+ },
+ {
+  "id": "sui_003",
+  "name": "卢思道",
+  "dynasty": "隋",
+  "file": "sui_003.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%8D%A2%E6%80%9D%E9%81%93",
+  "image": "https://oss.guwendao.net/authorImg300/lusidao.jpg",
+  "verified": true
+ },
+ {
+  "id": "sui_004",
+  "name": "薛道衡",
+  "dynasty": "隋",
+  "file": "sui_004.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%96%9B%E9%81%93%E8%A1%A1",
+  "image": "https://oss.guwendao.net/authorImg300/xuedaoheng.jpg",
+  "verified": true
+ },
+ {
+  "id": "sui_005",
+  "name": "杨素",
+  "dynasty": "隋",
+  "file": "sui_005.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%A8%E7%B4%A0",
+  "image": "https://oss.guwendao.net/authorImg300/yangsu.jpg",
+  "verified": true
+ },
+ {
+  "id": "sui_006",
+  "name": "王胄",
+  "dynasty": "隋",
+  "file": "sui_006.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%8E%8B%E8%83%84",
+  "image": "https://oss.guwendao.net/authorImg300/wangzhou.jpg",
+  "verified": true
+ },
+ {
+  "id": "sui_027",
+  "name": "王翙",
+  "dynasty": "隋",
+  "file": "sui_027.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%8E%8B%E7%BF%99",
+  "image": "https://oss.guwendao.net/authorImg300/wanghui.jpg",
+  "verified": true
+ },
+ {
+  "id": "sui_030",
+  "name": "元行恭",
+  "dynasty": "隋",
+  "file": "sui_030.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%85%83%E8%A1%8C%E6%81%AD",
+  "image": "https://oss.guwendao.net/authorImg300/%E6%9C%AA%E7%9F%A5.jpg",
+  "verified": true
+ },
+ {
+  "id": "sui_037",
+  "name": "乙支文德",
+  "dynasty": "隋",
+  "file": "sui_037.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E4%B9%99%E6%94%AF%E6%96%87%E5%BE%B7",
+  "image": "https://oss.guwendao.net/authorImg300/yizhiwende.jpg",
+  "verified": true
+ },
+ {
+  "id": "sui_056",
+  "name": "杨坚",
+  "dynasty": "隋",
+  "file": "sui_056.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%A8%E5%9D%9A",
+  "image": "https://oss.guwendao.net/authorImg300/yangjian.jpg",
+  "verified": true
+ },
+ {
+  "id": "sui_064",
+  "name": "王通",
+  "dynasty": "隋",
+  "file": "sui_064.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%8E%8B%E9%80%9A",
+  "image": "https://oss.guwendao.net/authorImg300/wangtong.jpg",
+  "verified": true
+ },
+ {
+  "id": "libai",
+  "name": "李白",
+  "dynasty": "唐",
+  "file": "libai.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%8E%E7%99%BD",
+  "image": "https://oss.guwendao.net/authorImg300/libai.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_006",
+  "name": "齐己",
+  "dynasty": "唐",
+  "file": "tang_006.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%BD%90%E5%B7%B1",
+  "image": "https://oss.guwendao.net/authorImg300/qiji.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_007",
+  "name": "贯休",
+  "dynasty": "唐",
+  "file": "tang_007.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%B4%AF%E4%BC%91",
+  "image": "https://oss.guwendao.net/authorImg300/guanxiu.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_008",
+  "name": "陆龟蒙",
+  "dynasty": "唐",
+  "file": "tang_008.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%99%86%E9%BE%9F%E8%92%99",
+  "image": "https://oss.guwendao.net/authorImg300/luguimeng.jpg",
+  "verified": true
+ },
+ {
+  "id": "lishangyin",
+  "name": "李商隐",
+  "dynasty": "唐",
+  "file": "lishangyin.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%8E%E5%95%86%E9%9A%90",
+  "image": "https://oss.guwendao.net/authorImg300/lishangyin.jpg",
+  "verified": true
+ },
+ {
+  "id": "weiyingwu",
+  "name": "韦应物",
+  "dynasty": "唐",
+  "file": "weiyingwu.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%9F%A6%E5%BA%94%E7%89%A9",
+  "image": "https://oss.guwendao.net/authorImg300/weiyingwu.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_011",
+  "name": "姚合",
+  "dynasty": "唐",
+  "file": "tang_011.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%A7%9A%E5%90%88",
+  "image": "https://oss.guwendao.net/authorImg300/yaohe.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_012",
+  "name": "王建",
+  "dynasty": "唐",
+  "file": "tang_012.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%8E%8B%E5%BB%BA",
+  "image": "https://oss.guwendao.net/authorImg300/wangjian.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_013",
+  "name": "许浑",
+  "dynasty": "唐",
+  "file": "tang_013.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%AE%B8%E6%B5%91",
+  "image": "https://oss.guwendao.net/authorImg300/xuhun.jpg",
+  "verified": true
+ },
+ {
+  "id": "mengjiao",
+  "name": "孟郊",
+  "dynasty": "唐",
+  "file": "mengjiao.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%AD%9F%E9%83%8A",
+  "image": "https://oss.guwendao.net/authorImg300/mengjiao.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_015",
+  "name": "皎然",
+  "dynasty": "唐",
+  "file": "tang_015.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%9A%8E%E7%84%B6",
+  "image": "https://oss.guwendao.net/authorImg300/jiaoran.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_017",
+  "name": "罗隐",
+  "dynasty": "唐",
+  "file": "tang_017.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%BD%97%E9%9A%90",
+  "image": "https://oss.guwendao.net/authorImg300/luoyin.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_018",
+  "name": "刘长卿",
+  "dynasty": "唐",
+  "file": "tang_018.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%88%98%E9%95%BF%E5%8D%BF",
+  "image": "https://oss.guwendao.net/authorImg300/liuchangqing.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_019",
+  "name": "皮日休",
+  "dynasty": "唐",
+  "file": "tang_019.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%9A%AE%E6%97%A5%E4%BC%91",
+  "image": "https://oss.guwendao.net/authorImg300/pirixiu.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_020",
+  "name": "司空图",
+  "dynasty": "唐",
+  "file": "tang_020.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%8F%B8%E7%A9%BA%E5%9B%BE",
+  "image": "https://oss.guwendao.net/authorImg300/sikongtu.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_022",
+  "name": "张籍",
+  "dynasty": "唐",
+  "file": "tang_022.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%BC%A0%E7%B1%8D",
+  "image": "https://oss.guwendao.net/authorImg300/zhangji.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_023",
+  "name": "钱起",
+  "dynasty": "唐",
+  "file": "tang_023.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%92%B1%E8%B5%B7",
+  "image": "https://oss.guwendao.net/authorImg300/qianqi.jpg",
+  "verified": true
+ },
+ {
+  "id": "jiadao",
+  "name": "贾岛",
+  "dynasty": "唐",
+  "file": "jiadao.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%B4%BE%E5%B2%9B",
+  "image": "https://oss.guwendao.net/authorImg300/jiadao.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_027",
+  "name": "权德舆",
+  "dynasty": "唐",
+  "file": "tang_027.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%83%E5%BE%B7%E8%88%86",
+  "image": "https://oss.guwendao.net/authorImg300/quandeyu.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_029",
+  "name": "韦庄",
+  "dynasty": "唐",
+  "file": "tang_029.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%9F%A6%E5%BA%84",
+  "image": "https://oss.guwendao.net/authorImg300/weizhuang.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_030",
+  "name": "张说",
+  "dynasty": "唐",
+  "file": "tang_030.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%BC%A0%E8%AF%B4",
+  "image": "https://oss.guwendao.net/authorImg300/zhangshuo.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_031",
+  "name": "张祜",
+  "dynasty": "唐",
+  "file": "tang_031.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%BC%A0%E7%A5%9C",
+  "image": "https://oss.guwendao.net/authorImg300/zhanghu.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_032",
+  "name": "韩偓",
+  "dynasty": "唐",
+  "file": "tang_032.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%9F%A9%E5%81%93",
+  "image": "https://oss.guwendao.net/authorImg300/hanwo.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_033",
+  "name": "卢纶",
+  "dynasty": "唐",
+  "file": "tang_033.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%8D%A2%E7%BA%B6",
+  "image": "https://oss.guwendao.net/authorImg300/lulun.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_034",
+  "name": "方干",
+  "dynasty": "唐",
+  "file": "tang_034.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%96%B9%E5%B9%B2",
+  "image": "https://oss.guwendao.net/authorImg300/fanggan.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_036",
+  "name": "郑谷",
+  "dynasty": "唐",
+  "file": "tang_036.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%83%91%E8%B0%B7",
+  "image": "https://oss.guwendao.net/authorImg300/zhenggu.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_037",
+  "name": "李中",
+  "dynasty": "唐",
+  "file": "tang_037.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%8E%E4%B8%AD",
+  "image": "https://oss.guwendao.net/authorImg300/%E4%BA%94%E4%BB%A3.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_038",
+  "name": "杜荀鹤",
+  "dynasty": "唐",
+  "file": "tang_038.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%9C%E8%8D%80%E9%B9%A4",
+  "image": "https://oss.guwendao.net/authorImg300/duxunhe.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_039",
+  "name": "寒山",
+  "dynasty": "唐",
+  "file": "tang_039.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%AF%92%E5%B1%B1",
+  "image": "https://oss.guwendao.net/authorImg300/hanshan.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_040",
+  "name": "吴融",
+  "dynasty": "唐",
+  "file": "tang_040.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%90%B4%E8%9E%8D",
+  "image": "https://oss.guwendao.net/authorImg300/wurong.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_041",
+  "name": "吕岩",
+  "dynasty": "唐",
+  "file": "tang_041.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%90%95%E5%B2%A9",
+  "image": "https://oss.guwendao.net/authorImg300/lvyan.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_042",
+  "name": "徐夤",
+  "dynasty": "唐",
+  "file": "tang_042.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%BE%90%E5%A4%A4",
+  "image": "https://oss.guwendao.net/authorImg300/xuyi.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_043",
+  "name": "戴叔伦",
+  "dynasty": "唐",
+  "file": "tang_043.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%88%B4%E5%8F%94%E4%BC%A6",
+  "image": "https://oss.guwendao.net/authorImg300/daishulun.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_044",
+  "name": "李群玉",
+  "dynasty": "唐",
+  "file": "tang_044.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%8E%E7%BE%A4%E7%8E%89",
+  "image": "https://oss.guwendao.net/authorImg300/liqunyu.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_045",
+  "name": "赵嘏",
+  "dynasty": "唐",
+  "file": "tang_045.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E8%B5%B5%E5%98%8F",
+  "image": "https://oss.guwendao.net/authorImg300/zhaogu.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_049",
+  "name": "顾况",
+  "dynasty": "唐",
+  "file": "tang_049.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E9%A1%BE%E5%86%B5",
+  "image": "https://oss.guwendao.net/authorImg300/gukuang.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_050",
+  "name": "李端",
+  "dynasty": "唐",
+  "file": "tang_050.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%8E%E7%AB%AF",
+  "image": "https://oss.guwendao.net/authorImg300/liduan.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_051",
+  "name": "储光羲",
+  "dynasty": "唐",
+  "file": "tang_051.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%82%A8%E5%85%89%E7%BE%B2",
+  "image": "https://oss.guwendao.net/authorImg300/chuguangxi.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_052",
+  "name": "皇甫冉",
+  "dynasty": "唐",
+  "file": "tang_052.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E7%9A%87%E7%94%AB%E5%86%89",
+  "image": "https://oss.guwendao.net/authorImg300/huangfuran.jpg",
+  "verified": true
+ },
+ {
+  "id": "zhangjiuling",
+  "name": "张九龄",
+  "dynasty": "唐",
+  "file": "zhangjiuling.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E5%BC%A0%E4%B9%9D%E9%BE%84",
+  "image": "https://oss.guwendao.net/authorImg300/zhangjiuling.jpg",
+  "verified": true
+ },
+ {
+  "id": "tang_054",
+  "name": "李峤",
+  "dynasty": "唐",
+  "file": "tang_054.jpg",
+  "source": "https://www.gushiwen.cn/authorv.aspx?name=%E6%9D%8E%E5%B3%A4",
+  "image": "https://oss.guwendao.net/authorImg300/liqiao.jpg",
+  "verified": true
+ }
+]

@@ -1,0 +1,2172 @@
+{
+ "wj_026": {
+  "id": "wj_026",
+  "name": "曹睿",
+  "dyn": "魏晋",
+  "url": "https://oss.guwendao.net/authorImg300/caorui.jpg",
+  "variant": "曹睿",
+  "file": "wj_026.jpg",
+  "bytes": 81374,
+  "via": "pinyin-guess"
+ },
+ "tang_055": {
+  "id": "tang_055",
+  "name": "黄滔",
+  "dyn": "唐",
+  "url": "https://oss.guwendao.net/authorImg300/huangtao.jpg",
+  "variant": "黄滔",
+  "file": "tang_055.jpg",
+  "bytes": 62118,
+  "via": "pinyin-guess"
+ },
+ "tang_056": {
+  "id": "tang_056",
+  "name": "施肩吾",
+  "dyn": "唐",
+  "url": "https://oss.guwendao.net/authorImg300/shijianwu.jpg",
+  "variant": "施肩吾",
+  "file": "tang_056.jpg",
+  "bytes": 60697,
+  "via": "pinyin-guess"
+ },
+ "tang_059": {
+  "id": "tang_059",
+  "name": "宋之问",
+  "dyn": "唐",
+  "url": "https://oss.guwendao.net/authorImg300/songzhiwen.jpg",
+  "variant": "宋之问",
+  "file": "tang_059.jpg",
+  "bytes": 79197,
+  "via": "pinyin-guess"
+ },
+ "tang_060": {
+  "id": "tang_060",
+  "name": "李频",
+  "dyn": "唐",
+  "url": "https://oss.guwendao.net/authorImg300/lipin.jpg",
+  "variant": "李频",
+  "file": "tang_060.jpg",
+  "bytes": 49190,
+  "via": "pinyin-guess"
+ },
+ "tang_061": {
+  "id": "tang_061",
+  "name": "鲍溶",
+  "dyn": "唐",
+  "url": "https://oss.guwendao.net/authorImg300/baorong.jpg",
+  "variant": "鲍溶",
+  "file": "tang_061.jpg",
+  "bytes": 78831,
+  "via": "pinyin-guess"
+ },
+ "tang_062": {
+  "id": "tang_062",
+  "name": "李咸用",
+  "dyn": "唐",
+  "url": "https://oss.guwendao.net/authorImg300/lixianyong.jpg",
+  "variant": "李咸用",
+  "file": "tang_062.jpg",
+  "bytes": 20305,
+  "via": "pinyin-guess"
+ },
+ "tang_063": {
+  "id": "tang_063",
+  "name": "武元衡",
+  "dyn": "唐",
+  "url": "https://oss.guwendao.net/authorImg300/wuyuanheng.jpg",
+  "variant": "武元衡",
+  "file": "tang_063.jpg",
+  "bytes": 41775,
+  "via": "pinyin-guess"
+ },
+ "tang_066": {
+  "id": "tang_066",
+  "name": "陈陶",
+  "dyn": "唐",
+  "url": "https://oss.guwendao.net/authorImg300/chentao.jpg",
+  "variant": "陈陶",
+  "file": "tang_066.jpg",
+  "bytes": 12459,
+  "via": "pinyin-guess"
+ },
+ "tang_067": {
+  "id": "tang_067",
+  "name": "马戴",
+  "dyn": "唐",
+  "url": "https://oss.guwendao.net/authorImg300/madai.jpg",
+  "variant": "马戴",
+  "file": "tang_067.jpg",
+  "bytes": 11996,
+  "via": "pinyin-guess"
+ },
+ "tang_068": {
+  "id": "tang_068",
+  "name": "朱庆馀",
+  "dyn": "唐",
+  "url": "https://oss.guwendao.net/authorImg300/zhuqingyu.jpg",
+  "variant": "朱庆馀",
+  "file": "tang_068.jpg",
+  "bytes": 56798,
+  "via": "pinyin-guess"
+ },
+ "tang_069": {
+  "id": "tang_069",
+  "name": "李益",
+  "dyn": "唐",
+  "url": "https://oss.guwendao.net/authorImg300/liyi.jpg",
+  "variant": "李益",
+  "file": "tang_069.jpg",
+  "bytes": 58549,
+  "via": "pinyin-guess"
+ },
+ "tang_070": {
+  "id": "tang_070",
+  "name": "张乔",
+  "dyn": "唐",
+  "url": "https://oss.guwendao.net/authorImg300/zhangqiao.jpg",
+  "variant": "张乔",
+  "file": "tang_070.jpg",
+  "bytes": 12319,
+  "via": "pinyin-guess"
+ },
+ "tang_072": {
+  "id": "tang_072",
+  "name": "李洞",
+  "dyn": "唐",
+  "url": "https://oss.guwendao.net/authorImg300/lidong.jpg",
+  "variant": "李洞",
+  "file": "tang_072.jpg",
+  "bytes": 54530,
+  "via": "pinyin-guess"
+ },
+ "tang_073": {
+  "id": "tang_073",
+  "name": "司空曙",
+  "dyn": "唐",
+  "url": "https://oss.guwendao.net/authorImg300/sikongshu.jpg",
+  "variant": "司空曙",
+  "file": "tang_073.jpg",
+  "bytes": 38909,
+  "via": "pinyin-guess"
+ },
+ "tang_074": {
+  "id": "tang_074",
+  "name": "杨巨源",
+  "dyn": "唐",
+  "url": "https://oss.guwendao.net/authorImg300/yangjuyuan.jpg",
+  "variant": "杨巨源",
+  "file": "tang_074.jpg",
+  "bytes": 46734,
+  "via": "pinyin-guess"
+ },
+ "tang_076": {
+  "id": "tang_076",
+  "name": "唐彦谦",
+  "dyn": "唐",
+  "url": "https://oss.guwendao.net/authorImg300/tangyanqian.jpg",
+  "variant": "唐彦谦",
+  "file": "tang_076.jpg",
+  "bytes": 15649,
+  "via": "pinyin-guess"
+ },
+ "tang_077": {
+  "id": "tang_077",
+  "name": "曹唐",
+  "dyn": "唐",
+  "url": "https://oss.guwendao.net/authorImg300/caotang.jpg",
+  "variant": "曹唐",
+  "file": "tang_077.jpg",
+  "bytes": 71118,
+  "via": "pinyin-guess"
+ },
+ "tang_080": {
+  "id": "tang_080",
+  "name": "沈佺期",
+  "dyn": "唐",
+  "url": "https://oss.guwendao.net/authorImg300/shenquanqi.jpg",
+  "variant": "沈佺期",
+  "file": "tang_080.jpg",
+  "bytes": 65198,
+  "via": "pinyin-guess"
+ },
+ "tang_081": {
+  "id": "tang_081",
+  "name": "罗邺",
+  "dyn": "唐",
+  "url": "https://oss.guwendao.net/authorImg300/luoye.jpg",
+  "variant": "罗邺",
+  "file": "tang_081.jpg",
+  "bytes": 49117,
+  "via": "pinyin-guess"
+ },
+ "tang_083": {
+  "id": "tang_083",
+  "name": "曹松",
+  "dyn": "唐",
+  "url": "https://oss.guwendao.net/authorImg300/caosong.jpg",
+  "variant": "曹松",
+  "file": "tang_083.jpg",
+  "bytes": 70608,
+  "via": "pinyin-guess"
+ },
+ "tang_085": {
+  "id": "tang_085",
+  "name": "李绅",
+  "dyn": "唐",
+  "url": "https://oss.guwendao.net/authorImg300/lishen.jpg",
+  "variant": "李绅",
+  "file": "tang_085.jpg",
+  "bytes": 63059,
+  "via": "pinyin-guess"
+ },
+ "tang_087": {
+  "id": "tang_087",
+  "name": "李德裕",
+  "dyn": "唐",
+  "url": "https://oss.guwendao.net/authorImg300/lideyu.jpg",
+  "variant": "李德裕",
+  "file": "tang_087.jpg",
+  "bytes": 75349,
+  "via": "pinyin-guess"
+ },
+ "tang_089": {
+  "id": "tang_089",
+  "name": "李涉",
+  "dyn": "唐",
+  "url": "https://oss.guwendao.net/authorImg300/lishe.jpg",
+  "variant": "李涉",
+  "file": "tang_089.jpg",
+  "bytes": 45786,
+  "via": "pinyin-guess"
+ },
+ "tang_091": {
+  "id": "tang_091",
+  "name": "吴筠",
+  "dyn": "唐",
+  "url": "https://oss.guwendao.net/authorImg300/wuyun.jpg",
+  "variant": "吴筠",
+  "file": "tang_091.jpg",
+  "bytes": 13314,
+  "via": "pinyin-guess"
+ },
+ "tang_094": {
+  "id": "tang_094",
+  "name": "李颀",
+  "dyn": "唐",
+  "url": "https://oss.guwendao.net/authorImg300/liqi.jpg",
+  "variant": "李颀",
+  "file": "tang_094.jpg",
+  "bytes": 59653,
+  "via": "pinyin-guess"
+ },
+ "tang_097": {
+  "id": "tang_097",
+  "name": "卢仝",
+  "dyn": "唐",
+  "url": "https://oss.guwendao.net/authorImg300/lutong.jpg",
+  "variant": "卢仝",
+  "file": "tang_097.jpg",
+  "bytes": 39910,
+  "via": "pinyin-guess"
+ },
+ "tang_098": {
+  "id": "tang_098",
+  "name": "吕温",
+  "dyn": "唐",
+  "url": "https://oss.guwendao.net/authorImg300/lvwen.jpg",
+  "variant": "吕温",
+  "file": "tang_098.jpg",
+  "bytes": 81036,
+  "via": "pinyin-guess"
+ },
+ "tang_099": {
+  "id": "tang_099",
+  "name": "冯延巳",
+  "dyn": "唐",
+  "url": "https://oss.guwendao.net/authorImg300/fengyansi.jpg",
+  "variant": "冯延巳",
+  "file": "tang_099.jpg",
+  "bytes": 25590,
+  "via": "pinyin-guess"
+ },
+ "tang_100": {
+  "id": "tang_100",
+  "name": "卢照邻",
+  "dyn": "唐",
+  "url": "https://oss.guwendao.net/authorImg300/luzhaolin.jpg",
+  "variant": "卢照邻",
+  "file": "tang_100.jpg",
+  "bytes": 63745,
+  "via": "pinyin-guess"
+ },
+ "wangzhihuan": {
+  "id": "wangzhihuan",
+  "name": "王之涣",
+  "dyn": "唐",
+  "url": "https://oss.guwendao.net/authorImg300/wangzhihuan.jpg",
+  "variant": "王之涣",
+  "file": "wangzhihuan.jpg",
+  "bytes": 25358,
+  "via": "pinyin-guess"
+ },
+ "zhangruoxu": {
+  "id": "zhangruoxu",
+  "name": "张若虚",
+  "dyn": "唐",
+  "url": "https://oss.guwendao.net/authorImg300/zhangruoxu.jpg",
+  "variant": "张若虚",
+  "file": "zhangruoxu.jpg",
+  "bytes": 16540,
+  "via": "pinyin-guess"
+ },
+ "wd_001": {
+  "id": "wd_001",
+  "name": "徐铉",
+  "dyn": "五代",
+  "url": "https://oss.guwendao.net/authorImg300/xuxuan.jpg",
+  "variant": "徐铉",
+  "file": "wd_001.jpg",
+  "bytes": 81598,
+  "via": "pinyin-guess"
+ },
+ "wd_002": {
+  "id": "wd_002",
+  "name": "孙光宪",
+  "dyn": "五代",
+  "url": "https://oss.guwendao.net/authorImg300/sunguangxian.jpg",
+  "variant": "孙光宪",
+  "file": "wd_002.jpg",
+  "bytes": 64954,
+  "via": "pinyin-guess"
+ },
+ "wd_009": {
+  "id": "wd_009",
+  "name": "谭用之",
+  "dyn": "五代",
+  "url": "https://oss.guwendao.net/authorImg300/tanyongzhi.jpg",
+  "variant": "谭用之",
+  "file": "wd_009.jpg",
+  "bytes": 14581,
+  "via": "pinyin-guess"
+ },
+ "wd_011": {
+  "id": "wd_011",
+  "name": "李珣",
+  "dyn": "五代",
+  "url": "https://oss.guwendao.net/authorImg300/lixun.jpg",
+  "variant": "李珣",
+  "file": "wd_011.jpg",
+  "bytes": 45259,
+  "via": "pinyin-guess"
+ },
+ "wd_017": {
+  "id": "wd_017",
+  "name": "张泌",
+  "dyn": "五代",
+  "url": "https://oss.guwendao.net/authorImg300/zhangmi.jpg",
+  "variant": "张泌",
+  "file": "wd_017.jpg",
+  "bytes": 11686,
+  "via": "pinyin-guess"
+ },
+ "wd_018": {
+  "id": "wd_018",
+  "name": "李九龄",
+  "dyn": "五代",
+  "url": "https://oss.guwendao.net/authorImg300/lijiuling.jpg",
+  "variant": "李九龄",
+  "file": "wd_018.jpg",
+  "bytes": 51858,
+  "via": "pinyin-guess"
+ },
+ "wd_019": {
+  "id": "wd_019",
+  "name": "伍乔",
+  "dyn": "五代",
+  "url": "https://oss.guwendao.net/authorImg300/wuqiao.jpg",
+  "variant": "伍乔",
+  "file": "wd_019.jpg",
+  "bytes": 12955,
+  "via": "pinyin-guess"
+ },
+ "wd_022": {
+  "id": "wd_022",
+  "name": "薛昭蕴",
+  "dyn": "五代",
+  "url": "https://oss.guwendao.net/authorImg300/xuezhaoyun.jpg",
+  "variant": "薛昭蕴",
+  "file": "wd_022.jpg",
+  "bytes": 16181,
+  "via": "pinyin-guess"
+ },
+ "wd_025": {
+  "id": "wd_025",
+  "name": "廖融",
+  "dyn": "五代",
+  "url": "https://oss.guwendao.net/authorImg300/liaorong.jpg",
+  "variant": "廖融",
+  "file": "wd_025.jpg",
+  "bytes": 62777,
+  "via": "pinyin-guess"
+ },
+ "wd_028": {
+  "id": "wd_028",
+  "name": "牛希济",
+  "dyn": "五代",
+  "url": "https://oss.guwendao.net/authorImg300/niuxiji.jpg",
+  "variant": "牛希济",
+  "file": "wd_028.jpg",
+  "bytes": 32304,
+  "via": "pinyin-guess"
+ },
+ "wd_031": {
+  "id": "wd_031",
+  "name": "阎选",
+  "dyn": "五代",
+  "url": "https://oss.guwendao.net/authorImg300/yanxuan.jpg",
+  "variant": "阎选",
+  "file": "wd_031.jpg",
+  "bytes": 11522,
+  "via": "pinyin-guess"
+ },
+ "wd_045": {
+  "id": "wd_045",
+  "name": "杨昭俭",
+  "dyn": "五代",
+  "url": "https://oss.guwendao.net/authorImg300/yangzhaojian.jpg",
+  "variant": "杨昭俭",
+  "file": "wd_045.jpg",
+  "bytes": 13240,
+  "via": "pinyin-guess"
+ },
+ "wd_047": {
+  "id": "wd_047",
+  "name": "胥偃",
+  "dyn": "五代",
+  "url": "https://oss.guwendao.net/authorImg300/xuyan.jpg",
+  "variant": "胥偃",
+  "file": "wd_047.jpg",
+  "bytes": 13949,
+  "via": "pinyin-guess"
+ },
+ "luyou": {
+  "id": "luyou",
+  "name": "陆游",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/luyou.jpg",
+  "variant": "陆游",
+  "file": "luyou.jpg",
+  "bytes": 30395,
+  "via": "pinyin-guess"
+ },
+ "song_002": {
+  "id": "song_002",
+  "name": "刘克庄",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/liukezhuang.jpg",
+  "variant": "刘克庄",
+  "file": "song_002.jpg",
+  "bytes": 35283,
+  "via": "pinyin-guess"
+ },
+ "yangwanli": {
+  "id": "yangwanli",
+  "name": "杨万里",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/yangwanli.jpg",
+  "variant": "杨万里",
+  "file": "yangwanli.jpg",
+  "bytes": 28803,
+  "via": "pinyin-guess"
+ },
+ "song_010": {
+  "id": "song_010",
+  "name": "张耒",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/zhanglei.jpg",
+  "variant": "张耒",
+  "file": "song_010.jpg",
+  "bytes": 46092,
+  "via": "pinyin-guess"
+ },
+ "song_012": {
+  "id": "song_012",
+  "name": "陈造",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/chenzao.jpg",
+  "variant": "陈造",
+  "file": "song_012.jpg",
+  "bytes": 15520,
+  "via": "pinyin-guess"
+ },
+ "song_013": {
+  "id": "song_013",
+  "name": "王十朋",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/wangshipeng.jpg",
+  "variant": "王十朋",
+  "file": "song_013.jpg",
+  "bytes": 69377,
+  "via": "pinyin-guess"
+ },
+ "song_015": {
+  "id": "song_015",
+  "name": "苏辙",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/suzhe.jpg",
+  "variant": "苏辙",
+  "file": "song_015.jpg",
+  "bytes": 70971,
+  "via": "pinyin-guess"
+ },
+ "song_016": {
+  "id": "song_016",
+  "name": "释德洪",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/shidehong.jpg",
+  "variant": "释德洪",
+  "file": "song_016.jpg",
+  "bytes": 60783,
+  "via": "pinyin-guess"
+ },
+ "song_017": {
+  "id": "song_017",
+  "name": "李纲",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/ligang.jpg",
+  "variant": "李纲",
+  "file": "song_017.jpg",
+  "bytes": 77189,
+  "via": "pinyin-guess"
+ },
+ "song_019": {
+  "id": "song_019",
+  "name": "曹勋",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/caoxun.jpg",
+  "variant": "曹勋",
+  "file": "song_019.jpg",
+  "bytes": 56704,
+  "via": "pinyin-guess"
+ },
+ "song_020": {
+  "id": "song_020",
+  "name": "刘敞",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/liuchang.jpg",
+  "variant": "刘敞",
+  "file": "song_020.jpg",
+  "bytes": 37821,
+  "via": "pinyin-guess"
+ },
+ "song_022": {
+  "id": "song_022",
+  "name": "方岳",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/fangyue.jpg",
+  "variant": "方岳",
+  "file": "song_022.jpg",
+  "bytes": 52496,
+  "via": "pinyin-guess"
+ },
+ "song_023": {
+  "id": "song_023",
+  "name": "宋祁",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/songqi.jpg",
+  "variant": "宋祁",
+  "file": "song_023.jpg",
+  "bytes": 58485,
+  "via": "pinyin-guess"
+ },
+ "song_025": {
+  "id": "song_025",
+  "name": "邵雍",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/shaoyong.jpg",
+  "variant": "邵雍",
+  "file": "song_025.jpg",
+  "bytes": 74382,
+  "via": "pinyin-guess"
+ },
+ "song_027": {
+  "id": "song_027",
+  "name": "陈著",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/chenzhu.jpg",
+  "variant": "陈著",
+  "file": "song_027.jpg",
+  "bytes": 49195,
+  "via": "pinyin-guess"
+ },
+ "song_029": {
+  "id": "song_029",
+  "name": "吕本中",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/lvbenzhong.jpg",
+  "variant": "吕本中",
+  "file": "song_029.jpg",
+  "bytes": 60575,
+  "via": "pinyin-guess"
+ },
+ "xinqiji": {
+  "id": "xinqiji",
+  "name": "辛弃疾",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/xinqiji.jpg",
+  "variant": "辛弃疾",
+  "file": "xinqiji.jpg",
+  "bytes": 22629,
+  "via": "pinyin-guess"
+ },
+ "song_035": {
+  "id": "song_035",
+  "name": "刘攽",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/liuban.jpg",
+  "variant": "刘攽",
+  "file": "song_035.jpg",
+  "bytes": 41432,
+  "via": "pinyin-guess"
+ },
+ "song_037": {
+  "id": "song_037",
+  "name": "王之道",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/wangzhidao.jpg",
+  "variant": "王之道",
+  "file": "song_037.jpg",
+  "bytes": 10643,
+  "via": "pinyin-guess"
+ },
+ "song_039": {
+  "id": "song_039",
+  "name": "白玉蟾",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/baiyuchan.jpg",
+  "variant": "白玉蟾",
+  "file": "song_039.jpg",
+  "bytes": 84465,
+  "via": "pinyin-guess"
+ },
+ "song_043": {
+  "id": "song_043",
+  "name": "洪咨夔",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/hongzikui.jpg",
+  "variant": "洪咨夔",
+  "file": "song_043.jpg",
+  "bytes": 96044,
+  "via": "pinyin-guess"
+ },
+ "song_044": {
+  "id": "song_044",
+  "name": "贺铸",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/hezhu.jpg",
+  "variant": "贺铸",
+  "file": "song_044.jpg",
+  "bytes": 20851,
+  "via": "pinyin-guess"
+ },
+ "song_046": {
+  "id": "song_046",
+  "name": "戴复古",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/daifugu.jpg",
+  "variant": "戴复古",
+  "file": "song_046.jpg",
+  "bytes": 39733,
+  "via": "pinyin-guess"
+ },
+ "song_048": {
+  "id": "song_048",
+  "name": "洪适",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/hongshi.jpg",
+  "variant": "洪适",
+  "file": "song_048.jpg",
+  "bytes": 47701,
+  "via": "pinyin-guess"
+ },
+ "song_049": {
+  "id": "song_049",
+  "name": "韩维",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/hanwei.jpg",
+  "variant": "韩维",
+  "file": "song_049.jpg",
+  "bytes": 15366,
+  "via": "pinyin-guess"
+ },
+ "song_051": {
+  "id": "song_051",
+  "name": "邹浩",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/zouhao.jpg",
+  "variant": "邹浩",
+  "file": "song_051.jpg",
+  "bytes": 52575,
+  "via": "pinyin-guess"
+ },
+ "song_052": {
+  "id": "song_052",
+  "name": "释文珦",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/shiwenxiang.jpg",
+  "variant": "释文珦",
+  "file": "song_052.jpg",
+  "bytes": 71017,
+  "via": "pinyin-guess"
+ },
+ "song_054": {
+  "id": "song_054",
+  "name": "晁补之",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/chaobuzhi.jpg",
+  "variant": "晁补之",
+  "file": "song_054.jpg",
+  "bytes": 47566,
+  "via": "pinyin-guess"
+ },
+ "song_055": {
+  "id": "song_055",
+  "name": "周必大",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/zhoubida.jpg",
+  "variant": "周必大",
+  "file": "song_055.jpg",
+  "bytes": 62046,
+  "via": "pinyin-guess"
+ },
+ "song_056": {
+  "id": "song_056",
+  "name": "李之仪",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/lizhiyi.jpg",
+  "variant": "李之仪",
+  "file": "song_056.jpg",
+  "bytes": 75374,
+  "via": "pinyin-guess"
+ },
+ "song_063": {
+  "id": "song_063",
+  "name": "王炎",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/wangyan.jpg",
+  "variant": "王炎",
+  "file": "song_063.jpg",
+  "bytes": 14573,
+  "via": "pinyin-guess"
+ },
+ "song_064": {
+  "id": "song_064",
+  "name": "李弥逊",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/limixun.jpg",
+  "variant": "李弥逊",
+  "file": "song_064.jpg",
+  "bytes": 14317,
+  "via": "pinyin-guess"
+ },
+ "song_065": {
+  "id": "song_065",
+  "name": "王庭圭",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/wangtinggui.jpg",
+  "variant": "王庭圭",
+  "file": "song_065.jpg",
+  "bytes": 55665,
+  "via": "pinyin-guess"
+ },
+ "song_068": {
+  "id": "song_068",
+  "name": "刘辰翁",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/liuchenweng.jpg",
+  "variant": "刘辰翁",
+  "file": "song_068.jpg",
+  "bytes": 53463,
+  "via": "pinyin-guess"
+ },
+ "song_069": {
+  "id": "song_069",
+  "name": "张孝祥",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/zhangxiaoxiang.jpg",
+  "variant": "张孝祥",
+  "file": "song_069.jpg",
+  "bytes": 21817,
+  "via": "pinyin-guess"
+ },
+ "song_073": {
+  "id": "song_073",
+  "name": "舒岳祥",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/shuyuexiang.jpg",
+  "variant": "舒岳祥",
+  "file": "song_073.jpg",
+  "bytes": 58099,
+  "via": "pinyin-guess"
+ },
+ "song_076": {
+  "id": "song_076",
+  "name": "文同",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/wentong.jpg",
+  "variant": "文同",
+  "file": "song_076.jpg",
+  "bytes": 46905,
+  "via": "pinyin-guess"
+ },
+ "song_077": {
+  "id": "song_077",
+  "name": "宋庠",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/songxiang.jpg",
+  "variant": "宋庠",
+  "file": "song_077.jpg",
+  "bytes": 45781,
+  "via": "pinyin-guess"
+ },
+ "song_078": {
+  "id": "song_078",
+  "name": "陈师道",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/chenshidao.jpg",
+  "variant": "陈师道",
+  "file": "song_078.jpg",
+  "bytes": 57337,
+  "via": "pinyin-guess"
+ },
+ "song_079": {
+  "id": "song_079",
+  "name": "史浩",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/shihao.jpg",
+  "variant": "史浩",
+  "file": "song_079.jpg",
+  "bytes": 67508,
+  "via": "pinyin-guess"
+ },
+ "song_082": {
+  "id": "song_082",
+  "name": "岳珂",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/yueke.jpg",
+  "variant": "岳珂",
+  "file": "song_082.jpg",
+  "bytes": 44633,
+  "via": "pinyin-guess"
+ },
+ "song_083": {
+  "id": "song_083",
+  "name": "陈普",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/chenpu.jpg",
+  "variant": "陈普",
+  "file": "song_083.jpg",
+  "bytes": 49718,
+  "via": "pinyin-guess"
+ },
+ "song_084": {
+  "id": "song_084",
+  "name": "黄裳",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/huangshang.jpg",
+  "variant": "黄裳",
+  "file": "song_084.jpg",
+  "bytes": 55539,
+  "via": "pinyin-guess"
+ },
+ "song_087": {
+  "id": "song_087",
+  "name": "徐积",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/xuji.jpg",
+  "variant": "徐积",
+  "file": "song_087.jpg",
+  "bytes": 59229,
+  "via": "pinyin-guess"
+ },
+ "song_090": {
+  "id": "song_090",
+  "name": "程俱",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/chengju.jpg",
+  "variant": "程俱",
+  "file": "song_090.jpg",
+  "bytes": 85293,
+  "via": "pinyin-guess"
+ },
+ "song_092": {
+  "id": "song_092",
+  "name": "韩琦",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/hanqi.jpg",
+  "variant": "韩琦",
+  "file": "song_092.jpg",
+  "bytes": 75911,
+  "via": "pinyin-guess"
+ },
+ "song_093": {
+  "id": "song_093",
+  "name": "赵抃",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/zhaobian.jpg",
+  "variant": "赵抃",
+  "file": "song_093.jpg",
+  "bytes": 47091,
+  "via": "pinyin-guess"
+ },
+ "song_094": {
+  "id": "song_094",
+  "name": "周密",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/zhoumi.jpg",
+  "variant": "周密",
+  "file": "song_094.jpg",
+  "bytes": 59990,
+  "via": "pinyin-guess"
+ },
+ "song_096": {
+  "id": "song_096",
+  "name": "张嵲",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/zhangnie.jpg",
+  "variant": "张嵲",
+  "file": "song_096.jpg",
+  "bytes": 134233,
+  "via": "pinyin-guess"
+ },
+ "song_097": {
+  "id": "song_097",
+  "name": "郑刚中",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/zhenggangzhong.jpg",
+  "variant": "郑刚中",
+  "file": "song_097.jpg",
+  "bytes": 96099,
+  "via": "pinyin-guess"
+ },
+ "song_098": {
+  "id": "song_098",
+  "name": "陈与义",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/chenyuyi.jpg",
+  "variant": "陈与义",
+  "file": "song_098.jpg",
+  "bytes": 48059,
+  "via": "pinyin-guess"
+ },
+ "yanshu": {
+  "id": "yanshu",
+  "name": "晏殊",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/yanshu.jpg",
+  "variant": "晏殊",
+  "file": "yanshu.jpg",
+  "bytes": 23692,
+  "via": "pinyin-guess"
+ },
+ "liuyong": {
+  "id": "liuyong",
+  "name": "柳永",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/liuyong.jpg",
+  "variant": "柳永",
+  "file": "liuyong.jpg",
+  "bytes": 67017,
+  "via": "pinyin-guess"
+ },
+ "zhoubangyan": {
+  "id": "zhoubangyan",
+  "name": "周邦彦",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/zhoubangyan.jpg",
+  "variant": "周邦彦",
+  "file": "zhoubangyan.jpg",
+  "bytes": 21495,
+  "via": "pinyin-guess"
+ },
+ "liqingzhao": {
+  "id": "liqingzhao",
+  "name": "李清照",
+  "dyn": "宋",
+  "url": "https://oss.guwendao.net/authorImg300/liqingzhao.jpg",
+  "variant": "李清照",
+  "file": "liqingzhao.jpg",
+  "bytes": 19125,
+  "via": "pinyin-guess"
+ },
+ "liao_001": {
+  "id": "liao_001",
+  "name": "萧观音",
+  "dyn": "辽",
+  "url": "https://oss.guwendao.net/authorImg300/xiaoguanyin.jpg",
+  "variant": "萧观音",
+  "file": "liao_001.jpg",
+  "bytes": 57564,
+  "via": "pinyin-guess"
+ },
+ "liao_006": {
+  "id": "liao_006",
+  "name": "耶律隆绪",
+  "dyn": "辽",
+  "url": "https://oss.guwendao.net/authorImg300/yelvlongxu.jpg",
+  "variant": "耶律隆绪",
+  "file": "liao_006.jpg",
+  "bytes": 110893,
+  "via": "pinyin-guess"
+ },
+ "jin_001": {
+  "id": "jin_001",
+  "name": "赵秉文",
+  "dyn": "金",
+  "url": "https://oss.guwendao.net/authorImg300/zhaobingwen.jpg",
+  "variant": "赵秉文",
+  "file": "jin_001.jpg",
+  "bytes": 62470,
+  "via": "pinyin-guess"
+ },
+ "jin_005": {
+  "id": "jin_005",
+  "name": "党怀英",
+  "dyn": "金",
+  "url": "https://oss.guwendao.net/authorImg300/danghuaiying.jpg",
+  "variant": "党怀英",
+  "file": "jin_005.jpg",
+  "bytes": 55026,
+  "via": "pinyin-guess"
+ },
+ "jin_008": {
+  "id": "jin_008",
+  "name": "吴激",
+  "dyn": "金",
+  "url": "https://oss.guwendao.net/authorImg300/wuji.jpg",
+  "variant": "吴激",
+  "file": "jin_008.jpg",
+  "bytes": 48775,
+  "via": "pinyin-guess"
+ },
+ "jin_050": {
+  "id": "jin_050",
+  "name": "王渥",
+  "dyn": "金",
+  "url": "https://oss.guwendao.net/authorImg300/wangwo.jpg",
+  "variant": "王渥",
+  "file": "jin_050.jpg",
+  "bytes": 47710,
+  "via": "pinyin-guess"
+ },
+ "jin_059": {
+  "id": "jin_059",
+  "name": "刘豫",
+  "dyn": "金",
+  "url": "https://oss.guwendao.net/authorImg300/liuyu.jpg",
+  "variant": "刘豫",
+  "file": "jin_059.jpg",
+  "bytes": 58863,
+  "via": "pinyin-guess"
+ },
+ "yuan_001": {
+  "id": "yuan_001",
+  "name": "李俊民",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/lijunmin.jpg",
+  "variant": "李俊民",
+  "file": "yuan_001.jpg",
+  "bytes": 82514,
+  "via": "pinyin-guess"
+ },
+ "yuan_006": {
+  "id": "yuan_006",
+  "name": "马钰",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/mayu.jpg",
+  "variant": "马钰",
+  "file": "yuan_006.jpg",
+  "bytes": 72298,
+  "via": "pinyin-guess"
+ },
+ "yuan_008": {
+  "id": "yuan_008",
+  "name": "宋褧",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/songjiong.jpg",
+  "variant": "宋褧",
+  "file": "yuan_008.jpg",
+  "bytes": 69544,
+  "via": "pinyin-guess"
+ },
+ "yuan_009": {
+  "id": "yuan_009",
+  "name": "耶律楚材",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/yelvchucai.jpg",
+  "variant": "耶律楚材",
+  "file": "yuan_009.jpg",
+  "bytes": 72800,
+  "via": "pinyin-guess"
+ },
+ "wangmian": {
+  "id": "wangmian",
+  "name": "王冕",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/wangmian.jpg",
+  "variant": "王冕",
+  "file": "wangmian.jpg",
+  "bytes": 48912,
+  "via": "pinyin-guess"
+ },
+ "yuan_013": {
+  "id": "yuan_013",
+  "name": "王哲",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/wangzhe.jpg",
+  "variant": "王哲",
+  "file": "yuan_013.jpg",
+  "bytes": 79968,
+  "via": "pinyin-guess"
+ },
+ "yuan_014": {
+  "id": "yuan_014",
+  "name": "赵孟頫",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/zhaomengfu.jpg",
+  "variant": "赵孟頫",
+  "file": "yuan_014.jpg",
+  "bytes": 66254,
+  "via": "pinyin-guess"
+ },
+ "yuan_016": {
+  "id": "yuan_016",
+  "name": "郑元祐",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/zhengyuanyou.jpg",
+  "variant": "郑元祐",
+  "file": "yuan_016.jpg",
+  "bytes": 41883,
+  "via": "pinyin-guess"
+ },
+ "yuan_019": {
+  "id": "yuan_019",
+  "name": "陈镒",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/chenyi.jpg",
+  "variant": "陈镒",
+  "file": "yuan_019.jpg",
+  "bytes": 75046,
+  "via": "pinyin-guess"
+ },
+ "yuan_021": {
+  "id": "yuan_021",
+  "name": "黄溍",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/huangjin.jpg",
+  "variant": "黄溍",
+  "file": "yuan_021.jpg",
+  "bytes": 41124,
+  "via": "pinyin-guess"
+ },
+ "mazhiyuan": {
+  "id": "mazhiyuan",
+  "name": "马致远",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/mazhiyuan.jpg",
+  "variant": "马致远",
+  "file": "mazhiyuan.jpg",
+  "bytes": 26868,
+  "via": "pinyin-guess"
+ },
+ "yuan_026": {
+  "id": "yuan_026",
+  "name": "刘鹗",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/liue.jpg",
+  "variant": "刘鹗",
+  "file": "yuan_026.jpg",
+  "bytes": 42919,
+  "via": "pinyin-guess"
+ },
+ "yuan_027": {
+  "id": "yuan_027",
+  "name": "李孝光",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/lixiaoguang.jpg",
+  "variant": "李孝光",
+  "file": "yuan_027.jpg",
+  "bytes": 44552,
+  "via": "pinyin-guess"
+ },
+ "yuan_028": {
+  "id": "yuan_028",
+  "name": "黄玠",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/huangjie.jpg",
+  "variant": "黄玠",
+  "file": "yuan_028.jpg",
+  "bytes": 14916,
+  "via": "pinyin-guess"
+ },
+ "yuan_030": {
+  "id": "yuan_030",
+  "name": "周权",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/zhouquan.jpg",
+  "variant": "周权",
+  "file": "yuan_030.jpg",
+  "bytes": 65483,
+  "via": "pinyin-guess"
+ },
+ "yuan_032": {
+  "id": "yuan_032",
+  "name": "王实甫",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/wangshifu.jpg",
+  "variant": "王实甫",
+  "file": "yuan_032.jpg",
+  "bytes": 13830,
+  "via": "pinyin-guess"
+ },
+ "yuan_033": {
+  "id": "yuan_033",
+  "name": "白朴",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/baipu.jpg",
+  "variant": "白朴",
+  "file": "yuan_033.jpg",
+  "bytes": 45404,
+  "via": "pinyin-guess"
+ },
+ "yuan_041": {
+  "id": "yuan_041",
+  "name": "陈孚",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/chenfu.jpg",
+  "variant": "陈孚",
+  "file": "yuan_041.jpg",
+  "bytes": 41653,
+  "via": "pinyin-guess"
+ },
+ "yuan_044": {
+  "id": "yuan_044",
+  "name": "段成己",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/duanchengji.jpg",
+  "variant": "段成己",
+  "file": "yuan_044.jpg",
+  "bytes": 42557,
+  "via": "pinyin-guess"
+ },
+ "yuan_045": {
+  "id": "yuan_045",
+  "name": "郑光祖",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/zhengguangzu.jpg",
+  "variant": "郑光祖",
+  "file": "yuan_045.jpg",
+  "bytes": 52333,
+  "via": "pinyin-guess"
+ },
+ "yuan_050": {
+  "id": "yuan_050",
+  "name": "马祖常",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/mazuchang.jpg",
+  "variant": "马祖常",
+  "file": "yuan_050.jpg",
+  "bytes": 47584,
+  "via": "pinyin-guess"
+ },
+ "yuan_051": {
+  "id": "yuan_051",
+  "name": "刘因",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/liuyin.jpg",
+  "variant": "刘因",
+  "file": "yuan_051.jpg",
+  "bytes": 65736,
+  "via": "pinyin-guess"
+ },
+ "yuan_054": {
+  "id": "yuan_054",
+  "name": "魏初",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/weichu.jpg",
+  "variant": "魏初",
+  "file": "yuan_054.jpg",
+  "bytes": 26616,
+  "via": "pinyin-guess"
+ },
+ "yuan_055": {
+  "id": "yuan_055",
+  "name": "乃贤",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/naixian.jpg",
+  "variant": "乃贤",
+  "file": "yuan_055.jpg",
+  "bytes": 41064,
+  "via": "pinyin-guess"
+ },
+ "yuan_061": {
+  "id": "yuan_061",
+  "name": "杨景贤",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/yangjingxian.jpg",
+  "variant": "杨景贤",
+  "file": "yuan_061.jpg",
+  "bytes": 75888,
+  "via": "pinyin-guess"
+ },
+ "yuan_066": {
+  "id": "yuan_066",
+  "name": "张可久",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/zhangkejiu.jpg",
+  "variant": "张可久",
+  "file": "yuan_066.jpg",
+  "bytes": 20376,
+  "via": "pinyin-guess"
+ },
+ "yuan_070": {
+  "id": "yuan_070",
+  "name": "段克己",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/duankeji.jpg",
+  "variant": "段克己",
+  "file": "yuan_070.jpg",
+  "bytes": 36183,
+  "via": "pinyin-guess"
+ },
+ "yuan_071": {
+  "id": "yuan_071",
+  "name": "吴镇",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/wuzhen.jpg",
+  "variant": "吴镇",
+  "file": "yuan_071.jpg",
+  "bytes": 84128,
+  "via": "pinyin-guess"
+ },
+ "yuan_072": {
+  "id": "yuan_072",
+  "name": "揭傒斯",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/jiexisi.jpg",
+  "variant": "揭傒斯",
+  "file": "yuan_072.jpg",
+  "bytes": 40882,
+  "via": "pinyin-guess"
+ },
+ "yuan_075": {
+  "id": "yuan_075",
+  "name": "杨载",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/yangzai.jpg",
+  "variant": "杨载",
+  "file": "yuan_075.jpg",
+  "bytes": 39127,
+  "via": "pinyin-guess"
+ },
+ "yuan_077": {
+  "id": "yuan_077",
+  "name": "丘处机",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/qiuchuji.jpg",
+  "variant": "丘处机",
+  "file": "yuan_077.jpg",
+  "bytes": 16019,
+  "via": "pinyin-guess"
+ },
+ "yuan_079": {
+  "id": "yuan_079",
+  "name": "岑安卿",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/cenanqing.jpg",
+  "variant": "岑安卿",
+  "file": "yuan_079.jpg",
+  "bytes": 67452,
+  "via": "pinyin-guess"
+ },
+ "yuan_080": {
+  "id": "yuan_080",
+  "name": "高文秀",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/gaowenxiu.jpg",
+  "variant": "高文秀",
+  "file": "yuan_080.jpg",
+  "bytes": 91952,
+  "via": "pinyin-guess"
+ },
+ "yuan_081": {
+  "id": "yuan_081",
+  "name": "乔吉",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/qiaoji.jpg",
+  "variant": "乔吉",
+  "file": "yuan_081.jpg",
+  "bytes": 29025,
+  "via": "pinyin-guess"
+ },
+ "yuan_082": {
+  "id": "yuan_082",
+  "name": "冯子振",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/fengzizhen.jpg",
+  "variant": "冯子振",
+  "file": "yuan_082.jpg",
+  "bytes": 67372,
+  "via": "pinyin-guess"
+ },
+ "yuan_083": {
+  "id": "yuan_083",
+  "name": "吾丘衍",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/wuqiuyan.jpg",
+  "variant": "吾丘衍",
+  "file": "yuan_083.jpg",
+  "bytes": 39275,
+  "via": "pinyin-guess"
+ },
+ "yuan_084": {
+  "id": "yuan_084",
+  "name": "郝经",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/haojing.jpg",
+  "variant": "郝经",
+  "file": "yuan_084.jpg",
+  "bytes": 31295,
+  "via": "pinyin-guess"
+ },
+ "yuan_085": {
+  "id": "yuan_085",
+  "name": "尹志平",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/yinzhiping.jpg",
+  "variant": "尹志平",
+  "file": "yuan_085.jpg",
+  "bytes": 39282,
+  "via": "pinyin-guess"
+ },
+ "yuan_086": {
+  "id": "yuan_086",
+  "name": "柳贯",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/liuguan.jpg",
+  "variant": "柳贯",
+  "file": "yuan_086.jpg",
+  "bytes": 72972,
+  "via": "pinyin-guess"
+ },
+ "yuan_092": {
+  "id": "yuan_092",
+  "name": "谭处端",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/tanchuduan.jpg",
+  "variant": "谭处端",
+  "file": "yuan_092.jpg",
+  "bytes": 85243,
+  "via": "pinyin-guess"
+ },
+ "yuan_095": {
+  "id": "yuan_095",
+  "name": "刘敏中",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/liuminzhong.jpg",
+  "variant": "刘敏中",
+  "file": "yuan_095.jpg",
+  "bytes": 78156,
+  "via": "pinyin-guess"
+ },
+ "yuan_096": {
+  "id": "yuan_096",
+  "name": "吴师道",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/wushidao.jpg",
+  "variant": "吴师道",
+  "file": "yuan_096.jpg",
+  "bytes": 36002,
+  "via": "pinyin-guess"
+ },
+ "yuan_098": {
+  "id": "yuan_098",
+  "name": "刘秉忠",
+  "dyn": "元",
+  "url": "https://oss.guwendao.net/authorImg300/liubingzhong.jpg",
+  "variant": "刘秉忠",
+  "file": "yuan_098.jpg",
+  "bytes": 72057,
+  "via": "pinyin-guess"
+ },
+ "ming_006": {
+  "id": "ming_006",
+  "name": "刘崧",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/liusong.jpg",
+  "variant": "刘崧",
+  "file": "ming_006.jpg",
+  "bytes": 82191,
+  "via": "pinyin-guess"
+ },
+ "ming_007": {
+  "id": "ming_007",
+  "name": "陈献章",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/chenxianzhang.jpg",
+  "variant": "陈献章",
+  "file": "ming_007.jpg",
+  "bytes": 85314,
+  "via": "pinyin-guess"
+ },
+ "ming_008": {
+  "id": "ming_008",
+  "name": "杨士奇",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/yangshiqi.jpg",
+  "variant": "杨士奇",
+  "file": "ming_008.jpg",
+  "bytes": 76418,
+  "via": "pinyin-guess"
+ },
+ "ming_009": {
+  "id": "ming_009",
+  "name": "李梦阳",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/limengyang.jpg",
+  "variant": "李梦阳",
+  "file": "ming_009.jpg",
+  "bytes": 62560,
+  "via": "pinyin-guess"
+ },
+ "ming_010": {
+  "id": "ming_010",
+  "name": "顾璘",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/gulin.jpg",
+  "variant": "顾璘",
+  "file": "ming_010.jpg",
+  "bytes": 60030,
+  "via": "pinyin-guess"
+ },
+ "ming_013": {
+  "id": "ming_013",
+  "name": "郭之奇",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/guozhiqi.jpg",
+  "variant": "郭之奇",
+  "file": "ming_013.jpg",
+  "bytes": 52205,
+  "via": "pinyin-guess"
+ },
+ "ming_014": {
+  "id": "ming_014",
+  "name": "袁宏道",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/yuanhongdao.jpg",
+  "variant": "袁宏道",
+  "file": "ming_014.jpg",
+  "bytes": 40609,
+  "via": "pinyin-guess"
+ },
+ "ming_017": {
+  "id": "ming_017",
+  "name": "成鹫",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/chengjiu.jpg",
+  "variant": "成鹫",
+  "file": "ming_017.jpg",
+  "bytes": 32793,
+  "via": "pinyin-guess"
+ },
+ "ming_018": {
+  "id": "ming_018",
+  "name": "孙承恩",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/sunchengen.jpg",
+  "variant": "孙承恩",
+  "file": "ming_018.jpg",
+  "bytes": 50704,
+  "via": "pinyin-guess"
+ },
+ "ming_022": {
+  "id": "ming_022",
+  "name": "何景明",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/hejingming.jpg",
+  "variant": "何景明",
+  "file": "ming_022.jpg",
+  "bytes": 13169,
+  "via": "pinyin-guess"
+ },
+ "ming_024": {
+  "id": "ming_024",
+  "name": "湛若水",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/zhanruoshui.jpg",
+  "variant": "湛若水",
+  "file": "ming_024.jpg",
+  "bytes": 62282,
+  "via": "pinyin-guess"
+ },
+ "ming_028": {
+  "id": "ming_028",
+  "name": "边贡",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/biangong.jpg",
+  "variant": "边贡",
+  "file": "ming_028.jpg",
+  "bytes": 60264,
+  "via": "pinyin-guess"
+ },
+ "ming_029": {
+  "id": "ming_029",
+  "name": "杨慎",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/yangshen.jpg",
+  "variant": "杨慎",
+  "file": "ming_029.jpg",
+  "bytes": 26417,
+  "via": "pinyin-guess"
+ },
+ "ming_030": {
+  "id": "ming_030",
+  "name": "李攀龙",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/lipanlong.jpg",
+  "variant": "李攀龙",
+  "file": "ming_030.jpg",
+  "bytes": 36661,
+  "via": "pinyin-guess"
+ },
+ "ming_033": {
+  "id": "ming_033",
+  "name": "陆深",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/lushen.jpg",
+  "variant": "陆深",
+  "file": "ming_033.jpg",
+  "bytes": 60541,
+  "via": "pinyin-guess"
+ },
+ "ming_036": {
+  "id": "ming_036",
+  "name": "薛瑄",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/xuexuan.jpg",
+  "variant": "薛瑄",
+  "file": "ming_036.jpg",
+  "bytes": 71920,
+  "via": "pinyin-guess"
+ },
+ "ming_039": {
+  "id": "ming_039",
+  "name": "黄衷",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/huangzhong.jpg",
+  "variant": "黄衷",
+  "file": "ming_039.jpg",
+  "bytes": 58671,
+  "via": "pinyin-guess"
+ },
+ "ming_044": {
+  "id": "ming_044",
+  "name": "谢榛",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/xiezhen.jpg",
+  "variant": "谢榛",
+  "file": "ming_044.jpg",
+  "bytes": 35742,
+  "via": "pinyin-guess"
+ },
+ "ming_048": {
+  "id": "ming_048",
+  "name": "庄昶",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/zhuangchang.jpg",
+  "variant": "庄昶",
+  "file": "ming_048.jpg",
+  "bytes": 64835,
+  "via": "pinyin-guess"
+ },
+ "ming_051": {
+  "id": "ming_051",
+  "name": "张弼",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/zhangbi.jpg",
+  "variant": "张弼",
+  "file": "ming_051.jpg",
+  "bytes": 43965,
+  "via": "pinyin-guess"
+ },
+ "ming_052": {
+  "id": "ming_052",
+  "name": "沈周",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/shenzhou.jpg",
+  "variant": "沈周",
+  "file": "ming_052.jpg",
+  "bytes": 72610,
+  "via": "pinyin-guess"
+ },
+ "ming_059": {
+  "id": "ming_059",
+  "name": "杨维桢",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/yangweizhen.jpg",
+  "variant": "杨维桢",
+  "file": "ming_059.jpg",
+  "bytes": 34350,
+  "via": "pinyin-guess"
+ },
+ "ming_060": {
+  "id": "ming_060",
+  "name": "王鏊",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/wangao.jpg",
+  "variant": "王鏊",
+  "file": "ming_060.jpg",
+  "bytes": 86336,
+  "via": "pinyin-guess"
+ },
+ "ming_063": {
+  "id": "ming_063",
+  "name": "文徵明",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/wenzhengming.jpg",
+  "variant": "文徵明",
+  "file": "ming_063.jpg",
+  "bytes": 68777,
+  "via": "pinyin-guess"
+ },
+ "ming_065": {
+  "id": "ming_065",
+  "name": "高启",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/gaoqi.jpg",
+  "variant": "高启",
+  "file": "ming_065.jpg",
+  "bytes": 65529,
+  "via": "pinyin-guess"
+ },
+ "ming_066": {
+  "id": "ming_066",
+  "name": "宗臣",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/zongchen.jpg",
+  "variant": "宗臣",
+  "file": "ming_066.jpg",
+  "bytes": 68087,
+  "via": "pinyin-guess"
+ },
+ "ming_069": {
+  "id": "ming_069",
+  "name": "李昌祺",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/lichangqi.jpg",
+  "variant": "李昌祺",
+  "file": "ming_069.jpg",
+  "bytes": 60285,
+  "via": "pinyin-guess"
+ },
+ "ming_071": {
+  "id": "ming_071",
+  "name": "金幼孜",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/jinyouzi.jpg",
+  "variant": "金幼孜",
+  "file": "ming_071.jpg",
+  "bytes": 97560,
+  "via": "pinyin-guess"
+ },
+ "ming_074": {
+  "id": "ming_074",
+  "name": "韩雍",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/hanyong.jpg",
+  "variant": "韩雍",
+  "file": "ming_074.jpg",
+  "bytes": 56085,
+  "via": "pinyin-guess"
+ },
+ "ming_080": {
+  "id": "ming_080",
+  "name": "祝允明",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/zhuyunming.jpg",
+  "variant": "祝允明",
+  "file": "ming_080.jpg",
+  "bytes": 59024,
+  "via": "pinyin-guess"
+ },
+ "ming_081": {
+  "id": "ming_081",
+  "name": "郭谏臣",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/guojianchen.jpg",
+  "variant": "郭谏臣",
+  "file": "ming_081.jpg",
+  "bytes": 45115,
+  "via": "pinyin-guess"
+ },
+ "ming_083": {
+  "id": "ming_083",
+  "name": "王绂",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/wangfu.jpg",
+  "variant": "王绂",
+  "file": "ming_083.jpg",
+  "bytes": 33445,
+  "via": "pinyin-guess"
+ },
+ "ming_084": {
+  "id": "ming_084",
+  "name": "薛蕙",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/xuehui.jpg",
+  "variant": "薛蕙",
+  "file": "ming_084.jpg",
+  "bytes": 57459,
+  "via": "pinyin-guess"
+ },
+ "ming_087": {
+  "id": "ming_087",
+  "name": "胡俨",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/huyan.jpg",
+  "variant": "胡俨",
+  "file": "ming_087.jpg",
+  "bytes": 12682,
+  "via": "pinyin-guess"
+ },
+ "ming_093": {
+  "id": "ming_093",
+  "name": "唐顺之",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/tangshunzhi.jpg",
+  "variant": "唐顺之",
+  "file": "ming_093.jpg",
+  "bytes": 56092,
+  "via": "pinyin-guess"
+ },
+ "ming_096": {
+  "id": "ming_096",
+  "name": "王守仁",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/wangshouren.jpg",
+  "variant": "王守仁",
+  "file": "ming_096.jpg",
+  "bytes": 27622,
+  "via": "pinyin-guess"
+ },
+ "ming_097": {
+  "id": "ming_097",
+  "name": "董其昌",
+  "dyn": "明",
+  "url": "https://oss.guwendao.net/authorImg300/dongqichang.jpg",
+  "variant": "董其昌",
+  "file": "ming_097.jpg",
+  "bytes": 56107,
+  "via": "pinyin-guess"
+ },
+ "qing_001": {
+  "id": "qing_001",
+  "name": "屈大均",
+  "dyn": "清",
+  "url": "https://oss.guwendao.net/authorImg300/qudajun.jpg",
+  "variant": "屈大均",
+  "file": "qing_001.jpg",
+  "bytes": 71045,
+  "via": "pinyin-guess"
+ },
+ "qing_002": {
+  "id": "qing_002",
+  "name": "陈恭尹",
+  "dyn": "清",
+  "url": "https://oss.guwendao.net/authorImg300/chengongyin.jpg",
+  "variant": "陈恭尹",
+  "file": "qing_002.jpg",
+  "bytes": 98841,
+  "via": "pinyin-guess"
+ },
+ "qing_003": {
+  "id": "qing_003",
+  "name": "丘逢甲",
+  "dyn": "清",
+  "url": "https://oss.guwendao.net/authorImg300/qiufengjia.jpg",
+  "variant": "丘逢甲",
+  "file": "qing_003.jpg",
+  "bytes": 53235,
+  "via": "pinyin-guess"
+ },
+ "qing_004": {
+  "id": "qing_004",
+  "name": "陈维崧",
+  "dyn": "清",
+  "url": "https://oss.guwendao.net/authorImg300/chenweisong.jpg",
+  "variant": "陈维崧",
+  "file": "qing_004.jpg",
+  "bytes": 50119,
+  "via": "pinyin-guess"
+ },
+ "qing_005": {
+  "id": "qing_005",
+  "name": "王夫之",
+  "dyn": "清",
+  "url": "https://oss.guwendao.net/authorImg300/wangfuzhi.jpg",
+  "variant": "王夫之",
+  "file": "qing_005.jpg",
+  "bytes": 51363,
+  "via": "pinyin-guess"
+ },
+ "qing_009": {
+  "id": "qing_009",
+  "name": "黄遵宪",
+  "dyn": "清",
+  "url": "https://oss.guwendao.net/authorImg300/huangzunxian.jpg",
+  "variant": "黄遵宪",
+  "file": "qing_009.jpg",
+  "bytes": 54917,
+  "via": "pinyin-guess"
+ },
+ "qing_010": {
+  "id": "qing_010",
+  "name": "孙原湘",
+  "dyn": "清",
+  "url": "https://oss.guwendao.net/authorImg300/sunyuanxiang.jpg",
+  "variant": "孙原湘",
+  "file": "qing_010.jpg",
+  "bytes": 42941,
+  "via": "pinyin-guess"
+ },
+ "qing_022": {
+  "id": "qing_022",
+  "name": "毛奇龄",
+  "dyn": "清",
+  "url": "https://oss.guwendao.net/authorImg300/maoqiling.jpg",
+  "variant": "毛奇龄",
+  "file": "qing_022.jpg",
+  "bytes": 65553,
+  "via": "pinyin-guess"
+ },
+ "qing_025": {
+  "id": "qing_025",
+  "name": "洪亮吉",
+  "dyn": "清",
+  "url": "https://oss.guwendao.net/authorImg300/hongliangji.jpg",
+  "variant": "洪亮吉",
+  "file": "qing_025.jpg",
+  "bytes": 97343,
+  "via": "pinyin-guess"
+ },
+ "qing_026": {
+  "id": "qing_026",
+  "name": "吴绮",
+  "dyn": "清",
+  "url": "https://oss.guwendao.net/authorImg300/wuqi.jpg",
+  "variant": "吴绮",
+  "file": "qing_026.jpg",
+  "bytes": 59678,
+  "via": "pinyin-guess"
+ },
+ "qing_031": {
+  "id": "qing_031",
+  "name": "尤侗",
+  "dyn": "清",
+  "url": "https://oss.guwendao.net/authorImg300/youdong.jpg",
+  "variant": "尤侗",
+  "file": "qing_031.jpg",
+  "bytes": 62106,
+  "via": "pinyin-guess"
+ },
+ "qing_038": {
+  "id": "qing_038",
+  "name": "顾太清",
+  "dyn": "清",
+  "url": "https://oss.guwendao.net/authorImg300/gutaiqing.jpg",
+  "variant": "顾太清",
+  "file": "qing_038.jpg",
+  "bytes": 44575,
+  "via": "pinyin-guess"
+ },
+ "qing_039": {
+  "id": "qing_039",
+  "name": "李慈铭",
+  "dyn": "清",
+  "url": "https://oss.guwendao.net/authorImg300/liciming.jpg",
+  "variant": "李慈铭",
+  "file": "qing_039.jpg",
+  "bytes": 32824,
+  "via": "pinyin-guess"
+ },
+ "qing_048": {
+  "id": "qing_048",
+  "name": "张问陶",
+  "dyn": "清",
+  "url": "https://oss.guwendao.net/authorImg300/zhangwentao.jpg",
+  "variant": "张问陶",
+  "file": "qing_048.jpg",
+  "bytes": 96785,
+  "via": "pinyin-guess"
+ },
+ "qing_049": {
+  "id": "qing_049",
+  "name": "严遂成",
+  "dyn": "清",
+  "url": "https://oss.guwendao.net/authorImg300/yansuicheng.jpg",
+  "variant": "严遂成",
+  "file": "qing_049.jpg",
+  "bytes": 42552,
+  "via": "pinyin-guess"
+ },
+ "qing_055": {
+  "id": "qing_055",
+  "name": "吴藻",
+  "dyn": "清",
+  "url": "https://oss.guwendao.net/authorImg300/wuzao.jpg",
+  "variant": "吴藻",
+  "file": "qing_055.jpg",
+  "bytes": 35470,
+  "via": "pinyin-guess"
+ },
+ "qing_057": {
+  "id": "qing_057",
+  "name": "朱彝尊",
+  "dyn": "清",
+  "url": "https://oss.guwendao.net/authorImg300/zhuyizun.jpg",
+  "variant": "朱彝尊",
+  "file": "qing_057.jpg",
+  "bytes": 99520,
+  "via": "pinyin-guess"
+ },
+ "qing_059": {
+  "id": "qing_059",
+  "name": "龚鼎孳",
+  "dyn": "清",
+  "url": "https://oss.guwendao.net/authorImg300/gongdingzi.jpg",
+  "variant": "龚鼎孳",
+  "file": "qing_059.jpg",
+  "bytes": 62670,
+  "via": "pinyin-guess"
+ },
+ "qing_060": {
+  "id": "qing_060",
+  "name": "蒋士铨",
+  "dyn": "清",
+  "url": "https://oss.guwendao.net/authorImg300/jiangshiquan.jpg",
+  "variant": "蒋士铨",
+  "file": "qing_060.jpg",
+  "bytes": 64171,
+  "via": "pinyin-guess"
+ },
+ "qing_063": {
+  "id": "qing_063",
+  "name": "宋琬",
+  "dyn": "清",
+  "url": "https://oss.guwendao.net/authorImg300/songwan.jpg",
+  "variant": "宋琬",
+  "file": "qing_063.jpg",
+  "bytes": 41505,
+  "via": "pinyin-guess"
+ },
+ "qing_064": {
+  "id": "qing_064",
+  "name": "李希圣",
+  "dyn": "清",
+  "url": "https://oss.guwendao.net/authorImg300/lixisheng.jpg",
+  "variant": "李希圣",
+  "file": "qing_064.jpg",
+  "bytes": 38713,
+  "via": "pinyin-guess"
+ },
+ "qing_065": {
+  "id": "qing_065",
+  "name": "俞樾",
+  "dyn": "清",
+  "url": "https://oss.guwendao.net/authorImg300/yuyue.jpg",
+  "variant": "俞樾",
+  "file": "qing_065.jpg",
+  "bytes": 115025,
+  "via": "pinyin-guess"
+ },
+ "qing_066": {
+  "id": "qing_066",
+  "name": "蒋春霖",
+  "dyn": "清",
+  "url": "https://oss.guwendao.net/authorImg300/jiangchunlin.jpg",
+  "variant": "蒋春霖",
+  "file": "qing_066.jpg",
+  "bytes": 32405,
+  "via": "pinyin-guess"
+ },
+ "qing_068": {
+  "id": "qing_068",
+  "name": "项鸿祚",
+  "dyn": "清",
+  "url": "https://oss.guwendao.net/authorImg300/xianghongzuo.jpg",
+  "variant": "项鸿祚",
+  "file": "qing_068.jpg",
+  "bytes": 75412,
+  "via": "pinyin-guess"
+ },
+ "qing_082": {
+  "id": "qing_082",
+  "name": "顾贞观",
+  "dyn": "清",
+  "url": "https://oss.guwendao.net/authorImg300/guzhenguan.jpg",
+  "variant": "顾贞观",
+  "file": "qing_082.jpg",
+  "bytes": 117619,
+  "via": "pinyin-guess"
+ },
+ "qing_086": {
+  "id": "qing_086",
+  "name": "林旭",
+  "dyn": "清",
+  "url": "https://oss.guwendao.net/authorImg300/linxu.jpg",
+  "variant": "林旭",
+  "file": "qing_086.jpg",
+  "bytes": 61622,
+  "via": "pinyin-guess"
+ },
+ "qing_093": {
+  "id": "qing_093",
+  "name": "厉鹗",
+  "dyn": "清",
+  "url": "https://oss.guwendao.net/authorImg300/lie.jpg",
+  "variant": "厉鹗",
+  "file": "qing_093.jpg",
+  "bytes": 46856,
+  "via": "pinyin-guess"
+ },
+ "qing_095": {
+  "id": "qing_095",
+  "name": "况周颐",
+  "dyn": "清",
+  "url": "https://oss.guwendao.net/authorImg300/kuangzhouyi.jpg",
+  "variant": "况周颐",
+  "file": "qing_095.jpg",
+  "bytes": 53264,
+  "via": "pinyin-guess"
+ },
+ "qing_096": {
+  "id": "qing_096",
+  "name": "吴敬梓",
+  "dyn": "清",
+  "url": "https://oss.guwendao.net/authorImg300/wujingzi.jpg",
+  "variant": "吴敬梓",
+  "file": "qing_096.jpg",
+  "bytes": 46813,
+  "via": "pinyin-guess"
+ },
+ "zhengxie": {
+  "id": "zhengxie",
+  "name": "郑燮",
+  "dyn": "清",
+  "url": "https://oss.guwendao.net/authorImg300/zhengxie.jpg",
+  "variant": "郑燮",
+  "file": "zhengxie.jpg",
+  "bytes": 15864,
+  "via": "pinyin-guess"
+ }
+}

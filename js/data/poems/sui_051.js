@@ -1,0 +1,1 @@
+window.POEM_DB=window.POEM_DB||{};POEM_DB["sui_051"]={"n":"明克让","dyn":"隋","poems":[{"t":"咏修竹诗","f":"五言古诗","c":["非君多爱赏，谁贵此贞心。"]}]};

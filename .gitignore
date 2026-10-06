@@ -1,0 +1,19 @@
+# 依赖
+node_modules
+
+# 工具状态
+.mimosa/
+.cursor/
+
+# 服务端运行数据（账号、留言、墙）
+server/data/
+
+# 服务端缩略图缓存
+server/.cache/
+
+# 肖像流水线临时产物（人脸核对拼图）
+tools/_qa_crops/
+tools/_sheet_*.jpg
+
+*.log
+.DS_Store

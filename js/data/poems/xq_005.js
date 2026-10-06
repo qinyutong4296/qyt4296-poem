@@ -1,0 +1,1 @@
+window.POEM_DB=window.POEM_DB||{};POEM_DB["xq_005"]={"n":"南海五仙人","dyn":"先秦","poems":[{"t":"南海仙人祝辞","f":"古风","c":["愿此阛阓，永无荒饥。"]}]};

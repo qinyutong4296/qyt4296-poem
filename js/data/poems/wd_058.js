@@ -1,0 +1,1 @@
+window.POEM_DB=window.POEM_DB||{};POEM_DB["wd_058"]={"n":"赵庆","dyn":"五代","poems":[{"t":"句","f":"七言古诗","c":["迈古文章金鸑鷟，出群行止玉麒麟。"]}]};

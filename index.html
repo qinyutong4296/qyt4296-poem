@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>墨韵诗境 · 关键词赋诗与诗人查询</title>
+<meta name="description" content="以关键词赋诗，品千年诗心。水墨风诗词网站：习历代诗风赋诗、墨馆观画检索、诗笺墙发表、著名诗人诗词与生平查询。">
+<!-- 字体用本机中文字体，不依赖外网 Google Fonts，局域网更稳更快 -->
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body class="on-page-home" data-page="home">
+
+<!-- 各页背景：仅首页急切加载，其余进页再取 -->
+<div class="bg-ink" aria-hidden="true">
+  <img class="bg-ink-img is-on" data-page="home" src="assets/home-ink-bg.jpg" alt="" decoding="async" fetchpriority="high">
+  <img class="bg-ink-img" data-page="create" data-src="assets/page-create-ink-bg.jpg" alt="" decoding="async">
+  <img class="bg-ink-img" data-page="gallery" data-src="assets/page-gallery-ink-bg.jpg" alt="" decoding="async">
+  <img class="bg-ink-img" data-page="poets" data-src="assets/page-poets-ink-bg.jpg" alt="" decoding="async">
+  <img class="bg-ink-img" data-page="board" data-src="assets/page-board-ink-bg.jpg" alt="" decoding="async">
+  <div class="bg-ink-wash"></div>
+</div>
+
+<!-- 顶栏 -->
+<header class="site-header">
+  <div class="brand" id="brand-home">
+    <div class="brand-seal">墨</div>
+    <div class="brand-text">
+      <h1>墨韵诗境</h1>
+      <p>以关键词赋诗 · 品千年诗心</p>
+    </div>
+  </div>
+  <nav class="nav">
+    <button class="nav-tab active" data-page="home">首页</button>
+    <button class="nav-tab" data-page="create">觅句</button>
+    <button class="nav-tab" data-page="gallery">墨馆</button>
+    <button class="nav-tab" data-page="poets">诗人</button>
+    <button class="nav-tab" data-page="board">留言</button>
+  </nav>
+  <button id="user-chip" class="user-chip" hidden title="账号"></button>
+</header>
+
+<main>
+
+  <!-- ============ 首页 ============ -->
+  <section id="page-home" class="page active">
+
+    <!-- 卷首：名句 -->
+    <div class="hero">
+      <div class="hero-frame">
+        <div class="hero-corner tl"></div><div class="hero-corner tr"></div>
+        <div class="hero-corner bl"></div><div class="hero-corner br"></div>
+        <p class="hero-label">千古名句</p>
+        <div id="hero-mingju" class="hero-mingju vertical" title="点击换一句"></div>
+        <p id="hero-source" class="hero-source"></p>
+      </div>
+      <div class="hero-side vertical" aria-hidden="true">
+        <span>笔落惊风雨</span><span>诗成泣鬼神</span>
+      </div>
+    </div>
+
+    <!-- 名篇 -->
+    <div class="section">
+      <div class="section-head">
+        <h2><span class="brush-dot"></span>名篇选萃</h2>
+        <div class="section-head-right">
+          <span id="featured-count" class="count"></span>
+          <button id="btn-refresh-featured" class="btn btn-ghost">换一批</button>
+        </div>
+      </div>
+      <div class="chips-label">按朝代</div>
+      <div id="dynasty-chips" class="chips"></div>
+      <div class="chips-label">按类型</div>
+      <div id="tag-chips" class="chips"></div>
+      <div id="featured-grid" class="poem-grid"></div>
+    </div>
+
+    <!-- 墨馆入口 -->
+    <div class="section">
+      <div class="section-head">
+        <h2><span class="brush-dot"></span>墨馆观画</h2>
+        <button type="button" class="btn btn-ghost" id="goto-gallery">进入墨馆</button>
+      </div>
+      <p class="section-sub" style="margin-bottom:14px">历代公有领域水墨真迹一馆汇集，可检索画名、画家与意象，点开细观。</p>
+      <div id="home-gallery-preview" class="gallery-grid home-gallery-preview"></div>
+    </div>
+
+    <!-- 诗笺墙 -->
+    <div class="section">
+      <div class="section-head">
+        <h2><span class="brush-dot"></span>诗笺墙 <small id="wall-count" class="count"></small></h2>
+        <p class="section-sub">来客以关键词赋诗，择其得意者张贴于此（存于本站服务器，局域网同好共见）</p>
+      </div>
+      <div id="wall-grid" class="wall-grid"></div>
+    </div>
+
+  </section>
+
+  <!-- ============ 觅句 ============ -->
+  <section id="page-create" class="page">
+
+    <div class="create-intro">
+      <h2 class="vertical-title">觅 句</h2>
+      <div class="create-intro-text">
+        <p>输入一两个关键词，如「月亮」「思乡」「梅」「江南」，</p>
+        <p>引擎习全站历代诗词之语，依所选朝代与体裁，当场赋诗一首，并配水墨一幅、赏析一段。</p>
+      </div>
+    </div>
+
+    <div class="create-form paper-card">
+      <div class="form-row">
+        <label>关键词</label>
+        <input id="kw-input" type="text" placeholder="例：月亮 思乡　／　梅　／　江南 春" maxlength="24">
+      </div>
+      <div class="form-row">
+        <label>体裁</label>
+        <select id="form-select"></select>
+      </div>
+      <div class="form-row">
+        <label>风格</label>
+        <select id="style-select"></select>
+      </div>
+      <div class="form-row">
+        <label>意境</label>
+        <select id="theme-select"></select>
+      </div>
+      <button id="btn-generate" class="btn btn-ink big">挥毫赋诗</button>
+      <div class="kw-suggests">
+        <span>试试：</span>
+        <button class="kw-suggest" data-kw="月亮 思乡">月亮 思乡</button>
+        <button class="kw-suggest" data-kw="梅">梅</button>
+        <button class="kw-suggest" data-kw="江南 春">江南 春</button>
+        <button class="kw-suggest" data-kw="雪 边塞">雪 边塞</button>
+        <button class="kw-suggest" data-kw="相思">相思</button>
+        <button class="kw-suggest" data-kw="秋 雨">秋 雨</button>
+        <button class="kw-suggest" data-kw="竹 禅">竹 禅</button>
+      </div>
+    </div>
+
+    <div id="result-empty" class="result-empty">
+      <svg viewBox="0 0 200 160" class="empty-brush">
+        <path d="M40 130 Q 90 60 150 40 Q 120 80 70 132 Z" fill="#d8d2c0"/>
+        <path d="M60 138 Q 105 90 160 60" stroke="#8f8a78" stroke-width="3" fill="none" stroke-linecap="round"/>
+        <circle cx="155" cy="42" r="6" fill="#9e2b25" opacity="0.7"/>
+      </svg>
+      <p>尚未着墨。输入关键词，点击「挥毫赋诗」。</p>
+    </div>
+
+    <div id="result-box" class="result-box" style="display:none">
+      <div class="result-scroll">
+        <div class="result-art" id="result-art"></div>
+        <div class="result-poem">
+          <div class="result-poem-head">
+            <h3 id="result-title"></h3>
+            <span id="result-form" class="form-tag"></span>
+          </div>
+          <div id="result-lines" class="result-lines t1"></div>
+          <p class="result-prose" id="result-prose"></p>
+        </div>
+      </div>
+      <div class="result-notes paper-card">
+        <h5>诗话 · 配文</h5>
+        <p id="result-appreciation"></p>
+      </div>
+      <div class="result-actions">
+        <button id="btn-regenerate" class="btn btn-ink">再赋一首</button>
+        <button id="btn-copy" class="btn btn-ghost">复制诗文</button>
+        <button id="btn-publish" class="btn btn-red">发表到诗笺墙</button>
+      </div>
+    </div>
+
+  </section>
+
+  <!-- ============ 墨馆 · 水墨画展 ============ -->
+  <section id="page-gallery" class="page page-gallery">
+    <div class="gallery-head">
+      <h2 class="vertical-title">墨 馆</h2>
+      <div class="gallery-head-text">
+        <p>汇历代公有领域中国书画 <b id="gallery-total">…</b> 幅，可按画名、画家、意象检索，</p>
+        <p>点开画幅细观题跋与画意；觅句配图亦自此馆择最契者。</p>
+      </div>
+    </div>
+
+    <div class="gallery-search-box">
+      <input id="gallery-search" type="text" placeholder="搜寻画名、画家、朝代或意象，如「范宽」「梅」「月夜」「溪山」" autocomplete="off">
+      <button id="gallery-clear" class="btn btn-ghost" type="button" hidden>清空</button>
+    </div>
+
+    <div class="chips-label">按朝代</div>
+    <div id="gallery-dynasty-chips" class="chips"></div>
+    <div class="chips-label">按意象</div>
+    <div id="gallery-motif-chips" class="chips"></div>
+
+    <div class="gallery-toolbar">
+      <span id="gallery-count" class="count"></span>
+      <div class="gallery-sort">
+        <button type="button" class="chip on" data-gsort="dynasty">按朝代</button>
+        <button type="button" class="chip" data-gsort="artist">按画家</button>
+        <button type="button" class="chip" data-gsort="title">按画名</button>
+      </div>
+    </div>
+
+    <div id="gallery-grid" class="gallery-grid"></div>
+    <div class="gallery-more-wrap">
+      <button id="gallery-more" class="btn btn-ghost" type="button" hidden>再展一批</button>
+    </div>
+  </section>
+
+  <!-- ============ 诗人 ============ -->
+  <section id="page-poets" class="page">
+    <div class="poets-head">
+      <h2 class="vertical-title">诗 人</h2>
+      <div class="poets-head-text">
+        <p>自先秦至明清，录诗人 <b id="stat-poets">…</b> 位，收诗词 <b id="stat-poems">…</b> 首，</p>
+        <p>可检索诗人名号、诗词题目乃至只言片语，亦可按朝代浏览。</p>
+      </div>
+    </div>
+    <div class="poet-search-box">
+      <input id="poet-search" type="text" placeholder="检索诗人、诗题或诗句，如「李白」「明月几时有」「床前明月光」">
+    </div>
+    <div id="poet-dynasty-chips" class="chips"></div>
+    <div id="poet-grid" class="poet-grid"></div>
+    <div id="poem-search-result" class="section" style="display:none">
+      <div class="section-head"><h2><span class="brush-dot"></span>相关诗词</h2></div>
+      <div id="poem-search-grid" class="poem-grid"></div>
+    </div>
+  </section>
+  <!-- ============ 留言板 ============ -->
+  <section id="page-board" class="page">
+    <div class="create-intro">
+      <h2 class="vertical-title">留 言</h2>
+      <div class="create-intro-text">
+        <p>过境留痕：一句话、一句心爱的诗、一声问候，</p>
+        <p>皆可题于此板，与往来墨客神交。留言存于本站服务器，局域网同好共见。</p>
+      </div>
+    </div>
+
+    <div class="paper-card board-form">
+      <div class="board-form-head">
+        <span class="board-sign">将以「<b id="board-name">无名墨客</b>」落款</span>
+        <span class="count" id="board-len">0 / 200</span>
+      </div>
+      <textarea id="board-input" rows="3" maxlength="200" placeholder="题字于此……（如：今夜月色真好，抄一句「明月松间照」赠往来墨客）"></textarea>
+      <div class="board-form-actions">
+        <label class="board-applychk" title="勾选后，此留言将作为应聘管理员的申请，站长可见">
+          <input type="checkbox" id="board-applychk">应聘管理员
+        </label>
+        <button id="board-submit" class="btn btn-ink">落 笔</button>
+      </div>
+      <p class="board-applynote">想当管理员的墨客，可勾选「应聘管理员」留言自荐 —— 站长在此板上便能见到，择贤任用。</p>
+    </div>
+
+    <div class="section">
+      <div class="section-head">
+        <h2><span class="brush-dot"></span>往来墨迹 <small id="board-count" class="count"></small></h2>
+        <p class="section-sub">新迹在上；自己的留言可随时取下，站长可整饬全板</p>
+      </div>
+      <div id="board-grid" class="board-grid"></div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="foot-seal">诗</div>
+  <p class="foot-title">墨韵诗境</p>
+      <p>体例与选目取法古诗文网（gushiwen.cn）之制：诗人小传、诗词全文、类型标签、名句赏析，一一备齐。</p>
+      <p class="foot-dim">觅句引擎习全站二十七万余篇历代诗词，依朝代仿其语言风格与遣词造句，即兴而成，仅供遣兴；诗笺墙与留言存于本站服务器，局域网同好共见。</p>
+</footer>
+
+<!-- 登录 / 注册门（局域网共享账号，进站先过此门） -->
+<div id="auth-gate" class="auth-gate">
+  <!-- 左右留白处：竖排名句，与入门意境相发 -->
+  <p class="auth-verse auth-verse--left" aria-hidden="true">
+    <span>笔落惊风雨</span><span>诗成泣鬼神</span>
+  </p>
+  <p class="auth-verse auth-verse--right" aria-hidden="true">
+    <span>墨韵入诗境</span><span>一念即千年</span>
+  </p>
+
+  <div class="auth-stage">
+
+    <aside class="auth-card auth-side auth-side--guide">
+      <p class="auth-label">GUIDE · 指南</p>
+      <div class="auth-block">
+        <h5>看得见，就能吟</h5>
+        <p>以关键词觅句：输入「月 思乡」，择一朝诗风，机杼自全站二十七万余篇历代诗词与现代新诗中织句成篇。</p>
+      </div>
+      <div class="auth-block">
+        <h5>三十余种体裁</h5>
+        <p>绝句、律诗、古体、楚辞；词牌自小令至长调，兼收散曲；亦有现代诗自由体，分节抒写，不拘格律。</p>
+      </div>
+      <div class="auth-block">
+        <h5>墨馆观画</h5>
+        <p>历代水墨真迹汇于一馆，可检索画名、画家与意象，点开展赏；觅句配图亦自此择配。</p>
+      </div>
+      <div class="auth-block">
+        <h5>诗笺墙</h5>
+        <p>得意之作张贴上墙，落款流传，与往来墨客共赏。</p>
+      </div>
+      <div class="auth-keys">
+        <span>关键词 · 赋诗</span><span>朝代 · 诗风</span>
+        <span>词牌 · 长短句</span><span>现代 · 自由体</span>
+      </div>
+    </aside>
+
+    <section class="auth-card auth-main">
+      <p class="auth-label">ACCOUNT</p>
+      <div class="auth-seal">墨</div>
+      <h2 class="auth-title">墨韵诗境</h2>
+      <p class="auth-sub">以关键词赋诗 · 品千年诗心</p>
+      <div class="auth-tabs">
+        <button type="button" id="auth-tab-login" class="on">登 录</button>
+        <button type="button" id="auth-tab-register">注 册</button>
+      </div>
+      <label class="auth-field">用户名
+        <input id="auth-name" type="text" placeholder="2 – 20 位中文 / 字母 / 数字" maxlength="20" autocomplete="username">
+      </label>
+      <label class="auth-field">密码
+        <input id="auth-pass" type="password" placeholder="至少 4 位" autocomplete="current-password">
+      </label>
+      <p class="auth-error" id="auth-error"></p>
+      <button type="button" class="auth-go" id="auth-submit">进 入 诗 境</button>
+      <p class="auth-or"><span>或</span></p>
+      <button type="button" class="auth-guest" id="auth-guest">游客进入 · 关页即退出</button>
+    </section>
+
+    <aside class="auth-card auth-side auth-side--keep">
+      <p class="auth-label">KEEP · 保存</p>
+      <div class="auth-block">
+        <h5>账号与墨客</h5>
+        <p>账号存于本站服务器：同一 Wi‑Fi 下注册登录共享；关标签即登出，再开需重新登录。</p>
+      </div>
+      <div class="auth-block">
+        <h5>诗笺墙</h5>
+        <p>诗笺墙与留言板为往来墨客共赏，存于本站、局域网同好共见；发表时落款默认取当前账号。</p>
+      </div>
+      <div class="auth-block">
+        <h5>如何开站</h5>
+        <p>站主双击 start.bat 启动服务；本机与同网墨客用浏览器打开提示地址即可同赏同题。</p>
+      </div>
+      <div class="auth-block">
+        <h5>如何开始</h5>
+        <p>已有账号，登录续此前缘；初来乍到，注册一枚私印，或以游客身分先入诗境一游。</p>
+      </div>
+      <p class="auth-note">进入之后：首页品名篇，觅句以关键词赋诗，墨馆观画，诗人页查生平与作品，留言板上可留墨痕。</p>
+    </aside>
+
+  </div>
+</div>
+
+<!-- 诗人弹窗 -->
+<div id="poet-modal" class="modal">
+  <div class="modal-card">
+    <button class="modal-close">×</button>
+    <div id="poet-modal-body"></div>
+  </div>
+</div>
+
+<!-- 诗词弹窗 -->
+<div id="poem-modal" class="modal">
+  <div class="modal-card wide">
+    <button class="modal-close">×</button>
+    <div id="poem-modal-body"></div>
+  </div>
+</div>
+
+<!-- 墨馆 · 画作鉴赏 -->
+<div id="gallery-modal" class="modal">
+  <div class="modal-card gallery-modal-card">
+    <button class="modal-close">×</button>
+    <div id="gallery-modal-body" class="gallery-modal-body"></div>
+  </div>
+</div>
+
+<!-- 发表弹窗 -->
+<div id="publish-modal" class="modal">
+  <div class="modal-card small">
+    <h3 class="publish-title">发表到诗笺墙</h3>
+    <p class="publish-tip">留一个落款，与往来墨客共赏此作。</p>
+    <input id="publish-name" type="text" placeholder="落款（如：东坡后人 / 无名墨客）" maxlength="12">
+    <div class="publish-actions">
+      <button id="publish-cancel" class="btn btn-ghost">再想想</button>
+      <button id="publish-confirm" class="btn btn-red">张贴</button>
+    </div>
+  </div>
+</div>
+
+<!-- 账号弹窗 -->
+<div id="account-modal" class="modal">
+  <div class="modal-card small">
+    <h3 class="publish-title" id="ac-title">账号</h3>
+    <p class="publish-tip" id="ac-tip">当前身分</p>
+    <div id="ac-body" class="ac-body"></div>
+    <button id="ac-admin" class="btn btn-red ac-admin-btn" hidden>站长后台 · 诗笺墙删改</button>
+    <div class="publish-actions">
+      <button id="ac-logout" class="btn btn-ghost">退出登录</button>
+      <button id="ac-close" class="btn btn-ink">留在此境</button>
+    </div>
+  </div>
+</div>
+
+<!-- 站长后台弹窗（仅站长） -->
+<div id="admin-modal" class="modal">
+  <div class="modal-card">
+    <button class="modal-close">×</button>
+    <div class="admin-head">
+      <span class="admin-glyph">掌</span>
+      <h3 class="publish-title">站长后台</h3>
+    </div>
+    <p class="publish-tip">诗笺墙与留言板删改 · 站长一人专司</p>
+    <div id="admin-stats" class="admin-stats"></div>
+    <div id="admin-applybox" hidden>
+      <h5 class="admin-sub gold">求职管理员 · 待任</h5>
+      <div id="admin-apply" class="admin-list compact"></div>
+    </div>
+    <h5 class="admin-sub">诗笺墙 · 发布之作</h5>
+    <div id="admin-list" class="admin-list"></div>
+    <h5 class="admin-sub">留言板 · 往来墨迹</h5>
+    <div id="admin-board" class="admin-list compact"></div>
+    <div id="admin-rosterbox" hidden>
+      <h5 class="admin-sub">在任管理员 · 站长可撤</h5>
+      <div id="admin-roster" class="admin-list compact"></div>
+    </div>
+    <div class="admin-passrow" id="admin-passrow">
+      <input id="admin-newpass" type="password" placeholder="为站长设新口令（至少 4 位）" maxlength="20">
+      <button id="admin-setpass" class="btn btn-ghost">修改口令</button>
+    </div>
+    <div class="publish-actions">
+      <button id="admin-clear" class="btn btn-ghost">清空诗笺墙</button>
+      <button id="admin-done" class="btn btn-ink">收工</button>
+    </div>
+  </div>
+</div>
+
+<div id="toast"></div>
+
+<script defer src="js/data-poets-tang.js"></script>
+<script defer src="js/data-poets-song.js"></script>
+<script defer src="js/data-poets-other.js"></script>
+<script defer src="js/data/poets-index.js"></script>
+<script defer src="js/data/poet-portraits.js"></script>
+<script defer src="js/data/poet-bio-extra.js"></script>
+<script defer src="js/data-poets.js"></script>
+<script defer src="js/data-corpus.js"></script>
+<script defer src="js/data/style/index.js"></script>
+<script defer src="js/data/ink-gallery.js"></script>
+<script defer src="js/ink-localize.js"></script>
+<script defer src="js/inkart.js"></script>
+<script defer src="js/generator.js"></script>
+<script defer src="js/api.js?v=20261002b"></script>
+<script defer src="js/app.js?v=20261002b"></script>
+</body>
+</html>

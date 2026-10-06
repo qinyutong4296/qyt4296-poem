@@ -1,0 +1,1 @@
+window.POEM_DB=window.POEM_DB||{};POEM_DB["han_046"]={"n":"商丘成","dyn":"汉","poems":[{"t":"【醉歌】","f":"古风","c":["出居安能郁郁。"]}]};
