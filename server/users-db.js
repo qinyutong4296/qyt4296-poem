@@ -5,7 +5,6 @@
  */
 const fs = require("fs");
 const path = require("path");
-const crypto = require("node:crypto");
 const { DatabaseSync } = require("node:sqlite");
 const {
   DATA_DIR,
@@ -35,7 +34,6 @@ function open() {
     );
   `);
   migrateFromJsonIfNeeded();
-  ensureAdminRow();
   return db;
 }
 
@@ -72,20 +70,7 @@ function migrateFromJsonIfNeeded() {
   if (migrated) console.log("  [账号库] 已从 users.json 迁入 " + migrated + " 个账号 → " + DB_PATH);
 }
 
-function ensureAdminRow() {
-  const row = db.prepare("SELECT name FROM users WHERE name = ?").get(ADMIN_NAME);
-  if (row) return;
-  const salt = newSalt();
-  const pass = process.env.ADMIN_PASSWORD ?? crypto.randomBytes(9).toString("base64url");
-  db.prepare(
-    "INSERT INTO users (name, salt, hash, ts, admin) VALUES (?, ?, ?, 0, 1)"
-  ).run(ADMIN_NAME, salt, hashPass(pass, salt));
-  console.log(
-    "[账号库] 已创建站长账号，初始口令 " +
-      pass +
-      "（仅显示一次，登录后请尽快修改；也可用环境变量 ADMIN_PASSWORD 指定）"
-  );
-}
+/* 按要求不创建站长账号：站点不存在可登录的管理员，站长后台仅保留功能代码 */
 
 function ensureAdmin() {
   open();
